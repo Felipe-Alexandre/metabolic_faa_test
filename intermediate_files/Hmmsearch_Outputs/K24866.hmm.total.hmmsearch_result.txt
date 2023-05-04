@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1688      -          K24866               -            6.7e-33  113.4   0.2     1e-32  112.8   0.2   1.2   1   0   0   1   1   0   1 # 1937769 # 1938983 # 1 # ID=1_1688;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.663
+LR130759.1_729       -          K24866               -            2.3e-10   39.2   0.0   2.9e-10   38.9   0.0   1.1   1   0   0   1   1   0   1 # 831704 # 833044 # 1 # ID=1_729;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.676
+LR130759.1_1823      -          K24866               -            6.5e-05   21.3   0.5   8.4e-05   20.9   0.5   1.1   1   0   0   1   1   0   1 # 2073473 # 2074147 # -1 # ID=1_1823;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.661
+LR130759.1_861       -          K24866               -            0.00031   19.1   1.5     0.065   11.4   0.0   2.3   2   0   0   2   2   0   2 # 978322 # 979551 # 1 # ID=1_861;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+LR130759.1_4781      -          K24866               -            0.00055   18.2   0.8     0.025   12.8   0.1   2.1   2   0   0   2   2   0   1 # 5525597 # 5527063 # -1 # ID=1_4781;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.635
+LR130759.1_3880      -          K24866               -             0.0016   16.7   0.5      0.38    8.9   0.1   2.2   2   0   0   2   2   0   2 # 4517260 # 4518444 # 1 # ID=1_3880;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.685
+LR130759.1_3551      -          K24866               -             0.0029   15.9   7.1     0.054   11.7   1.2   2.1   2   0   0   2   2   0   2 # 4132179 # 4133924 # 1 # ID=1_3551;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.651
+OW370493.1_1410      -          K24866               -             0.0046   15.2   0.1    0.0081   14.4   0.0   1.4   2   0   0   2   2   0   1 # 1256077 # 1257009 # 1 # ID=1_1410;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.380
+LR130759.1_1171      -          K24866               -             0.0061   14.8   0.2    0.0096   14.2   0.2   1.2   1   0   0   1   1   0   1 # 1360881 # 1362359 # 1 # ID=1_1171;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.631
+LR130759.1_1728      -          K24866               -              0.017   13.4   0.2     0.024   12.8   0.2   1.1   1   0   0   1   1   0   0 # 1982087 # 1983202 # -1 # ID=1_1728;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.648
+LR130759.1_1507      -          K24866               -              0.039   12.2   0.6     0.071   11.3   0.1   1.6   1   1   0   1   1   0   0 # 1711643 # 1713229 # 1 # ID=1_1507;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+LR130759.1_206       -          K24866               -              0.045   12.0   0.4     0.064   11.4   0.4   1.2   1   0   0   1   1   0   0 # 206632 # 207561 # 1 # ID=1_206;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.666
+LR130759.1_775       -          K24866               -              0.057   11.6   0.0     0.082   11.1   0.0   1.2   1   0   0   1   1   0   0 # 877097 # 878605 # -1 # ID=1_775;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.638
+OX366373.1_1188      -          K24866               -              0.069   11.4   0.0     0.087   11.0   0.0   1.2   1   0   0   1   1   0   0 # 1255981 # 1256985 # 1 # ID=1_1188;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.362
+LR130759.1_1658      -          K24866               -               0.09   11.0   0.1      0.15   10.3   0.1   1.2   1   0   0   1   1   0   0 # 1909198 # 1909872 # -1 # ID=1_1658;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.649
+LR130759.1_2358      -          K24866               -              0.092   10.9   0.1      0.12   10.6   0.1   1.1   1   0   0   1   1   0   0 # 2697695 # 2698417 # 1 # ID=1_2358;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.628
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K24866.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K24866.hmm.total.hmmsearch_result.txt --domT 159.57 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K24866.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:38:59 2023
+# [ok]

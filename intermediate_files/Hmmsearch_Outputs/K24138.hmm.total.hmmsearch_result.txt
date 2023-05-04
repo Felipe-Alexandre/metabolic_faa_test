@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_3388      -          K24138               -             0.0003   19.3   0.0   0.00035   19.1   0.0   1.1   1   0   0   1   1   0   1 # 3940322 # 3940795 # 1 # ID=1_3388;partial=00;start_type=TTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.639
+LR130759.1_2215      -          K24138               -            0.00039   18.9   0.0   0.00043   18.8   0.0   1.1   1   0   0   1   1   0   1 # 2517377 # 2517835 # -1 # ID=1_2215;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.610
+OW370493.1_2086      -          K24138               -            0.00041   18.9   0.0   0.00054   18.5   0.0   1.2   1   0   0   1   1   0   1 # 1886635 # 1887237 # 1 # ID=1_2086;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.345
+OX366373.1_1081      -          K24138               -            0.00093   17.7   0.0    0.0011   17.5   0.0   1.1   1   0   0   1   1   0   1 # 1153006 # 1153473 # 1 # ID=1_1081;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.335
+LR130759.1_2967      -          K24138               -              0.001   17.6   0.0    0.0011   17.5   0.0   1.2   1   0   0   1   1   0   1 # 3431428 # 3431889 # -1 # ID=1_2967;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.636
+LR130759.1_2522      -          K24138               -             0.0045   15.5   0.0    0.0054   15.2   0.0   1.2   1   0   0   1   1   0   1 # 2892621 # 2893208 # -1 # ID=1_2522;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=3-4bp;gc_cont=0.607
+OX366373.1_702       -          K24138               -              0.021   13.3   0.0     0.029   12.8   0.0   1.2   1   0   0   1   1   0   0 # 766661 # 767260 # -1 # ID=1_702;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.343
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K24138.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K24138.hmm.total.hmmsearch_result.txt --domT 206.10 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K24138.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:38:43 2023
+# [ok]

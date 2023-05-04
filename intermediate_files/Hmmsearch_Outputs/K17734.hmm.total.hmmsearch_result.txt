@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_4808      -          K17734               -            4.1e-46  156.9  18.1   4.8e-46  156.6  18.1   1.0   1   0   0   1   1   0   1 # 5561322 # 5562662 # -1 # ID=1_4808;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.679
+LR130759.1_451       -          K17734               -            4.2e-45  153.5  24.8     5e-45  153.3  24.8   1.1   1   0   0   1   1   0   1 # 493632 # 495038 # 1 # ID=1_451;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.678
+LR130759.1_949       -          K17734               -            4.8e-43  146.7  23.2   5.9e-43  146.4  23.2   1.1   1   0   0   1   1   0   1 # 1050078 # 1051463 # -1 # ID=1_949;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.707
+LR130759.1_2441      -          K17734               -            5.4e-41  140.0  12.2     6e-40  136.5  12.2   1.9   1   1   0   1   1   0   1 # 2796843 # 2798591 # 1 # ID=1_2441;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+LR130759.1_4811      -          K17734               -            4.9e-39  133.5  15.2   2.6e-38  131.1  15.2   1.8   1   1   0   1   1   0   1 # 5566545 # 5568203 # -1 # ID=1_4811;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.684
+LR130759.1_2285      -          K17734               -              0.023   12.4   0.5     0.028   12.2   0.5   1.1   1   0   0   1   1   0   0 # 2611147 # 2611758 # 1 # ID=1_2285;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.693
+LR130759.1_1895      -          K17734               -               0.18    9.5   2.2      0.23    9.1   2.2   1.2   1   0   0   1   1   0   0 # 2138815 # 2139783 # 1 # ID=1_1895;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.709
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K17734.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K17734.hmm.total.hmmsearch_result.txt --domT 323.03 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K17734.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:34:18 2023
+# [ok]

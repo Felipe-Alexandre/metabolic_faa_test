@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_172       -          K02887               -            7.1e-61  205.4   9.3   7.5e-61  205.3   9.3   1.0   1   0   0   1   1   1   1 # 190131 # 190496 # 1 # ID=1_172;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.361
+OW370493.1_2581      -          K02887               -            1.6e-60  204.2   6.5   1.7e-60  204.1   6.5   1.0   1   0   0   1   1   1   1 # 2327234 # 2327590 # -1 # ID=1_2581;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.364
+LR130759.1_2254      -          K02887               -            5.9e-58  195.8   8.0   6.9e-58  195.6   8.0   1.0   1   0   0   1   1   1   1 # 2565931 # 2566320 # 1 # ID=1_2254;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.659
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02887.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K02887.hmm.total.hmmsearch_result.txt -T 38.37 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02887.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:23:33 2023
+# [ok]

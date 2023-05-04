@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_2163      -          K18101               -            1.4e-64  217.9   6.2   1.5e-64  217.8   6.2   1.0   1   0   0   1   1   0   1 # 2455465 # 2456736 # -1 # ID=1_2163;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.625
+LR130759.1_109       -          K18101               -              7e-57  192.5  12.2   1.7e-54  184.6  12.2   2.0   1   1   0   1   1   0   1 # 106914 # 108122 # -1 # ID=1_109;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.663
+LR130759.1_1773      -          K18101               -            4.1e-31  107.5  18.2   6.7e-31  106.8  18.2   1.3   1   0   0   1   1   0   1 # 2027658 # 2028824 # 1 # ID=1_1773;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.707
+LR130759.1_1548      -          K18101               -            2.6e-28   98.3  12.0   3.2e-28   98.0  12.0   1.0   1   0   0   1   1   0   1 # 1755752 # 1757017 # 1 # ID=1_1548;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.664
+OW370493.1_1589      -          K18101               -            1.9e-11   42.6   0.0   4.1e-05   21.8   0.0   2.1   2   0   0   2   2   0   2 # 1434963 # 1436039 # 1 # ID=1_1589;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.341
+OX366373.1_1079      -          K18101               -            7.4e-11   40.7   0.0   1.4e-05   23.3   0.0   2.1   2   0   0   2   2   0   2 # 1151009 # 1152031 # 1 # ID=1_1079;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.346
+LR130759.1_2874      -          K18101               -            5.1e-05   21.4  24.3   0.00077   17.5  18.6   2.1   2   0   0   2   2   0   2 # 3324896 # 3326095 # -1 # ID=1_2874;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.706
+LR130759.1_598       -          K18101               -               0.16    9.9  10.3      0.27    9.1   0.0   2.8   3   0   0   3   3   0   0 # 693178 # 693936 # 1 # ID=1_598;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.653
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K18101.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K18101.hmm.total.hmmsearch_result.txt --domT 316.53 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K18101.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:34:33 2023
+# [ok]

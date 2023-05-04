@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_592       -          K02051               -            3.1e-09   35.8   0.1   6.1e-09   34.8   0.1   1.5   1   1   0   1   1   0   1 # 688107 # 689084 # -1 # ID=1_592;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+LR130759.1_4759      -          K02051               -            2.1e-07   29.8   3.1   2.6e-07   29.4   3.1   1.2   1   0   0   1   1   0   1 # 5507386 # 5508321 # -1 # ID=1_4759;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.683
+OW370493.1_1955      -          K02051               -            2.6e-07   29.5   0.0   2.9e-07   29.3   0.0   1.1   1   0   0   1   1   0   1 # 1769099 # 1770040 # -1 # ID=1_1955;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.304
+LR130759.1_4701      -          K02051               -            6.8e-06   24.8   0.6   7.8e-06   24.6   0.6   1.1   1   0   0   1   1   0   1 # 5424990 # 5425820 # -1 # ID=1_4701;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+OW370493.1_2550      -          K02051               -            1.1e-05   24.1   0.0   1.2e-05   24.0   0.0   1.1   1   0   0   1   1   0   1 # 2300902 # 2301633 # 1 # ID=1_2550;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.309
+LR130759.1_2498      -          K02051               -            5.2e-05   21.9   6.8   7.1e-05   21.4   6.8   1.1   1   0   0   1   1   0   1 # 2866049 # 2866792 # 1 # ID=1_2498;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.653
+LR130759.1_2724      -          K02051               -             0.0098   14.4   0.1     0.013   14.0   0.1   1.2   1   0   0   1   1   0   1 # 3159968 # 3160819 # -1 # ID=1_2724;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.620
+LR130759.1_676       -          K02051               -                5.5    5.3  10.1         7    5.0  10.1   1.2   1   0   0   1   1   0   0 # 774026 # 774709 # 1 # ID=1_676;partial=00;start_type=TTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.702
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02051.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K02051.hmm.total.hmmsearch_result.txt --domT 148.33 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02051.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:22:52 2023
+# [ok]

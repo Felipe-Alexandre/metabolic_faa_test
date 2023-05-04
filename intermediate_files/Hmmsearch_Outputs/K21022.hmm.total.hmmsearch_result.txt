@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OW370493.1_1321      -          K21022               -            1.3e-69  234.5   0.2   1.3e-69  234.5   0.2   1.1   1   0   0   1   1   0   1 # 1173408 # 1174766 # 1 # ID=1_1321;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.331
+OX366373.1_454       -          K21022               -            3.4e-64  216.7   0.1   4.3e-64  216.3   0.1   1.2   1   0   0   1   1   0   1 # 503719 # 505095 # 1 # ID=1_454;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.342
+OW370493.1_1643      -          K21022               -               0.04   12.3   3.3     0.056   11.8   3.3   1.2   1   0   0   1   1   0   0 # 1495175 # 1495894 # 1 # ID=1_1643;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.339
+LR130759.1_1456      -          K21022               -                1.5    7.1   8.3         2    6.7   8.3   1.2   1   0   0   1   1   0   0 # 1653204 # 1653866 # 1 # ID=1_1456;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.653
+LR130759.1_1288      -          K21022               -                2.4    6.5   9.3       3.1    6.1   9.3   1.1   1   0   0   1   1   0   0 # 1488345 # 1489157 # -1 # ID=1_1288;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.652
+LR130759.1_2233      -          K21022               -                2.5    6.4   6.3       3.7    5.8   6.3   1.2   1   0   0   1   1   0   0 # 2538029 # 2539357 # -1 # ID=1_2233;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.643
+LR130759.1_2015      -          K21022               -                5.8    5.2   7.3       7.4    4.8   7.3   1.2   1   0   0   1   1   0   0 # 2272034 # 2272729 # 1 # ID=1_2015;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.639
+LR130759.1_2283      -          K21022               -                9.2    4.5   6.7       9.9    4.4   6.7   1.1   1   0   0   1   1   0   0 # 2609570 # 2610250 # -1 # ID=1_2283;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K21022.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K21022.hmm.total.hmmsearch_result.txt --domT 259.17 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K21022.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:37:00 2023
+# [ok]

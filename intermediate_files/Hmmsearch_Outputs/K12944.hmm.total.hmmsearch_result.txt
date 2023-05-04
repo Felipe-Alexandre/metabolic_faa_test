@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_3691      -          K12944               -            1.3e-13   50.0   0.4   4.4e-13   48.2   0.4   1.7   1   1   0   1   1   0   1 # 4305489 # 4306238 # -1 # ID=1_3691;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.672
+LR130759.1_594       -          K12944               -            9.3e-13   47.2   0.1   1.4e-12   46.6   0.1   1.2   1   0   0   1   1   0   1 # 690496 # 691164 # 1 # ID=1_594;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.694
+OW370493.1_1322      -          K12944               -            6.2e-12   44.5   0.0   8.4e-12   44.0   0.0   1.2   1   0   0   1   1   0   1 # 1174864 # 1175376 # 1 # ID=1_1322;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.326
+OW370493.1_1749      -          K12944               -              7e-12   44.3   0.0   8.1e-12   44.1   0.0   1.1   1   0   0   1   1   0   1 # 1594067 # 1594489 # 1 # ID=1_1749;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.270
+OX366373.1_1042      -          K12944               -            1.4e-11   43.3   0.4   2.2e-11   42.6   0.4   1.3   1   1   0   1   1   0   1 # 1117822 # 1118310 # -1 # ID=1_1042;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.374
+LR130759.1_4831      -          K12944               -            7.4e-11   41.0   0.3   1.1e-10   40.4   0.3   1.3   1   0   0   1   1   0   1 # 5589528 # 5589980 # 1 # ID=1_4831;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.678
+LR130759.1_1905      -          K12944               -            4.6e-10   38.4   0.1   5.3e-10   38.2   0.1   1.3   1   0   0   1   1   0   1 # 2147849 # 2148901 # 1 # ID=1_1905;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.686
+LR130759.1_99        -          K12944               -            6.6e-10   37.9   0.0     1e-09   37.2   0.0   1.4   1   0   0   1   1   0   1 # 99638 # 100357 # 1 # ID=1_99;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.676
+LR130759.1_1228      -          K12944               -            8.8e-10   37.4   0.0   1.4e-09   36.8   0.0   1.3   1   0   0   1   1   0   1 # 1421868 # 1422791 # 1 # ID=1_1228;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.655
+LR130759.1_1153      -          K12944               -            1.8e-08   33.2   0.0     2e-08   33.0   0.0   1.1   1   0   0   1   1   0   1 # 1343681 # 1344232 # -1 # ID=1_1153;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=3-4bp;gc_cont=0.672
+LR130759.1_1522      -          K12944               -            5.2e-07   28.4   0.0   7.9e-07   27.8   0.0   1.3   1   0   0   1   1   0   1 # 1727583 # 1728521 # -1 # ID=1_1522;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.655
+LR130759.1_2200      -          K12944               -            8.3e-07   27.7   0.0   1.3e-06   27.0   0.0   1.3   1   0   0   1   1   0   1 # 2502964 # 2503683 # -1 # ID=1_2200;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.608
+OW370493.1_912       -          K12944               -            1.7e-06   26.7   0.0   2.2e-06   26.3   0.0   1.2   1   0   0   1   1   0   1 # 809817 # 810548 # -1 # ID=1_912;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.332
+LR130759.1_4497      -          K12944               -            0.00013   20.5   0.0   0.00046   18.7   0.0   1.6   1   1   0   2   2   0   1 # 5196510 # 5197274 # -1 # ID=1_4497;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.681
+LR130759.1_2304      -          K12944               -             0.0021   16.5   0.1    0.0027   16.2   0.1   1.3   1   0   0   1   1   0   1 # 2637604 # 2638260 # 1 # ID=1_2304;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.645
+OW370493.1_483       -          K12944               -             0.0045   15.5   0.0    0.0075   14.8   0.0   1.3   1   0   0   1   1   0   1 # 430872 # 432530 # 1 # ID=1_483;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.395
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K12944.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K12944.hmm.total.hmmsearch_result.txt --domT 139.80 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K12944.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:29:08 2023
+# [ok]

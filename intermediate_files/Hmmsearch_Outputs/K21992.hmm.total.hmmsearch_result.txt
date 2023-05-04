@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1392      -          K21992               -            9.9e-84  279.1   0.6   1.1e-83  279.0   0.6   1.0   1   0   0   1   1   1   1 # 1589859 # 1590485 # 1 # ID=1_1392;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.604
+OX366373.1_644       -          K21992               -            9.5e-09   34.0   0.0     2e-08   32.9   0.0   1.4   1   1   0   1   1   0   1 # 704350 # 704907 # 1 # ID=1_644;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.314
+OW370493.1_2858      -          K21992               -             0.0038   15.7   0.0    0.0043   15.5   0.0   1.1   1   0   0   1   1   0   1 # 2594361 # 2594633 # -1 # ID=1_2858;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.308
+LR130759.1_2713      -          K21992               -             0.0062   15.0   0.0         4    5.8   0.0   3.0   2   0   0   2   2   0   2 # 3102944 # 3113458 # 1 # ID=1_2713;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.594
+LR130759.1_2714      -          K21992               -              0.009   14.5   0.0       4.4    5.7   0.0   2.8   2   0   0   2   2   0   2 # 3113476 # 3126303 # 1 # ID=1_2714;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.605
+LR130759.1_1989      -          K21992               -               0.02   13.3   0.1     0.049   12.0   0.1   1.7   1   1   0   1   1   0   0 # 2243013 # 2243552 # -1 # ID=1_1989;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.648
+LR130759.1_975       -          K21992               -              0.021   13.2   0.0     0.068   11.6   0.0   1.7   1   1   0   1   1   0   0 # 1076584 # 1077060 # 1 # ID=1_975;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.694
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K21992.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K21992.hmm.total.hmmsearch_result.txt --domT 208.87 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K21992.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:37:42 2023
+# [ok]

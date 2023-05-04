@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_2599      -          K20810               -            1.3e-65  221.1   0.2   3.7e-65  219.5   0.2   1.6   1   1   0   1   1   0   1 # 2975371 # 2976741 # 1 # ID=1_2599;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.676
+LR130759.1_2781      -          K20810               -            7.1e-17   60.2   0.6   2.5e-08   32.0   0.1   2.9   3   0   0   3   3   0   2 # 3227890 # 3229422 # -1 # ID=1_2781;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.695
+LR130759.1_758       -          K20810               -            8.2e-15   53.4   0.4     2e-08   32.4   0.1   2.2   2   0   0   2   2   0   2 # 859137 # 860741 # 1 # ID=1_758;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.660
+LR130759.1_982       -          K20810               -            1.5e-11   42.6   2.7   1.3e-07   29.7   0.6   2.6   3   0   0   3   3   0   2 # 1083128 # 1084798 # 1 # ID=1_982;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.633
+LR130759.1_4097      -          K20810               -            3.5e-09   34.9   3.1   4.8e-05   21.2   0.1   2.7   3   0   0   3   3   0   2 # 4753236 # 4754456 # 1 # ID=1_4097;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.660
+LR130759.1_1589      -          K20810               -            1.5e-08   32.8   0.8   0.00016   19.5   0.1   2.6   3   1   0   3   3   0   2 # 1840821 # 1841900 # 1 # ID=1_1589;partial=00;start_type=GTG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.671
+LR130759.1_638       -          K20810               -            1.9e-07   29.1   0.3    0.0013   16.5   0.0   2.2   2   0   0   2   2   0   2 # 736543 # 738291 # -1 # ID=1_638;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.677
+LR130759.1_804       -          K20810               -            2.1e-07   29.0   0.1   0.00091   17.0   0.0   2.4   2   0   0   2   2   0   2 # 907379 # 908638 # -1 # ID=1_804;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.652
+LR130759.1_1037      -          K20810               -            4.4e-07   27.9   6.4   0.00023   19.0   0.0   2.9   4   0   0   4   4   0   2 # 1160008 # 1161156 # -1 # ID=1_1037;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.696
+OX366373.1_679       -          K20810               -            2.5e-06   25.4   0.0   0.00056   17.7   0.0   2.3   2   0   0   2   2   0   2 # 739190 # 740509 # -1 # ID=1_679;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.388
+LR130759.1_141       -          K20810               -            5.4e-06   24.3   0.1     0.038   11.6   0.0   2.1   2   0   0   2   2   0   2 # 139541 # 141301 # -1 # ID=1_141;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.676
+LR130759.1_1999      -          K20810               -            2.9e-05   22.0   0.6    0.0013   16.5   0.0   2.6   3   0   0   3   3   0   1 # 2253399 # 2254703 # 1 # ID=1_1999;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.664
+LR130759.1_2491      -          K20810               -             0.0006   17.6   0.0      0.32    8.6   0.0   2.3   2   0   0   2   2   0   2 # 2858817 # 2860538 # 1 # ID=1_2491;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.641
+LR130759.1_1591      -          K20810               -              0.016   12.9   0.0       1.7    6.2   0.0   2.5   2   0   0   2   2   0   0 # 1843835 # 1845631 # 1 # ID=1_1591;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.648
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K20810.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K20810.hmm.total.hmmsearch_result.txt --domT 307.30 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K20810.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:36:46 2023
+# [ok]

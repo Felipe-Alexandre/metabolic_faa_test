@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_2231      -          PF01654_full         -           5.9e-165  549.7  28.6    7e-165  549.5  28.6   1.0   1   0   0   1   1   1   1 # 2535827 # 2537284 # -1 # ID=1_2231;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.604
+OW370493.1_2059      -          PF01654_full         -           2.6e-161  537.7  34.4    3e-161  537.5  34.4   1.0   1   0   0   1   1   1   1 # 1859279 # 1860661 # 1 # ID=1_2059;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.357
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/METABOLIC_hmm_db/PF01654.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/PF01654.hmm.total.hmmsearch_result.txt -T 118 --cpu 1 /home/pedro/felipe/METABOLIC/METABOLIC_hmm_db/PF01654.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:39:57 2023
+# [ok]

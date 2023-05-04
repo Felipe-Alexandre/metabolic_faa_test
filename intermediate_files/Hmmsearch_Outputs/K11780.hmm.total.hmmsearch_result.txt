@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_3682      -          K11780               -           3.8e-125  416.2   0.0  1.1e-114  381.8   0.0   2.5   2   1   0   2   2   0   2 # 4292950 # 4295520 # -1 # ID=1_3682;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.649
+LR130759.1_1778      -          K11780               -             0.0011   16.7   0.0    0.0039   14.9   0.0   1.8   1   1   0   1   1   0   1 # 2031520 # 2033106 # 1 # ID=1_1778;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+OW370493.1_2615      -          K11780               -             0.0012   16.6   0.2      0.56    7.8   0.1   2.1   2   0   0   2   2   0   2 # 2357799 # 2358731 # -1 # ID=1_2615;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.349
+LR130759.1_4280      -          K11780               -             0.0013   16.5   0.0    0.0019   16.0   0.0   1.3   1   0   0   1   1   0   1 # 4954242 # 4955291 # 1 # ID=1_4280;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.580
+OX366373.1_779       -          K11780               -             0.0015   16.3   0.1      0.44    8.2   0.0   2.3   2   0   0   2   2   0   2 # 843308 # 844180 # 1 # ID=1_779;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.371
+OX366373.1_357       -          K11780               -             0.0042   14.8   0.0    0.0078   13.9   0.0   1.4   1   0   0   1   1   0   1 # 395828 # 397054 # 1 # ID=1_357;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.324
+OW370493.1_2745      -          K11780               -             0.0094   13.7   0.1     0.029   12.0   0.0   1.8   2   0   0   2   2   0   1 # 2489500 # 2490762 # 1 # ID=1_2745;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.362
+LR130759.1_78        -          K11780               -              0.027   12.1   0.0     0.038   11.7   0.0   1.1   1   0   0   1   1   0   0 # 77421 # 78479 # 1 # ID=1_78;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.593
+LR130759.1_1374      -          K11780               -              0.069   10.8   0.0       1.1    6.9   0.0   2.0   2   0   0   2   2   0   0 # 1572110 # 1573699 # -1 # ID=1_1374;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.636
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K11780.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K11780.hmm.total.hmmsearch_result.txt --domT 417.33 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K11780.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:28:15 2023
+# [ok]

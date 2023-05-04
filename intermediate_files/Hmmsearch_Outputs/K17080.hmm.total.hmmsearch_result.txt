@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OW370493.1_1770      -          K17080               -            7.4e-16   57.0   4.1   1.4e-15   56.1   4.1   1.4   1   1   0   1   1   0   1 # 1612791 # 1613648 # -1 # ID=1_1770;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.332
+LR130759.1_2097      -          K17080               -            2.7e-11   42.0   7.8   2.7e-11   42.0   7.8   2.1   1   1   1   2   2   0   1 # 2366485 # 2367645 # 1 # ID=1_2097;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.647
+OX366373.1_1007      -          K17080               -            5.2e-11   41.0   7.8   1.1e-10   40.0   7.8   1.6   1   1   0   1   1   0   1 # 1079309 # 1080181 # 1 # ID=1_1007;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.314
+OW370493.1_1927      -          K17080               -            0.00034   18.6   5.7   0.00076   17.5   5.7   1.5   1   1   0   1   1   0   1 # 1742799 # 1743407 # -1 # ID=1_1927;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.368
+OX366373.1_846       -          K17080               -             0.0012   16.9   2.4     0.002   16.1   2.4   1.3   1   0   0   1   1   0   1 # 919185 # 920054 # -1 # ID=1_846;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.339
+LR130759.1_1320      -          K17080               -             0.0091   13.9   0.2    0.0093   13.9   0.2   1.0   1   0   0   1   1   0   1 # 1521256 # 1521675 # -1 # ID=1_1320;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.633
+LR130759.1_4714      -          K17080               -               0.54    8.1  29.1     0.063   11.2  16.0   2.3   1   1   1   2   2   0   0 # 5440618 # 5441757 # 1 # ID=1_4714;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.639
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K17080.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K17080.hmm.total.hmmsearch_result.txt --domT 401.33 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K17080.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:34:00 2023
+# [ok]

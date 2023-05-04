@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_3875      -          K21688               -           1.9e-116  389.0  22.7  2.3e-116  388.7  22.7   1.0   1   0   0   1   1   1   1 # 4510987 # 4512114 # -1 # ID=1_3875;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.668
+LR130759.1_2537      -          K21688               -            2.6e-32  111.4   3.5   2.9e-32  111.3   3.5   1.0   1   0   0   1   1   0   1 # 2906474 # 2906899 # -1 # ID=1_2537;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.638
+LR130759.1_4014      -          K21688               -            5.7e-32  110.3   9.6   8.3e-32  109.8   9.6   1.2   1   0   0   1   1   0   1 # 4676126 # 4677265 # 1 # ID=1_4014;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.742
+LR130759.1_3319      -          K21688               -              1e-28   99.6  18.9     1e-28   99.6  18.9   1.4   1   1   0   1   1   0   1 # 3859011 # 3859640 # -1 # ID=1_3319;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.702
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K21688.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K21688.hmm.total.hmmsearch_result.txt --domT 159.33 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K21688.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:37:31 2023
+# [ok]

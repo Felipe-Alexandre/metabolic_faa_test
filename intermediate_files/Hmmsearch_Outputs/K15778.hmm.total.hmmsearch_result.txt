@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OW370493.1_812       -          K15778               -           3.6e-167  557.1   0.0    3e-166  554.0   0.0   1.9   1   1   0   1   1   1   1 # 723197 # 724885 # -1 # ID=1_812;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.352
+OX366373.1_927       -          K15778               -           1.2e-135  452.9   0.0  1.4e-135  452.6   0.0   1.0   1   0   0   1   1   0   1 # 988434 # 989759 # -1 # ID=1_927;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.348
+LR130759.1_1161      -          K15778               -             3e-133  444.9   3.4  3.7e-133  444.6   3.4   1.0   1   0   0   1   1   0   1 # 1350137 # 1351540 # 1 # ID=1_1161;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.635
+LR130759.1_957       -          K15778               -            1.7e-84  283.8   9.4     2e-84  283.5   9.4   1.1   1   0   0   1   1   0   1 # 1059905 # 1061242 # 1 # ID=1_957;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.668
+LR130759.1_1086      -          K15778               -            2.3e-54  184.1   3.3   3.1e-54  183.6   3.3   1.1   1   0   0   1   1   0   1 # 1267264 # 1268844 # -1 # ID=1_1086;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.690
+LR130759.1_1396      -          K15778               -              2e-28   98.3   0.7   2.8e-28   97.8   0.7   1.0   1   0   0   1   1   0   1 # 1592475 # 1594136 # 1 # ID=1_1396;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=3-4bp;gc_cont=0.658
+OX366373.1_15        -          K15778               -             0.0018   15.8   4.6     0.002   15.7   4.6   1.0   1   0   0   1   1   0   1 # 14805 # 15389 # 1 # ID=1_15;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.357
+LR130759.1_4564      -          K15778               -               0.01   13.3   0.0     0.016   12.6   0.0   1.2   1   0   0   1   1   0   0 # 5255013 # 5256278 # -1 # ID=1_4564;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.649
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K15778.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K15778.hmm.total.hmmsearch_result.txt --domT 492.97 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K15778.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:31:24 2023
+# [ok]

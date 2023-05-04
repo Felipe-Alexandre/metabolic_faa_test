@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1494      -          K02435               -            7.7e-27   93.4   0.4   8.4e-27   93.3   0.4   1.0   1   0   0   1   1   1   1 # 1697701 # 1698000 # 1 # ID=1_1494;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.650
+OW370493.1_2323      -          K02435               -            5.7e-21   74.2   0.2   6.2e-21   74.1   0.2   1.0   1   0   0   1   1   1   1 # 2086391 # 2086693 # 1 # ID=1_2323;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.330
+OX366373.1_772       -          K02435               -              6e-20   70.8   0.2   6.1e-20   70.8   0.2   1.0   1   0   0   1   1   1   1 # 837960 # 838313 # -1 # ID=1_772;partial=00;start_type=GTG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.322
+LR130759.1_1989      -          K02435               -            1.4e-13   49.9   0.0   1.6e-13   49.8   0.0   1.0   1   0   0   1   1   0   1 # 2243013 # 2243552 # -1 # ID=1_1989;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.648
+OW370493.1_2056      -          K02435               -            3.4e-11   42.1   0.0   4.3e-11   41.8   0.0   1.0   1   0   0   1   1   0   1 # 1855990 # 1856538 # -1 # ID=1_2056;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.348
+LR130759.1_4220      -          K02435               -              0.059   11.8   0.0     0.072   11.5   0.0   1.1   1   0   0   1   1   0   0 # 4888282 # 4888932 # 1 # ID=1_4220;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02435.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K02435.hmm.total.hmmsearch_result.txt --domT 70.00 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02435.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:23:10 2023
+# [ok]

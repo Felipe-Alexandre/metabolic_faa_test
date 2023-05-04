@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_2907      -          K02342               -            3.1e-70  236.3  28.8   1.8e-69  233.8  28.8   1.8   1   1   0   1   1   1   1 # 3362861 # 3364873 # 1 # ID=1_2907;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.683
+OX366373.1_972       -          K02342               -            6.9e-59  198.9   0.0   7.6e-59  198.8   0.0   1.0   1   0   0   1   1   1   1 # 1046381 # 1047085 # 1 # ID=1_972;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.338
+OW370493.1_891       -          K02342               -            2.6e-58  197.0   0.0     3e-58  196.8   0.0   1.0   1   0   0   1   1   1   1 # 789912 # 790607 # 1 # ID=1_891;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.333
+LR130759.1_4568      -          K02342               -            3.5e-50  170.3   1.6   4.3e-50  170.0   1.6   1.0   1   0   0   1   1   1   1 # 5259583 # 5260572 # -1 # ID=1_4568;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.662
+OX366373.1_131       -          K02342               -            0.00063   18.0   0.0    0.0076   14.5   0.0   1.9   1   1   1   2   2   0   1 # 146580 # 147200 # 1 # ID=1_131;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.345
+OW370493.1_183       -          K02342               -             0.0012   17.1   0.0    0.0013   17.0   0.0   1.1   1   0   0   1   1   0   1 # 168464 # 168997 # -1 # ID=1_183;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.326
+LR130759.1_3383      -          K02342               -             0.0042   15.3   0.2    0.0054   14.9   0.2   1.2   1   0   0   1   1   0   1 # 3936036 # 3936650 # 1 # ID=1_3383;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.623
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02342.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K02342.hmm.total.hmmsearch_result.txt --domT 102.23 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02342.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:23:06 2023
+# [ok]

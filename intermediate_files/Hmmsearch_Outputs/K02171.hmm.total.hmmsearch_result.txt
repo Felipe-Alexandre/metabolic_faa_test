@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_2487      -          K02171               -            1.6e-19   69.3   0.0   1.7e-19   69.2   0.0   1.0   1   0   0   1   1   1   1 # 2856884 # 2857300 # -1 # ID=1_2487;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.643
+LR130759.1_4383      -          K02171               -            1.6e-15   56.3   0.0   1.7e-15   56.2   0.0   1.0   1   0   0   1   1   1   1 # 5076989 # 5077402 # -1 # ID=1_4383;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.606
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02171.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K02171.hmm.total.hmmsearch_result.txt -T 56.23 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02171.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:22:57 2023
+# [ok]

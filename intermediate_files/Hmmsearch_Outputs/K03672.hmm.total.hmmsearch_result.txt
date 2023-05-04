@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_4838      -          K03672               -            1.2e-39  135.3   0.1   1.4e-39  135.1   0.1   1.0   1   0   0   1   1   0   1 # 5598550 # 5598903 # 1 # ID=1_4838;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.556
+OW370493.1_2         -          K03672               -            4.4e-39  133.5   0.0   4.7e-39  133.4   0.0   1.0   1   0   0   1   1   0   1 # 1259 # 1582 # 1 # ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.315
+LR130759.1_2080      -          K03672               -            2.8e-37  127.6   0.4   3.3e-37  127.4   0.4   1.0   1   0   0   1   1   0   1 # 2348965 # 2349411 # 1 # ID=1_2080;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.604
+OX366373.1_132       -          K03672               -            2.1e-34  118.2   0.0   2.2e-34  118.2   0.0   1.0   1   0   0   1   1   0   1 # 147280 # 147606 # 1 # ID=1_132;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.385
+LR130759.1_3492      -          K03672               -            1.3e-22   79.7   0.2     2e-22   79.1   0.2   1.3   1   0   0   1   1   0   1 # 4068398 # 4069285 # -1 # ID=1_3492;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.662
+LR130759.1_2079      -          K03672               -            3.2e-20   71.9   0.0   3.6e-20   71.8   0.0   1.0   1   0   0   1   1   0   1 # 2348651 # 2349007 # 1 # ID=1_2079;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.574
+LR130759.1_3192      -          K03672               -            3.2e-17   62.1   0.0   3.8e-17   61.9   0.0   1.1   1   0   0   1   1   0   1 # 3701132 # 3701560 # 1 # ID=1_3192;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.669
+LR130759.1_2402      -          K03672               -            6.9e-16   57.8   0.1   6.9e-16   57.8   0.1   1.0   1   0   0   1   1   0   1 # 2751523 # 2751750 # -1 # ID=1_2402;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.627
+LR130759.1_4380      -          K03672               -            5.6e-09   35.2   0.9   2.9e-07   29.6   0.5   2.0   2   0   0   2   2   0   1 # 5074647 # 5075195 # 1 # ID=1_4380;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.639
+LR130759.1_4710      -          K03672               -            3.2e-08   32.7   0.0   5.4e-08   32.0   0.0   1.3   1   0   0   1   1   0   1 # 5437142 # 5438608 # -1 # ID=1_4710;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.641
+LR130759.1_1628      -          K03672               -            7.6e-07   28.3   0.2   1.3e-06   27.6   0.2   1.4   2   0   0   2   2   0   1 # 1879188 # 1879709 # 1 # ID=1_1628;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.646
+LR130759.1_731       -          K03672               -            6.6e-06   25.2   0.0   9.2e-06   24.7   0.0   1.4   1   0   0   1   1   0   1 # 833655 # 834266 # 1 # ID=1_731;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.647
+LR130759.1_4498      -          K03672               -            9.8e-06   24.6   0.3   1.2e-05   24.3   0.3   1.2   1   0   0   1   1   0   1 # 5197345 # 5197980 # -1 # ID=1_4498;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.697
+OW370493.1_1400      -          K03672               -             0.0017   17.3   0.1      0.13   11.2   0.0   2.2   2   0   0   2   2   0   1 # 1246072 # 1246908 # -1 # ID=1_1400;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.289
+OW370493.1_1481      -          K03672               -             0.0037   16.2   0.0    0.0059   15.6   0.0   1.4   1   1   0   1   1   0   1 # 1342076 # 1342906 # -1 # ID=1_1481;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K03672.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K03672.hmm.total.hmmsearch_result.txt --domT 159.07 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K03672.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:24:13 2023
+# [ok]

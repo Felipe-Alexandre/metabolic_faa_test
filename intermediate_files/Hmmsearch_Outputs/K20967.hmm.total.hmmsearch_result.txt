@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_78        -          K20967               -            1.3e-97  326.7   0.0   1.7e-97  326.4   0.0   1.0   1   0   0   1   1   0   1 # 77421 # 78479 # 1 # ID=1_78;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.593
+LR130759.1_4280      -          K20967               -            2.1e-95  319.4   0.0   2.4e-95  319.2   0.0   1.0   1   0   0   1   1   0   1 # 4954242 # 4955291 # 1 # ID=1_4280;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.580
+LR130759.1_80        -          K20967               -            1.6e-63  214.1   4.5   1.7e-63  214.0   4.5   1.0   1   0   0   1   1   0   1 # 78944 # 79432 # 1 # ID=1_80;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.636
+LR130759.1_4282      -          K20967               -              2e-61  207.2   1.6   2.3e-61  207.0   1.6   1.0   1   0   0   1   1   0   1 # 4955704 # 4956201 # 1 # ID=1_4282;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.620
+LR130759.1_868       -          K20967               -            1.5e-06   25.9   0.0   1.9e-06   25.5   0.0   1.0   1   0   0   1   1   0   1 # 983547 # 984743 # 1 # ID=1_868;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.647
+OX366373.1_371       -          K20967               -            0.00028   18.3   0.1   0.00032   18.1   0.1   1.0   1   0   0   1   1   0   1 # 411034 # 411738 # -1 # ID=1_371;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.305
+OW370493.1_12        -          K20967               -              0.047   11.0   0.0     0.063   10.5   0.0   1.1   1   0   0   1   1   0   0 # 11253 # 12437 # 1 # ID=1_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.336
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K20967.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K20967.hmm.total.hmmsearch_result.txt --domT 616.43 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K20967.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:36:54 2023
+# [ok]

@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_4795      -          K19144               -             0.0028   15.2   0.0      0.89    7.0   0.0   2.2   2   0   0   2   2   0   2 # 5546208 # 5547983 # 1 # ID=1_4795;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.633
+OW370493.1_2328      -          K19144               -             0.0082   13.7   0.0     0.012   13.1   0.0   1.2   1   0   0   1   1   0   1 # 2092570 # 2093922 # 1 # ID=1_2328;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.368
+OW370493.1_1447      -          K19144               -              0.012   13.1   0.0      0.02   12.4   0.0   1.3   1   1   0   1   1   0   0 # 1288536 # 1289189 # -1 # ID=1_1447;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.289
+OX366373.1_1070      -          K19144               -              0.024   12.2   0.1       3.2    5.1   0.0   2.5   3   0   0   3   3   0   0 # 1142626 # 1143951 # 1 # ID=1_1070;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.371
+LR130759.1_4173      -          K19144               -              0.037   11.5   0.0     0.055   11.0   0.0   1.1   1   0   0   1   1   0   0 # 4839674 # 4841554 # 1 # ID=1_4173;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.622
+OW370493.1_1489      -          K19144               -              0.044   11.3   0.0      0.32    8.5   0.0   2.0   2   0   0   2   2   0   0 # 1348403 # 1350898 # -1 # ID=1_1489;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.365
+LR130759.1_951       -          K19144               -              0.048   11.2   0.0      0.89    7.0   0.0   2.1   2   0   0   2   2   0   0 # 1052954 # 1056640 # 1 # ID=1_951;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.662
+LR130759.1_2323      -          K19144               -               0.05   11.1   0.1       3.8    4.9   0.1   2.2   2   0   0   2   2   0   0 # 2657227 # 2658627 # 1 # ID=1_2323;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.665
+LR130759.1_973       -          K19144               -              0.085   10.4   0.0       0.1   10.1   0.0   1.1   1   0   0   1   1   0   0 # 1075482 # 1075964 # 1 # ID=1_973;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.652
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K19144.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K19144.hmm.total.hmmsearch_result.txt --domT 50.20 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K19144.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:35:29 2023
+# [ok]

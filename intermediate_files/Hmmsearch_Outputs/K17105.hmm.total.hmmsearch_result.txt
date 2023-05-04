@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_556       -          K17105               -            3.7e-27   94.3   8.8   4.1e-27   94.2   8.8   1.0   1   0   0   1   1   0   1 # 612380 # 613240 # -1 # ID=1_556;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.345
+OW370493.1_1672      -          K17105               -            3.2e-25   88.0  22.3     7e-25   86.9  22.3   1.5   1   1   0   1   1   0   1 # 1524733 # 1525629 # 1 # ID=1_1672;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.349
+OX366373.1_609       -          K17105               -            5.5e-25   87.2  16.1   7.3e-25   86.8  16.1   1.1   1   0   0   1   1   0   1 # 671977 # 672792 # 1 # ID=1_609;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.347
+OW370493.1_87        -          K17105               -            6.4e-23   80.4  15.4   8.2e-23   80.0  15.4   1.0   1   0   0   1   1   0   1 # 82555 # 83406 # -1 # ID=1_87;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.291
+LR130759.1_2058      -          K17105               -            1.3e-16   59.7  26.2   1.7e-16   59.3  26.2   1.1   1   0   0   1   1   0   1 # 2322978 # 2323952 # 1 # ID=1_2058;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.648
+LR130759.1_739       -          K17105               -            2.5e-16   58.7  27.6   3.5e-16   58.2  27.6   1.2   1   0   0   1   1   0   1 # 840818 # 841690 # -1 # ID=1_739;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.700
+LR130759.1_2308      -          K17105               -            5.3e-16   57.6  18.1   1.1e-15   56.7  18.1   1.5   1   1   0   1   1   0   1 # 2641388 # 2642239 # 1 # ID=1_2308;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.691
+LR130759.1_4737      -          K17105               -            1.1e-15   56.5  19.7   4.2e-15   54.7  19.7   1.8   1   1   0   1   1   0   1 # 5485006 # 5485914 # -1 # ID=1_4737;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.648
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K17105.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K17105.hmm.total.hmmsearch_result.txt --domT 167.93 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K17105.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:34:01 2023
+# [ok]

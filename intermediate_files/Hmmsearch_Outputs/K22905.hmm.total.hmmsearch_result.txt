@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_765       -          K22905               -            1.3e-86  290.5   1.9   1.4e-86  290.4   1.9   1.0   1   0   0   1   1   1   1 # 866470 # 867624 # 1 # ID=1_765;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.622
+LR130759.1_4651      -          K22905               -            1.4e-41  142.1   1.7   1.5e-41  142.0   1.7   1.1   1   0   0   1   1   1   1 # 5380563 # 5381915 # -1 # ID=1_4651;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.638
+LR130759.1_4344      -          K22905               -              1e-37  129.4   2.1   3.1e-37  127.8   2.1   1.8   1   1   0   1   1   1   1 # 5035781 # 5036926 # -1 # ID=1_4344;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.623
+LR130759.1_257       -          K22905               -            1.9e-36  125.2   3.4   2.7e-36  124.7   3.4   1.2   1   0   0   1   1   1   1 # 271576 # 272811 # 1 # ID=1_257;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.649
+LR130759.1_146       -          K22905               -            8.7e-34  116.4   0.3     3e-33  114.7   0.3   1.7   1   1   0   1   1   1   1 # 145601 # 146785 # -1 # ID=1_146;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.621
+LR130759.1_3022      -          K22905               -             0.0075   14.5   0.1    0.0082   14.4   0.1   1.0   1   0   0   1   1   0   1 # 3493210 # 3493485 # 1 # ID=1_3022;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.583
+LR130759.1_4416      -          K22905               -              0.018   13.3   0.1     0.038   12.2   0.1   1.6   1   1   0   1   1   0   0 # 5107409 # 5108158 # -1 # ID=1_4416;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.575
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K22905.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K22905.hmm.total.hmmsearch_result.txt --domT 103.57 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K22905.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:38:11 2023
+# [ok]

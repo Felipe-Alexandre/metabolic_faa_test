@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_3190      -          K12339               -           3.8e-111  370.5   0.1  4.2e-111  370.3   0.1   1.0   1   0   0   1   1   0   1 # 3699470 # 3700402 # 1 # ID=1_3190;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.660
+LR130759.1_3480      -          K12339               -           5.5e-102  340.3   0.1  6.7e-102  340.0   0.1   1.0   1   0   0   1   1   0   1 # 4052237 # 4053208 # -1 # ID=1_3480;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.655
+LR130759.1_3795      -          K12339               -            1.3e-92  309.5   0.0   1.6e-92  309.1   0.0   1.1   1   0   0   1   1   0   1 # 4422889 # 4424283 # -1 # ID=1_3795;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.654
+LR130759.1_4121      -          K12339               -            1.4e-54  184.3   0.0   1.8e-54  184.0   0.0   1.0   1   0   0   1   1   0   1 # 4779925 # 4781163 # -1 # ID=1_4121;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.670
+LR130759.1_4510      -          K12339               -            1.2e-37  128.5   0.0   6.9e-26   89.9   0.0   2.1   2   0   0   2   2   0   2 # 5208295 # 5209443 # 1 # ID=1_4510;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.665
+LR130759.1_3520      -          K12339               -            2.4e-19   68.3   0.7   3.2e-17   61.3   0.1   2.1   2   0   0   2   2   0   2 # 4103080 # 4104162 # -1 # ID=1_3520;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.661
+OW370493.1_22        -          K12339               -            2.4e-16   58.5   0.0   6.7e-16   57.0   0.0   1.6   2   0   0   2   2   0   1 # 20971 # 22101 # 1 # ID=1_22;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.349
+LR130759.1_2183      -          K12339               -              5e-16   57.4   0.1   1.4e-14   52.7   0.0   2.0   2   0   0   2   2   0   1 # 2481857 # 2483137 # 1 # ID=1_2183;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+LR130759.1_2219      -          K12339               -            2.6e-14   51.8   1.4   1.1e-07   30.0   0.2   2.9   2   1   0   2   2   0   2 # 2521270 # 2522550 # 1 # ID=1_2219;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.630
+LR130759.1_2007      -          K12339               -             0.0008   17.3   0.4      0.46    8.2   0.0   2.1   2   0   0   2   2   0   2 # 2262697 # 2263938 # 1 # ID=1_2007;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.672
+LR130759.1_2691      -          K12339               -              0.012   13.4   0.0     0.024   12.4   0.0   1.6   1   1   0   1   1   0   0 # 3068104 # 3069141 # 1 # ID=1_2691;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.667
+LR130759.1_4612      -          K12339               -              0.018   12.8   0.0     0.028   12.2   0.0   1.2   1   0   0   1   1   0   0 # 5339896 # 5341050 # 1 # ID=1_4612;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.660
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K12339.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K12339.hmm.total.hmmsearch_result.txt --domT 397.73 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K12339.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:28:35 2023
+# [ok]

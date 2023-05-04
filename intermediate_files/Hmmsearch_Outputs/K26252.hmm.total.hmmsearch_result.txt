@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1803      -          K26252               -           5.7e-113  376.8   3.7  6.3e-113  376.7   3.7   1.0   1   0   0   1   1   1   1 # 2058003 # 2058695 # -1 # ID=1_1803;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.644
+LR130759.1_1719      -          K26252               -            1.8e-42  144.8   0.3   2.1e-42  144.5   0.3   1.0   1   0   0   1   1   0   1 # 1973346 # 1974062 # -1 # ID=1_1719;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.662
+LR130759.1_154       -          K26252               -            1.1e-05   23.7   1.3   1.5e-05   23.2   1.3   1.2   1   0   0   1   1   0   1 # 152311 # 152742 # 1 # ID=1_154;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.650
+LR130759.1_155       -          K26252               -             0.0012   17.0   0.1    0.0018   16.5   0.1   1.2   1   0   0   1   1   0   1 # 152804 # 153814 # -1 # ID=1_155;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.598
+LR130759.1_106       -          K26252               -              0.026   12.6   2.3     0.034   12.2   2.3   1.2   1   0   0   1   1   0   0 # 104559 # 105065 # -1 # ID=1_106;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+LR130759.1_4157      -          K26252               -              0.028   12.5   0.0     0.041   12.0   0.0   1.2   1   0   0   1   1   0   0 # 4821572 # 4822159 # 1 # ID=1_4157;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.633
+LR130759.1_3745      -          K26252               -              0.037   12.1   0.3     0.053   11.6   0.3   1.2   1   0   0   1   1   0   0 # 4369858 # 4370463 # 1 # ID=1_3745;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.688
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K26252.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K26252.hmm.total.hmmsearch_result.txt --domT 196.77 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K26252.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:39:54 2023
+# [ok]

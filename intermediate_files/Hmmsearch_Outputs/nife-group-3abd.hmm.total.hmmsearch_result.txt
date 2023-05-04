@@ -1,0 +1,14 @@
+#                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_3071      -          nife-group-3abd.mafft -           1.3e-158  527.8   0.0  1.4e-158  527.6   0.0   1.0   1   0   0   1   1   1   1 # 3540983 # 3542275 # -1 # ID=1_3071;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.630
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/METABOLIC_hmm_db/nife-group-3abd.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/nife-group-3abd.hmm.total.hmmsearch_result.txt -T 520.25 --cpu 1 /home/pedro/felipe/METABOLIC/METABOLIC_hmm_db/nife-group-3abd.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:40:06 2023
+# [ok]

@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_4573      -          K09747               -            1.1e-47  161.1   2.6   1.2e-47  161.0   2.6   1.0   1   0   0   1   1   1   1 # 5264186 # 5264584 # -1 # ID=1_4573;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.684
+OW370493.1_1256      -          K09747               -            2.5e-37  127.4   1.9   2.7e-37  127.3   1.9   1.0   1   0   0   1   1   1   1 # 1127850 # 1128173 # 1 # ID=1_1256;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.370
+OX366373.1_1116      -          K09747               -            2.9e-29  101.2   3.8   3.2e-29  101.0   3.8   1.0   1   0   0   1   1   1   1 # 1190403 # 1190735 # -1 # ID=1_1116;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.351
+LR130759.1_4805      -          K09747               -            6.4e-07   28.5   4.0   7.3e-07   28.3   4.0   1.1   1   0   0   1   1   1   1 # 5558091 # 5558438 # -1 # ID=1_4805;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.618
+LR130759.1_48        -          K09747               -             0.0014   17.6   0.1    0.0017   17.4   0.1   1.1   1   0   0   1   1   0   1 # 47664 # 47981 # 1 # ID=1_48;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+LR130759.1_4454      -          K09747               -              0.025   13.6   0.7       0.3   10.0   0.0   2.1   1   1   0   2   2   0   0 # 5146925 # 5147653 # 1 # ID=1_4454;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.654
+OX366373.1_197       -          K09747               -                1.1    8.3  11.7         2    7.3  11.8   1.4   1   1   0   1   1   0   0 # 215917 # 216282 # 1 # ID=1_197;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.380
+LR130759.1_1588      -          K09747               -                  4    6.4   8.4      0.33    9.9   0.4   2.8   2   1   0   2   2   0   0 # 1839245 # 1840813 # 1 # ID=1_1588;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.662
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K09747.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K09747.hmm.total.hmmsearch_result.txt --domT 23.47 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K09747.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:27:12 2023
+# [ok]

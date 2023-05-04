@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_4553      -          K18911               -           6.4e-144  478.8   0.5    7e-144  478.6   0.5   1.0   1   0   0   1   1   1   1 # 5244573 # 5245538 # -1 # ID=1_4553;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.628
+LR130759.1_4554      -          K18911               -              1e-05   23.6   0.0     1e-05   23.6   0.0   1.1   1   0   0   1   1   0   1 # 5245538 # 5246248 # -1 # ID=1_4554;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.636
+LR130759.1_1016      -          K18911               -             0.0039   15.1   0.1    0.0045   14.9   0.1   1.1   1   0   0   1   1   0   1 # 1124770 # 1125354 # 1 # ID=1_1016;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.668
+OW370493.1_619       -          K18911               -              0.011   13.5   0.0     0.024   12.5   0.0   1.4   1   0   0   1   1   0   0 # 548815 # 549684 # -1 # ID=1_619;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.298
+LR130759.1_2985      -          K18911               -              0.013   13.3   0.1     0.026   12.3   0.1   1.4   1   0   0   1   1   0   0 # 3452719 # 3453843 # -1 # ID=1_2985;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.651
+LR130759.1_2131      -          K18911               -              0.051   11.4   0.0     0.069   11.0   0.0   1.2   1   0   0   1   1   0   0 # 2407996 # 2408631 # -1 # ID=1_2131;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.585
+LR130759.1_3144      -          K18911               -              0.062   11.1   0.0     0.085   10.6   0.0   1.2   1   0   0   1   1   0   0 # 3646861 # 3647529 # 1 # ID=1_3144;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.620
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K18911.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K18911.hmm.total.hmmsearch_result.txt --domT 276.40 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K18911.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:35:14 2023
+# [ok]

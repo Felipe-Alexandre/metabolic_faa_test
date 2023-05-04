@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1449      -          TIGR02891            TIGR02891   1.3e-215  715.7  46.6  1.5e-215  715.5  46.6   1.0   1   0   0   1   1   1   1 # 1646267 # 1648012 # 1 # ID=1_1449;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.620
+OW370493.1_1355      -          TIGR02891            TIGR02891   2.7e-215  714.7  52.5  3.1e-215  714.5  52.5   1.0   1   0   0   1   1   1   1 # 1205788 # 1207365 # 1 # ID=1_1355;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.367
+OX366373.1_608       -          TIGR02891            TIGR02891   1.4e-211  702.5  52.2  1.6e-211  702.3  52.2   1.0   1   0   0   1   1   1   1 # 670353 # 671903 # 1 # ID=1_608;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.379
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/METABOLIC_hmm_db/TIGR02891.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/TIGR02891.hmm.total.hmmsearch_result.txt -T 617.40 --cpu 1 /home/pedro/felipe/METABOLIC/METABOLIC_hmm_db/TIGR02891.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:40:00 2023
+# [ok]

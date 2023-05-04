@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_2495      -          Ndh2                 -            4.2e-45  153.3   0.0   5.6e-45  152.8   0.0   1.0   1   0   0   1   1   1   1 # 2862563 # 2863948 # -1 # ID=1_2495;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.633
+LR130759.1_564       -          Ndh2                 -            4.1e-36  123.6   0.1   5.6e-36  123.1   0.1   1.1   1   0   0   1   1   1   1 # 642210 # 643625 # -1 # ID=1_564;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=3-4bp;gc_cont=0.650
+LR130759.1_2456      -          Ndh2                 -            6.7e-22   76.6   0.0     9e-22   76.2   0.0   1.1   1   0   0   1   1   1   1 # 2812737 # 2813921 # -1 # ID=1_2456;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.650
+LR130759.1_3880      -          Ndh2                 -            1.6e-17   62.2   0.0   1.3e-15   55.8   0.0   2.4   1   1   0   1   1   1   1 # 4517260 # 4518444 # 1 # ID=1_3880;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.685
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/METABOLIC_hmm_db/Ndh2.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/Ndh2.hmm.total.hmmsearch_result.txt -T 40 --cpu 1 /home/pedro/felipe/METABOLIC/METABOLIC_hmm_db/Ndh2.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:39:56 2023
+# [ok]

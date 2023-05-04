@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1567      -          K25153               -             0.0009   17.1   0.0    0.0022   15.9   0.0   1.5   1   1   1   2   2   0   1 # 1792269 # 1793264 # -1 # ID=1_1567;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.630
+LR130759.1_4542      -          K25153               -               0.01   13.6   0.3      0.02   12.7   0.3   1.6   1   1   0   1   1   0   0 # 5232940 # 5234082 # 1 # ID=1_4542;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+LR130759.1_1827      -          K25153               -              0.017   12.9   0.0     0.018   12.9   0.0   1.1   1   0   0   1   1   0   0 # 2078424 # 2079332 # 1 # ID=1_1827;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.631
+LR130759.1_1791      -          K25153               -              0.018   12.8   0.0     0.027   12.2   0.0   1.2   1   0   0   1   1   0   0 # 2046714 # 2049131 # 1 # ID=1_1791;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.666
+LR130759.1_1931      -          K25153               -              0.067   10.9   0.0     0.076   10.8   0.0   1.1   1   0   0   1   1   0   0 # 2180697 # 2181062 # 1 # ID=1_1931;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.612
+LR130759.1_2958      -          K25153               -              0.072   10.8   0.0     0.083   10.6   0.0   1.1   1   0   0   1   1   0   0 # 3423512 # 3424570 # -1 # ID=1_2958;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.684
+LR130759.1_1278      -          K25153               -                1.4    6.5   4.3      0.27    8.9   0.3   1.7   1   1   1   2   2   0   0 # 1476421 # 1477401 # 1 # ID=1_1278;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.669
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K25153.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K25153.hmm.total.hmmsearch_result.txt --domT 166.07 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K25153.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:39:15 2023
+# [ok]

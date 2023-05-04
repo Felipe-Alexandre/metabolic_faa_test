@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_4492      -          TIGR02188            TIGR02188   1.3e-286  950.9   0.0  1.5e-286  950.7   0.0   1.0   1   0   0   1   1   1   1 # 5190927 # 5192882 # 1 # ID=1_4492;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.647
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/METABOLIC_hmm_db/TIGR02188.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/TIGR02188.hmm.total.hmmsearch_result.txt -T 684.65 --cpu 1 /home/pedro/felipe/METABOLIC/METABOLIC_hmm_db/TIGR02188.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:40:03 2023
+# [ok]

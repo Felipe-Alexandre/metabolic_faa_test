@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OW370493.1_2311      -          K03749               -            6.3e-07   28.7   0.0     8e-07   28.4   0.0   1.1   1   0   0   1   1   0   1 # 2072385 # 2073182 # -1 # ID=1_2311;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.308
+OW370493.1_2741      -          K03749               -              0.001   18.2   0.0    0.0012   18.0   0.0   1.1   1   0   0   1   1   0   1 # 2485658 # 2486329 # -1 # ID=1_2741;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.272
+LR130759.1_1942      -          K03749               -             0.0011   18.1   7.8    0.0016   17.6   7.8   1.2   1   0   0   1   1   0   1 # 2194042 # 2194923 # -1 # ID=1_1942;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.669
+LR130759.1_4580      -          K03749               -             0.0032   16.6   5.0    0.0045   16.1   5.0   1.2   1   0   0   1   1   0   1 # 5272342 # 5273199 # 1 # ID=1_4580;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=3-4bp;gc_cont=0.648
+LR130759.1_2914      -          K03749               -              0.017   14.2  13.8     0.021   13.9  13.8   1.2   1   0   0   1   1   0   0 # 3371350 # 3372315 # -1 # ID=1_2914;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.649
+LR130759.1_1527      -          K03749               -               0.16   11.1   4.0      0.16   11.0   4.0   1.2   1   0   0   1   1   0   0 # 1733941 # 1734552 # -1 # ID=1_1527;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.686
+LR130759.1_53        -          K03749               -                9.9    5.2  34.2      0.98    8.5  15.2   2.1   2   0   0   2   2   0   0 # 51394 # 52473 # -1 # ID=1_53;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.687
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K03749.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K03749.hmm.total.hmmsearch_result.txt --domT 83.43 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K03749.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:24:19 2023
+# [ok]

@@ -1,0 +1,316 @@
+"Category","Function","Gene.name","GCA_900292015.1_MB901379","GCA_936269705.1_RiOegib_v1.0","GCA_947251655.1_ilPheTrem1.Wolbachia_sp_1.1"
+"Thermophilic specific","Thermophilic specific","reverse gyrase",0,0,0
+"Amino acid utilization","4-aminobutyrate aminotransferase and related aminotransferases","4-aminobutyrate aminotransferase and related aminotransferases",2,0,0
+"Amino acid utilization","Aminotransferase class I and II","aminotransferase class I and II",1,0,0
+"Amino acid utilization","Phosphoserine aminotransferase","phosphoserine aminotransferase",1,0,0
+"Amino acid utilization","Ornithine/acetylornithine aminotransferase","ornithine/acetylornithine aminotransferase",2,0,2
+"Amino acid utilization","Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase","branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase",2,1,0
+"Amino acid utilization","Aspartate/tyrosine/aromatic aminotransferase","aspartate/tyrosine/aromatic aminotransferase",0,1,1
+"Amino acid utilization","Histidinol-phosphate/aromatic aminotransferase","histidinol-phosphate/aromatic aminotransferase",2,0,0
+"Amino acid utilization","Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase","serine-pyruvate aminotransferase/archaeal aspartate aminotransferase",0,0,0
+"Ethanol fermentation","Acetate => Acetaldehyde","acetate => acetaldehyde",1,0,0
+"Ethanol fermentation","Acetaldehyde => Ethanol","acetaldehyde => ethanol",0,0,0
+"Fatty acid degradation","Fatty acid degradation","acyl-CoA dehydrogenase",8,0,0
+"Aromatics degradation","Protocatechuate/Catechol degradation","catechol 1,2-dioxygenase",0,0,0
+"Aromatics degradation","Phenol => Benzoyl-CoA","flavin prenyltransferase",0,1,1
+"Aromatics degradation","Phenol => Benzoyl-CoA","vanillate/4-hydroxybenzoate decarboxylase subunit C",0,0,0
+"Aromatics degradation","Benzoyl-CoA reduction","benzoyl-CoA reductase subunit C",0,0,0
+"Aromatics degradation","Benzoyl-CoA reduction","benzoyl-CoA reductase subunit B",0,0,0
+"Aromatics degradation","Benzoyl-CoA reduction","benzoyl-CoA reductase subunit A",0,0,0
+"Aromatics degradation","Benzoyl-CoA reduction","benzoyl-CoA reductase subunit D",0,0,0
+"Complex carbon degradation","Cellulose degrading","cellobiosidase",0,0,0
+"Complex carbon degradation","Cellulose degrading","cellulase",0,0,0
+"Complex carbon degradation","Cellulose degrading","beta-glucosidase",1,0,0
+"Complex carbon degradation","Hemicullulose debranching","arabinosidase",0,0,0
+"Complex carbon degradation","Hemicullulose debranching","beta-glucuronidase",0,0,0
+"Complex carbon degradation","Hemicullulose debranching","alpha-L-rhamnosidase",0,0,0
+"Complex carbon degradation","Endohemicellulases","mannan endo-1,4-beta-mannosidase",0,0,0
+"Complex carbon degradation","Endohemicellulases","alpha-D-xyloside xylohydrolase",0,0,0
+"Complex carbon degradation","Other oligosaccharide degrading","beta-xylosidase",0,0,0
+"Complex carbon degradation","Other oligosaccharide degrading","beta-mannosidase",0,0,0
+"Complex carbon degradation","Other oligosaccharide degrading","beta-galactosidase",0,0,0
+"Complex carbon degradation","Amylolytic enzymes","alpha-amylase",1,0,0
+"Complex carbon degradation","Amylolytic enzymes","glucoamylase",0,0,0
+"Complex carbon degradation","Amylolytic enzymes","pullulanase",0,0,0
+"Complex carbon degradation","Amylolytic enzymes","isoamylase",2,0,0
+"Complex carbon degradation","Chitin degrading","chitiniase",0,0,0
+"Complex carbon degradation","Chitin degrading","hexosaminidase",1,0,0
+"Fermentation","Pyruvate oxidation","pyruvate ferredoxin oxidoreductase alpha subunit",0,0,0
+"Fermentation","Alcohol utilization","alcohol dehydrogenase",0,0,0
+"Fermentation","Lactate utilization","L-lactate dehydrogenase",0,0,0
+"Fermentation","Acetogenesis","acetyl coenzyme A synthetase (ADP forming), alpha domain",0,0,0
+"Fermentation","Acetogenesis","acetate kinase",1,0,0
+"Fermentation","Acetogenesis","phosphate acetyltransferase",1,0,0
+"Fermentation","Acetate to acetyl-CoA","acetyl-CoA synthetase",1,0,0
+"Fermentation","Pyruvate <=> acetyl-CoA + formate","formate C-acetyltransferase",0,0,0
+"C1 metabolism","Methanol oxidation","methanol dehydrogenase (cytochrome c) subunit 1",0,0,0
+"C1 metabolism","Methanol oxidation","methanol dehydrogenase",0,0,0
+"C1 metabolism","Methyl amine -> formaldehyde","methylamine dehydrogenase light chain",0,0,0
+"C1 metabolism","Methyl amine -> formaldehyde","methylamine dehydrogenase heavy chain",0,0,0
+"C1 metabolism","Formaldehyde oxidation","glutathione-independent formaldehyde dehydrogenase",0,0,0
+"C1 metabolism","Formaldehyde oxidation","S-formylglutathione hydrolase",0,0,0
+"C1 metabolism","Formaldehyde oxidation","S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase",0,0,0
+"C1 metabolism","Formaldehyde oxidation","S-(hydroxymethyl)mycothiol dehydrogenase",1,0,0
+"C1 metabolism","Formaldehyde oxidation","5,6,7,8-tetrahydromethanopterin hydro-lyase",0,0,0
+"C1 metabolism","Formate oxidation","formate dehydrogenase major subunit",0,0,0
+"C1 metabolism","Formate oxidation","formate dehydrogenase beta subunit",0,0,0
+"C1 metabolism","Formate oxidation","formate dehydrogenase iron-sulfur subunit",0,0,0
+"C1 metabolism","Formate oxidation","formate dehydrogenase (coenzyme F420) alpha subunit",0,0,0
+"C1 metabolism","Formate oxidation","formate dehydrogenase (coenzyme F420) beta subunit",0,0,0
+"C1 metabolism","Aerobic CO oxidation","aerobic carbon-monoxide dehydrogenase small subunit",2,0,0
+"C1 metabolism","Aerobic CO oxidation","aerobic carbon-monoxide dehydrogenase medium subunit",2,0,0
+"C1 metabolism","Aerobic CO oxidation","aerobic carbon-monoxide dehydrogenase large subunit",2,0,0
+"Methane metabolism","Methane oxidation - Partculate methane monooxygenase","methane/ammonia monooxygenase subunit A",0,0,0
+"Methane metabolism","Methane oxidation - Partculate methane monooxygenase","methane/ammonia monooxygenase subunit B",0,0,0
+"Methane metabolism","Methane oxidation - Partculate methane monooxygenase","methane/ammonia monooxygenase subunit C",0,0,0
+"Methane metabolism","Methane oxidation - Soluble methane monoxygenase","methane monooxygenase regulatory protein B",0,0,0
+"Methane metabolism","Methane oxidation - Soluble methane monoxygenase","methane monooxygenase component D",0,0,0
+"Methane metabolism","Methane production","methyl-coenzyme M reductase alpha subunit",0,0,0
+"Methane metabolism","Methane production","methyl-coenzyme M reductase beta subunit",0,0,0
+"Methane metabolism","Methane production","methyl-coenzyme M reductase subunit C",0,0,0
+"Carbon fixation","CBB cycle - Rubisco","Form I RuBisCO large subunit",0,0,0
+"Carbon fixation","CBB cycle - Rubisco","Form II RuBisCO large subunit",0,0,0
+"Carbon fixation","3 Hydroxypropionate cycle","propionyl-CoA synthase",0,0,0
+"Carbon fixation","3 Hydroxypropionate cycle","malonyl-CoA reductase / 3-hydroxypropionate dehydrogenase (NADP+)",0,0,0
+"Carbon fixation","3HP/4HB","4-hydroxybutyrate---CoA ligase (ADP-forming)",0,0,0
+"Carbon fixation","3HP/4HB or DC/4-HB","4-hydroxybutyrate---CoA ligase (ADP-forming)",0,0,0
+"Carbon fixation","DC/4-HB","4-hydroxybutyrate---CoA ligase (ADP-forming)",0,0,0
+"Carbon fixation","Wood Ljungdahl pathway","acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit delta",0,0,0
+"Carbon fixation","Wood Ljungdahl pathway","acetyl-CoA decarbonylase/synthase, CODH/ACS complex subunit gamma",0,0,0
+"Carbon fixation","Wood Ljungdahl pathway","anaerobic carbon-monoxide dehydrogenase catalytic subunit",0,0,0
+"Carbon fixation","Reverse TCA cycle","ATP-citrate lyase alpha-subunit",0,0,0
+"Carbon fixation","Reverse TCA cycle","ATP-citrate lyase beta-subunit",0,0,0
+"Nitrogen cycling","Ammonia oxidation","methane/ammonia monooxygenase subunit A",0,0,0
+"Nitrogen cycling","Ammonia oxidation","methane/ammonia monooxygenase subunit B",0,0,0
+"Nitrogen cycling","Ammonia oxidation","methane/ammonia monooxygenase subunit C",0,0,0
+"Nitrogen cycling","N2 fixation","nitrogenase iron-iron protein, alpha subunit",0,0,0
+"Nitrogen cycling","N2 fixation","nitrogenase iron-iron protein, beta subunit",0,0,0
+"Nitrogen cycling","N2 fixation","nitrogenase iron-iron protein, delta subunit",0,0,0
+"Nitrogen cycling","N2 fixation","nitrogenase molybdenum-iron protein alpha chain",0,0,0
+"Nitrogen cycling","N2 fixation","nitrogenase molybdenum-iron protein beta chain",0,0,0
+"Nitrogen cycling","N2 fixation","nitrogenase vanadium-iron protein, alpha chain",0,0,0
+"Nitrogen cycling","N2 fixation","nitrogenase vanadium-iron protein, beta chain",0,0,0
+"Nitrogen cycling","N2 fixation","nitrogenase vanadium-iron protein, delta chain",0,0,0
+"Nitrogen cycling","N2 fixation","nitrogenase iron protein",0,0,0
+"Nitrogen cycling","Nitrite oxidation","nitrate reductase / nitrite oxidoreductase, alpha subunit",0,0,0
+"Nitrogen cycling","Nitrite oxidation","nitrate reductase / nitrite oxidoreductase, beta subunit",0,0,0
+"Nitrogen cycling","Nitrate reduction","periplasmic nitrate reductase NapA",0,0,0
+"Nitrogen cycling","Nitrate reduction","cytochrome c-type protein NapB",0,0,0
+"Nitrogen cycling","Nitrate reduction","nitrate reductase / nitrite oxidoreductase, alpha subunit",0,0,0
+"Nitrogen cycling","Nitrate reduction","nitrate reductase / nitrite oxidoreductase, beta subunit",0,0,0
+"Nitrogen cycling","Nitrite reduction to ammonia","cytochrome c nitrite reductase small subunit",0,0,0
+"Nitrogen cycling","Nitrite reduction to ammonia","nitrite reductase (cytochrome c-552)",0,0,0
+"Nitrogen cycling","Nitrite reduction to ammonia","cytochrome c nitrite reductase, NrfD subunit",0,0,0
+"Nitrogen cycling","Nitrite reduction to ammonia","nitrite reductase (NADH) large subunit",1,0,0
+"Nitrogen cycling","Nitrite reduction to ammonia","nitrite reductase (NADH) small subunit",1,0,0
+"Nitrogen cycling","Nitrite reduction","nitrite reductase (NO-forming)",0,0,0
+"Nitrogen cycling","Nitrite reduction","nitrite reductase (NO-forming) / hydroxylamine reductase",0,0,0
+"Nitrogen cycling","Nitrite reduction","nitrite reductase (Octaheme c-type cytochrome Shewanella-type)",0,0,0
+"Nitrogen cycling","Nitric oxide reduction","nitric oxide reductase subunit B",0,0,0
+"Nitrogen cycling","Nitric oxide reduction","nitric oxide reductase subunit C",0,0,0
+"Nitrogen cycling","Nitrous oxide reduction","nitrous oxidase accessory protein",0,0,0
+"Nitrogen cycling","Nitrous oxide reduction","nitrous-oxide reductase",0,0,0
+"Nitrogen cycling","Anammox","hydroxylamine dehydrogenase, alpha subunit",0,0,0
+"Nitrogen cycling","Anammox","hydrazine synthase subunit, alpha subunit",0,0,0
+"Sulfur cycling","Sulfide oxidation","flavocytochrome c sulphide dehydrogenase, flavin-binding",0,0,0
+"Sulfur cycling","Sulfide oxidation","sulfide:quinone oxidoreductase",0,0,0
+"Sulfur cycling","Sulfite reduction","dissimilatory sulfite reductase delta subunit",0,0,0
+"Sulfur cycling","Sulfur oxidation","dissimilatory sulfite reductase alpha subunit",0,0,0
+"Sulfur cycling","Sulfur oxidation","dissimilatory sulfite reductase beta subunit",0,0,0
+"Sulfur cycling","Sulfur oxidation","sulfur dioxygenase",1,0,0
+"Sulfur cycling","Sulfur oxidation/reduction","sulfur oxygenase/reductase",0,0,0
+"Sulfur cycling","Sulfur reduction","sulfur reductase molybdopterin subunit",0,0,0
+"Sulfur cycling","Sulfur reduction","sulfur reductase FeS subunit",0,0,0
+"Sulfur cycling","Sulfur reduction","sulfur reductase membrane anchor",0,0,0
+"Sulfur cycling","Thiosulfate oxidation","S-sulfosulfanyl-L-cysteine sulfohydrolase",0,0,0
+"Sulfur cycling","Thiosulfate oxidation","sulfur-oxidizing protein SoxY",0,0,0
+"Sulfur cycling","Thiosulfate oxidation","sulfane dehydrogenase subunit SoxC",0,0,0
+"Sulfur cycling","Sulfite reduction","anaerobic sulfite reductase subunit A",0,0,0
+"Sulfur cycling","Sulfite reduction","anaerobic sulfite reductase subunit B",0,0,0
+"Sulfur cycling","Sulfite reduction","anaerobic sulfite reductase subunit C",0,0,0
+"Sulfur cycling","Sulfate reduction","adenylylsulfate reductase, subunit A",0,0,0
+"Sulfur cycling","Sulfate reduction","sulfate adenylyltransferase",0,0,0
+"Sulfur cycling","Thiosulfate disproportionation","thiosulfate reductase / polysulfide reductase chain A",0,0,0
+"Hydrogenases","FeFe hydrogenase","FeFe hydrogenase, H2-evolution/Electron-bifurcation",0,0,0
+"Hydrogenases","FeFe hydrogenase","FeFe hydrogenase, H2-uptake",0,0,0
+"Hydrogenases","FeFe hydrogenase","FeFe hydrogenase, H2-uptake/Electron-bifurcation",0,0,0
+"Hydrogenases","FeFe hydrogenase","FeFe hydrogenase, H2-evolution",0,0,0
+"Hydrogenases","FeFe hydrogenase","FeFe hydrogenase, H2-sensing",0,0,0
+"Hydrogenases","FeFe hydrogenase","FeFe hydrogenase, H2-sensing",0,0,0
+"Hydrogenases","FeFe hydrogenase","FeFe hydrogenase, H2-sensing",0,0,0
+"Hydrogenases","Fe hydrogenase","Fe hydrogenase, Bidirectional",0,0,0
+"Hydrogenases","Ni-Fe Hydrogenase","Ni-Fe Hydrogenase, H2-uptake",1,0,0
+"Hydrogenases","Ni-Fe Hydrogenase","Ni-Fe Hydrogenase, H2-uptake",0,0,0
+"Hydrogenases","Ni-Fe Hydrogenase","Ni-Fe Hydrogenase, H2-uptake",0,0,0
+"Hydrogenases","Ni-Fe Hydrogenase","Ni-Fe Hydrogenase, Bidirectional",1,0,0
+"Hydrogenases","Ni-Fe Hydrogenase","Ni-Fe Hydrogenase, Electron-bifurcation",0,0,0
+"Hydrogenases","Ni-Fe Hydrogenase","Ni-Fe Hydrogenase, H2-evolving",0,0,0
+"Hydrogenases","Ni-Fe Hydrogenase","Ni-Fe Hydrogenase, H2-uptake",0,0,0
+"Oxidative phosphorylation","Complex I (NADH-quinone oxidoreductase)","NADH-quinone oxidoreductase subunit A",1,1,1
+"Oxidative phosphorylation","Complex I (NADH-quinone oxidoreductase)","NADH-quinone oxidoreductase subunit B",1,1,1
+"Oxidative phosphorylation","Complex I (NADH-quinone oxidoreductase)","NADH-quinone oxidoreductase subunit C",1,0,0
+"Oxidative phosphorylation","Complex I (NAD(P)H-quinone oxidoreductase)","NAD(P)H-quinone oxidoreductase subunit 1",0,0,0
+"Oxidative phosphorylation","Complex I (NAD(P)H-quinone oxidoreductase)","NAD(P)H-quinone oxidoreductase subunit 2",0,0,0
+"Oxidative phosphorylation","Complex I (NAD(P)H-quinone oxidoreductase)","NAD(P)H-quinone oxidoreductase subunit 3",0,0,0
+"Oxidative phosphorylation","Complex II (Succinate dehydrogenase/Fumarate reductase)","succinate dehydrogenase / fumarate reductase, cytochrome b subunit",1,1,1
+"Oxidative phosphorylation","Complex II (Succinate dehydrogenase/Fumarate reductase)","succinate dehydrogenase / fumarate reductase, membrane anchor subunit",1,1,0
+"Oxidative phosphorylation","Complex III (Cytochrome c reductase)","ubiquinol-cytochrome c reductase iron-sulfur subunit",0,1,1
+"Oxidative phosphorylation","Complex III (Cytochrome c reductase)","ubiquinol-cytochrome c reductase cytochrome b/c1 subunit",0,1,1
+"Oxidative phosphorylation","Complex III (Cytochrome c reductase)","ubiquinol-cytochrome c reductase cytochrome b/c1 subunit",0,0,0
+"Oxidative phosphorylation","Complex V (ATP synthase: V/A-type H+/Na+-transporting ATPase)","V/A-type H+/Na+-transporting ATPase subunit A",0,0,0
+"Oxidative phosphorylation","Complex V (ATP synthase: V/A-type H+/Na+-transporting ATPase)","V/A-type H+/Na+-transporting ATPase subunit B",0,0,0
+"Oxidative phosphorylation","Complex V (F-type H+-transporting ATPase)","F-type H+/Na+-transporting ATPase subunit alpha",1,1,1
+"Oxidative phosphorylation","Complex V (F-type H+-transporting ATPase)","F-type H+/Na+-transporting ATPase subunit beta",1,1,1
+"Oxygen metabolism (Oxidative phosphorylation Complex IV)","Oxygen metabolism - cytochrome c oxidase, caa3-type","cytochrome c oxidase subunit I",1,1,1
+"Oxygen metabolism (Oxidative phosphorylation Complex IV)","Oxygen metabolism - cytochrome c oxidase, caa3-type","cytochrome c oxidase subunit II",0,1,1
+"Oxygen metabolism (Oxidative phosphorylation Complex IV)","Oxygen metabolism - cytochrome c oxidase, cbb3-type","cytochrome c oxidase cbb3-type subunit I",0,0,0
+"Oxygen metabolism (Oxidative phosphorylation Complex IV)","Oxygen metabolism - cytochrome c oxidase, cbb3-type","cytochrome c oxidase cbb3-type subunit II",0,0,0
+"Oxygen metabolism (Oxidative phosphorylation Complex IV)","Oxygen metabolism - cytochrome c oxidase, cbb3-type","cytochrome c oxidase cbb3-type subunit III",0,0,0
+"Oxygen metabolism (Oxidative phosphorylation Complex IV)","Oxygen metabolism - cytochrome (quinone) oxidase, bo type","cytochrome o ubiquinol oxidase subunit II",0,0,0
+"Oxygen metabolism (Oxidative phosphorylation Complex IV)","Oxygen metabolism - cytochrome (quinone) oxidase, bo type","cytochrome o ubiquinol oxidase subunit IV",0,0,0
+"Oxygen metabolism (Oxidative phosphorylation Complex IV)","Oxygen metabolism - cytochrome (quinone) oxidase, bo type","cytochrome o ubiquinol oxidase subunit I",0,0,0
+"Oxygen metabolism (Oxidative phosphorylation Complex IV)","Oxygen metabolism - cytochrome (quinone) oxidase, bo type","cytochrome o ubiquinol oxidase subunit III",0,0,0
+"Oxygen metabolism (Oxidative phosphorylation Complex IV)","Oxygen metabolism - cytochrome (quinone) oxidase, bd type","cytochrome bd ubiquinol oxidase subunit I",1,1,0
+"Oxygen metabolism (Oxidative phosphorylation Complex IV)","Oxygen metabolism - cytochrome (quinone) oxidase, bd type","cytochrome bd ubiquinol oxidase subunit II",1,1,0
+"Oxygen metabolism (Oxidative phosphorylation Complex IV)","Oxygen metabolism - cytochrome (quinone) oxidase, aa3 type, QoxABCD","cytochrome aa3-600 menaquinol oxidase subunit II",0,0,0
+"Oxygen metabolism (Oxidative phosphorylation Complex IV)","Oxygen metabolism - cytochrome (quinone) oxidase, aa3 type, QoxABCD","cytochrome aa3-600 menaquinol oxidase subunit I",0,0,0
+"Urea utilization","Urease","urease subunit alpha",1,0,0
+"Urea utilization","Urease","urease subunit beta",1,0,0
+"Urea utilization","Urease","urease subunit gamma",1,0,0
+"Halogenated compound utilization","Halogenated compounds breakdown","2-haloacid dehalogenase",0,0,0
+"Halogenated compound utilization","Halogenated compounds breakdown","tetrachlorohydroquinone reductive dehalogenase",0,0,0
+"Halogenated compound utilization","Halogenated compounds breakdown","3-chloro-4-hydroxyphenylacetate reductive dehalogenase",0,0,0
+"Halogenated compound utilization","Halogenated compounds breakdown","tetrachloroethene reductive dehalogenase",0,0,0
+"Perchlorate reduction","Perchlorate reduction","perchlorate reductase, subunit alpha",0,0,0
+"Perchlorate reduction","Perchlorate reduction","perchlorate reductase, subunit beta",0,0,0
+"Chlorite reduction","Chlorite reduction","chlorite dismutase",1,0,0
+"As cycling","Dissimilatory arsenate reduction","dissimilatory arsenate reductase",0,0,0
+"As cycling","Arsenate reduction for detoxification","arsenate reductase (glutaredoxin)",1,0,0
+"As cycling","Arsenate reduction for detoxification","arsenate reductase (thioredoxin)",0,0,0
+"As cycling","Arsenite oxidation for energy metabolism","arsenite oxidase (molybdopterin subunit)",0,0,0
+"As cycling","Arsenite oxidation for detoxification and energy metabolism","arsenite oxidase large subunit",0,0,0
+"As cycling","Arsenite methylation","arsenite methyltransferase",1,0,0
+"Selenate reduction","Selenate reduction","putative selenate reductase FAD-binding subunit",0,0,0
+"Selenate reduction","Selenate reduction","putative selenate reductase molybdopterin-binding subunit",0,0,0
+"Selenate reduction","Selenate reduction","putative selenate reductase",0,0,0
+"Nitrile hydration","Nitrile hydratase","nitrile hydratase subunit alpha",0,0,0
+"Nitrile hydration","Nitrile hydratase","nitrile hydratase subunit beta",0,0,0
+"Iron cycling","Iron oxidation","Cyc1",0,0,0
+"Iron cycling","Iron oxidation","Cyc2_repCluster1",0,0,0
+"Iron cycling","Iron oxidation","Cyc2_repCluster2",0,0,0
+"Iron cycling","Iron oxidation","Cyc2_repCluster3",0,0,0
+"Iron cycling","Iron oxidation","FoxA",0,0,0
+"Iron cycling","Iron oxidation","FoxB",0,0,0
+"Iron cycling","Iron oxidation","FoxC",0,0,0
+"Iron cycling","Iron oxidation","FoxE",0,0,0
+"Iron cycling","Iron oxidation","FoxY",0,0,0
+"Iron cycling","Iron oxidation","FoxZ",0,0,0
+"Iron cycling","Iron oxidation","MtoA",0,0,0
+"Iron cycling","Iron oxidation","sulfocyanin",0,0,0
+"Iron cycling","Metal (Iron/Manganese) reduction","MtrA",0,0,0
+"Iron cycling","Metal (Iron/Manganese) reduction","MtrB_TIGR03509",0,0,0
+"Iron cycling","Metal (Iron/Manganese) reduction","MtrC_TIGR03507",0,0,0
+"Iron cycling","Iron reduction","CymA",0,0,0
+"Iron cycling","Iron reduction","OmcF",0,0,0
+"Iron cycling","Iron reduction","OmcS",0,0,0
+"Iron cycling","Iron reduction","OmcZ",0,0,0
+"Iron cycling","Iron reduction","FmnA",1,0,0
+"Iron cycling","Iron reduction","DmkA",1,0,0
+"Iron cycling","Iron reduction","FmnB",0,0,0
+"Iron cycling","Iron reduction","PplA",0,0,0
+"Iron cycling","Iron reduction","Ndh2",4,0,0
+"Iron cycling","Iron reduction","EetA",0,0,0
+"Iron cycling","Iron reduction","EetB",0,0,0
+"Iron cycling","Iron reduction","DmkB",3,1,2
+"Iron cycling","Iron reduction","DFE_0448",0,0,0
+"Iron cycling","Iron reduction","DFE_0449",0,0,0
+"Iron cycling","Iron reduction","DFE_0450",0,0,0
+"Iron cycling","Iron reduction","DFE_0451",0,0,0
+"Iron cycling","Iron reduction","DFE_0461",0,0,0
+"Iron cycling","Iron reduction","DFE_0462",0,0,0
+"Iron cycling","Iron reduction","DFE_0463",0,0,0
+"Iron cycling","Iron reduction","DFE_0464",0,0,0
+"Iron cycling","Iron reduction","DFE_0465",0,0,0
+"Manganese cycling","Manganese oxidation","Manganese_oxidase_K06324",1,0,0
+"Manganese cycling","Manganese oxidation","Manganese_oxidase_K22348",0,0,0
+"Manganese cycling","Manganese oxidation","Manganese_oxidase_K22349",0,0,0
+"Manganese cycling","Manganese oxidation","Manganese_oxidase_K22350",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfide oxidation","flavocytochrome c sulphide dehydrogenase, flavin-binding",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfide oxidation","sulfide:quinone oxidoreductase",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase alpha subunit",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase beta subunit",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase, subunit C",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase delta subunit",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase, subunit E",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase, subunit F",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase, subunit H",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase, subunit J",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase, subunit K",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase, subunit M",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase, subunit O",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase, subunit P",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase, subunit R",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase, subunit S",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/Sulfite reduction","dissimilatory sulfite reductase, subunit T",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfite reduction","anaerobic sulfite reductase subunit A",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfite reduction","anaerobic sulfite reductase subunit B",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfite reduction","anaerobic sulfite reductase subunit C",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation","sulfur dioxygenase",1,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur oxidation/reduction","sulfur oxygenase/reductase",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur reduction","sulfur reductase molybdopterin subunit",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur reduction","sulfur reductase FeS subunit",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfur reduction","sulfur reductase membrane anchor",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Thiosulfate oxidation","L-cysteine S-thiosulfotransferase",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Thiosulfate oxidation","S-sulfosulfanyl-L-cysteine sulfohydrolase",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Thiosulfate oxidation","sulfane dehydrogenase subunit SoxC",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Thiosulfate oxidation","S-disulfanyl-L-cysteine oxidoreductase SoxD",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Thiosulfate oxidation","L-cysteine S-thiosulfotransferase",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Thiosulfate oxidation","sulfur-oxidizing protein SoxY",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Thiosulfate oxidation","soxYZ_like_carrier",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Thiosulfate oxidation","sulfur-oxidizing protein SoxZ",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfate reduction","adenylylsulfate reductase, subunit A",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfate reduction","adenylylsulfate reductase, subunit B",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Sulfate reduction","sulfate adenylyltransferase",0,0,0
+"Sulfur cycling enzymes (detailed)","Dissimilatory sulfur metabolism | Thiosulfate disproportionation","thiosulfate reductase / polysulfide reductase chain A",0,0,0
+"Sulfur cycling enzymes (detailed)","Assimilatory sulfur metabolism| Sulfate <-> APS (Adenosine 5'-phosphosulfate)","sulfate adenylyltransferase subunit 2",1,0,0
+"Sulfur cycling enzymes (detailed)","Assimilatory sulfur metabolism| Sulfate <-> APS (Adenosine 5'-phosphosulfate)","sulfate adenylyltransferase subunit 1",1,0,0
+"Sulfur cycling enzymes (detailed)","Assimilatory sulfur metabolism| Sulfate <-> APS (Adenosine 5'-phosphosulfate)","bifunctional enzyme CysN/CysC",1,0,0
+"Sulfur cycling enzymes (detailed)","Assimilatory sulfur metabolism| APS (Adenosine 5'-phosphosulfate) <-> PAPS (3'-Phosphoadenosine 5'-phosphosulfate)","adenylylsulfate kinase",0,0,0
+"Sulfur cycling enzymes (detailed)","Assimilatory sulfur metabolism| APS (Adenosine 5'-phosphosulfate) <-> PAPS (3'-Phosphoadenosine 5'-phosphosulfate)","bifunctional enzyme CysN/CysC",1,0,0
+"Sulfur cycling enzymes (detailed)","Assimilatory sulfur metabolism| PAPS (3'-Phosphoadenosine 5'-phosphosulfate) <-> Sulfite","phosphoadenosine phosphosulfate reductase",2,0,0
+"Sulfur cycling enzymes (detailed)","Assimilatory sulfur metabolism| Sulfite -> Sulfide","sulfite reductase (NADPH) flavoprotein alpha-component",1,0,0
+"Sulfur cycling enzymes (detailed)","Assimilatory sulfur metabolism| Sulfide -> Cysteine","cysteine synthase",1,0,0
+"Sulfur cycling enzymes (detailed)","Assimilatory sulfur metabolism| Sulfide -> Cysteine","S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent)",0,0,0
+"Sulfur cycling enzymes (detailed)","DMSO metabolism | DMSO (Dimethyl sulfoxide) -> Methanesulfonate","DMS oxygenase alpha subunit",0,0,0
+"Sulfur cycling enzymes (detailed)","DMSO metabolism | DMSO (Dimethyl sulfoxide) -> Methanesulfonate","DMS oxygenase beta subunit",0,0,0
+"Sulfur cycling enzymes (detailed)","DMSO metabolism | DMSO (Dimethyl sulfoxide) -> Methanesulfonate","dimethylsulfone monooxygenase",0,0,0
+"Sulfur cycling enzymes (detailed)","DMSO metabolism | DMSO (Dimethyl sulfoxide) -> Methanesulfonate","methanesulfonate monooxygenase",0,0,0
+"Sulfur cycling enzymes (detailed)","DMSO metabolism | DMSO (Dimethyl sulfoxide) <-> DMS (Dimethyl sulfide)","DMS oxygenase alpha subunit",0,0,0
+"Sulfur cycling enzymes (detailed)","DMSO metabolism | DMSO (Dimethyl sulfoxide) <-> DMS (Dimethyl sulfide)","DMS oxygenase beta subunit",0,0,0
+"Sulfur cycling enzymes (detailed)","DMSO metabolism | DMSO (Dimethyl sulfoxide) <-> DMS (Dimethyl sulfide)","dimethylsulfide dehydrogenase subunit alpha",1,0,0
+"Sulfur cycling enzymes (detailed)","DMSO metabolism | DMSO (Dimethyl sulfoxide) <-> DMS (Dimethyl sulfide)","anaerobic dimethyl sulfoxide reductase subunit A",0,0,0
+"Sulfur cycling enzymes (detailed)","DMSO metabolism | DMS (Dimethyl sulfide) <-> Methanethiol","dimethyl-sulfide monooxygenase subunit A",0,0,0
+"Sulfur cycling enzymes (detailed)","DMSO metabolism | DMS (Dimethyl sulfide) <-> Methanethiol","dimethyl-sulfide monooxygenase subunit B",4,1,0
+"Sulfur cycling enzymes (detailed)","DMSO metabolism | DMS (Dimethyl sulfide) <-> Methanethiol","methanethiol S-methyltransferase",2,0,0
+"Sulfur cycling enzymes (detailed)","Sulfite production from organic sulfur | Taurine -> Sulfite","taurine dioxygenase",0,0,0
+"Sulfur cycling enzymes (detailed)","Sulfite production from organic sulfur | Alkylsulfonate/Isethionate -> Sulfite","alkanesulfonate monooxygenase",0,0,0
+"Sulfur cycling enzymes (detailed)","Sulfite production from organic sulfur | Methanesulfonate -> Sulfite","methanesulfonate monooxygenase",0,0,0
+"Sulfur cycling enzymes (detailed)","Metabolism of organic sulfur | Cysteine <-> Cystathionine","cystathionine gamma-synthase",1,0,0
+"Sulfur cycling enzymes (detailed)","Metabolism of organic sulfur | Cysteine <-> 3-mercaptopyruvate","aspartate aminotransferase",0,1,1
+"Sulfur cycling enzymes (detailed)","Metabolism of organic sulfur | OAHS (O-acetylhomoserine) + Sulfide -> Homocysteine","O-acetylhomoserine (thiol)-lyase",1,0,0
+"Sulfur cycling enzymes (detailed)","Metabolism of organic sulfur | Cystathionine -> Homocysteine","cysteine-S-conjugate beta-lyase",0,0,0
+"Sulfur cycling enzymes (detailed)","Metabolism of organic sulfur | Cystathionine -> Homocysteine","cysteine-S-conjugate beta-lyase",1,0,0
+"Sulfur cycling enzymes (detailed)","Metabolism of organic sulfur | MHO (L-methionine (R)-S-oxide) -> Methionine)","L-methionine (R)-S-oxide reductase",0,0,0
+"Sulfur cycling enzymes (detailed)","Metabolism of organic sulfur | Homocysteine -> Methionine","5-methyltetrahydrofolate--homocysteine methyltransferase",1,0,0
+"Sulfur cycling enzymes (detailed)","Metabolism of organic sulfur | Homocysteine <-> Methionine","5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase",2,0,0
+"Sulfur cycling enzymes (detailed)","Metabolism of organic sulfur | SAH (S-adenosyl-L-homocysteine) -> Homocysteine","adenosylhomocysteinase",1,0,0
+"Sulfur cycling enzymes (detailed)","Metabolism of organic sulfur | SRH (S-ribosylhomocysteine) -> Homocysteine","S-ribosylhomocysteine lyase",0,0,0
+"Sulfur cycling enzymes (detailed)","Metabolism of organic sulfur | SAH (S-adenosyl-L-homocysteine) -> SRH (S-ribosylhomocysteine)","adenosylhomocysteine nucleosidase",1,0,0
+"Sulfur cycling enzymes (detailed)","Sulfur-related amino acid metabolism | Cysteine -> Sulfide","cysteine synthase",1,0,0
+"Sulfur cycling enzymes (detailed)","Sulfur-related amino acid metabolism | Cysteine -> Sulfide","S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent)",0,0,0
+"Sulfur cycling enzymes (detailed)","Sulfur-related amino acid metabolism | Cysteine -> Sulfide","cysteine-S-conjugate beta-lyase",0,0,0
+"Sulfur cycling enzymes (detailed)","Sulfur-related amino acid metabolism | Cysteine -> Sulfide","D-cysteine desulfhydrase",0,0,0
+"Sulfur cycling enzymes (detailed)","Sulfur-related amino acid metabolism | Cysteine -> Sulfide","cysteine-S-conjugate beta-lyase",1,0,0
+"Sulfur cycling enzymes (detailed)","Sulfur-related amino acid metabolism | Methionine -> Methanethiol","methionine gamma-lyase",3,0,0
+"Sulfur cycling enzymes (detailed)","Sulfur-related amino acid metabolism | Methionine -> SAMe (S-adenosyl-L-methionine)","S-adenosylmethionine synthetase",1,0,1
+"Sulfur cycling enzymes (detailed)","Sulfur-related amino acid metabolism | SAMe (S-adenosyl-L-methionine) -> SAH (S-adenosyl-L-homocysteine)","DNA (cytosine-5)-methyltransferase 1",0,0,0

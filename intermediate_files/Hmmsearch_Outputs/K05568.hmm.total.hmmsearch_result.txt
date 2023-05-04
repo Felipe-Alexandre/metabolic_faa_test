@@ -1,0 +1,33 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_1193      -          K05568               -           2.7e-138  461.3  45.0  3.3e-138  461.0  45.0   1.0   1   0   0   1   1   1   1 # 1262693 # 1264141 # -1 # ID=1_1193;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.332
+OX366373.1_683       -          K05568               -           5.1e-123  410.8  51.6  5.6e-123  410.7  51.6   1.0   1   0   0   1   1   1   1 # 745795 # 747294 # 1 # ID=1_683;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.329
+OW370493.1_1326      -          K05568               -            1.3e-98  330.1  37.6   1.6e-98  329.9  37.6   1.0   1   0   0   1   1   0   1 # 1178769 # 1180277 # -1 # ID=1_1326;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.307
+OW370493.1_2325      -          K05568               -            4.1e-96  322.0  58.4   4.7e-96  321.8  58.4   1.0   1   0   0   1   1   0   1 # 2088208 # 2089704 # 1 # ID=1_2325;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.321
+OX366373.1_1174      -          K05568               -            1.4e-94  316.8  40.2   1.9e-94  316.5  40.2   1.2   1   0   0   1   1   0   1 # 1240573 # 1242426 # 1 # ID=1_1174;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.347
+LR130759.1_1286      -          K05568               -            8.5e-90  301.1  67.9   4.6e-89  298.6  67.9   2.0   1   1   0   1   1   0   1 # 1486152 # 1488038 # -1 # ID=1_1286;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.657
+OW370493.1_1645      -          K05568               -            8.7e-88  294.4  44.6   1.2e-87  294.0  44.6   1.1   1   0   0   1   1   0   1 # 1496340 # 1498337 # 1 # ID=1_1645;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.333
+OX366373.1_1175      -          K05568               -            1.2e-87  293.9  61.6   1.5e-87  293.7  61.6   1.0   1   0   0   1   1   0   1 # 1242430 # 1243872 # 1 # ID=1_1175;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.351
+LR130759.1_1285      -          K05568               -            1.8e-87  293.4  52.8   2.2e-87  293.1  52.8   1.0   1   0   0   1   1   0   1 # 1484581 # 1486155 # -1 # ID=1_1285;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.630
+LR130759.1_1284      -          K05568               -            5.4e-82  275.3  36.8   5.4e-82  275.3  36.8   2.0   2   0   0   2   2   0   2 # 1482998 # 1484584 # -1 # ID=1_1284;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.647
+LR130759.1_1454      -          K05568               -            1.6e-79  267.1  72.7   3.3e-79  266.1  72.7   1.5   1   1   0   1   1   0   1 # 1650267 # 1652243 # 1 # ID=1_1454;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+OX366373.1_1176      -          K05568               -              5e-74  249.0  42.0     6e-74  248.7  42.0   1.0   1   0   0   1   1   0   1 # 1243869 # 1245254 # 1 # ID=1_1176;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.342
+OW370493.1_1356      -          K05568               -            5.1e-73  245.6  32.4   5.9e-73  245.4  32.4   1.1   1   0   0   1   1   0   1 # 1207690 # 1209351 # 1 # ID=1_1356;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.293
+LR130759.1_1457      -          K05568               -            9.5e-73  244.8  81.5   1.1e-72  244.5  81.5   1.0   1   0   0   1   1   0   1 # 1653866 # 1655332 # 1 # ID=1_1457;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.666
+OW370493.1_1327      -          K05568               -            6.7e-66  222.1  37.0   7.6e-66  221.9  37.0   1.0   1   0   0   1   1   0   1 # 1180277 # 1181758 # -1 # ID=1_1327;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.331
+OW370493.1_2758      -          K05568               -            7.3e-64  215.4  38.6   8.4e-64  215.2  38.6   1.0   1   0   0   1   1   0   1 # 2502779 # 2504182 # 1 # ID=1_2758;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.326
+OX366373.1_1025      -          K05568               -            2.5e-50  170.7  34.9   2.5e-50  170.7  34.9   1.8   1   1   1   2   2   0   1 # 1103462 # 1104973 # 1 # ID=1_1025;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.338
+OW370493.1_1328      -          K05568               -            0.00014   19.5   0.8   0.00017   19.3   0.8   1.0   1   0   0   1   1   0   1 # 1181764 # 1182144 # -1 # ID=1_1328;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.339
+OX366373.1_996       -          K05568               -             0.0023   15.5   1.8    0.0023   15.5   1.8   1.0   1   0   0   1   1   0   1 # 1072134 # 1072436 # -1 # ID=1_996;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.287
+LR130759.1_232       -          K05568               -              0.075   10.5   9.7     0.087   10.3   9.7   1.1   1   0   0   1   1   0   0 # 246948 # 247466 # -1 # ID=1_232;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.655
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K05568.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K05568.hmm.total.hmmsearch_result.txt --domT 391.37 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K05568.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:24:56 2023
+# [ok]

@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_4378      -          K00832               -            4.1e-14   51.6   0.0   5.5e-14   51.2   0.0   1.1   1   0   0   1   1   0   1 # 5072431 # 5073597 # 1 # ID=1_4378;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.647
+LR130759.1_4026      -          K00832               -            2.9e-13   48.8   0.0   4.6e-13   48.1   0.0   1.4   1   1   0   1   1   0   1 # 4689720 # 4690952 # 1 # ID=1_4026;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.646
+OX366373.1_2         -          K00832               -            7.5e-09   34.3   0.0     1e-08   33.8   0.0   1.2   1   0   0   1   1   0   1 # 1455 # 2648 # 1 # ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.370
+OW370493.1_915       -          K00832               -            1.7e-07   29.8   0.0   2.4e-07   29.3   0.0   1.1   1   0   0   1   1   0   1 # 812583 # 813785 # -1 # ID=1_915;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.337
+LR130759.1_500       -          K00832               -            2.1e-07   29.5   0.0   2.9e-07   29.0   0.0   1.1   1   0   0   1   1   0   1 # 556135 # 557406 # -1 # ID=1_500;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.630
+LR130759.1_2206      -          K00832               -            3.7e-07   28.7   0.0   5.1e-07   28.2   0.0   1.1   1   0   0   1   1   0   1 # 2509116 # 2510264 # 1 # ID=1_2206;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.625
+LR130759.1_4689      -          K00832               -            2.4e-06   26.0   0.0   3.2e-06   25.6   0.0   1.1   1   0   0   1   1   0   1 # 5412520 # 5413722 # 1 # ID=1_4689;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.679
+LR130759.1_2185      -          K00832               -            1.5e-05   23.4   0.0   7.5e-05   21.1   0.0   1.9   2   0   0   2   2   0   1 # 2483822 # 2485147 # 1 # ID=1_2185;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.681
+LR130759.1_1107      -          K00832               -             0.0002   19.7   0.0    0.0004   18.7   0.0   1.4   2   0   0   2   2   0   1 # 1295148 # 1296347 # -1 # ID=1_1107;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.674
+LR130759.1_3676      -          K00832               -              0.011   14.0   0.0     0.033   12.4   0.0   1.8   1   1   1   2   2   0   0 # 4284672 # 4285766 # -1 # ID=1_3676;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.700
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00832.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K00832.hmm.total.hmmsearch_result.txt --domT 554.87 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00832.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:21:49 2023
+# [ok]

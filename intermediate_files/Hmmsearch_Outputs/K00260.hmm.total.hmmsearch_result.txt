@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_852       -          K00260               -            0.00024   19.1   0.1   0.00066   17.6   0.0   1.7   2   0   0   2   2   0   1 # 924297 # 925619 # 1 # ID=1_852;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403
+OW370493.1_1186      -          K00260               -             0.0038   15.1   3.0      0.11   10.3   0.5   3.1   2   1   0   2   2   0   1 # 1052743 # 1057728 # 1 # ID=1_1186;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.310
+LR130759.1_937       -          K00260               -             0.0072   14.2   0.2    0.0082   14.0   0.2   1.1   1   0   0   1   1   0   1 # 1038013 # 1038432 # 1 # ID=1_937;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.662
+LR130759.1_133       -          K00260               -               0.01   13.7   0.8     0.023   12.6   0.8   1.5   1   0   0   1   1   0   0 # 129439 # 131076 # -1 # ID=1_133;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+LR130759.1_3608      -          K00260               -              0.012   13.5   0.1     0.019   12.8   0.1   1.2   1   0   0   1   1   0   0 # 4205167 # 4206372 # -1 # ID=1_3608;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.666
+LR130759.1_217       -          K00260               -              0.034   12.0   0.2      0.42    8.4   0.1   2.0   2   0   0   2   2   0   0 # 223046 # 223936 # 1 # ID=1_217;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.642
+LR130759.1_1171      -          K00260               -              0.034   12.0   0.4     0.051   11.4   0.4   1.2   1   0   0   1   1   0   0 # 1360881 # 1362359 # 1 # ID=1_1171;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.631
+LR130759.1_3348      -          K00260               -              0.043   11.7   0.4       5.5    4.7   0.0   2.4   3   0   0   3   3   0   0 # 3893116 # 3897960 # -1 # ID=1_3348;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.645
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00260.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K00260.hmm.total.hmmsearch_result.txt --domT 637.47 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00260.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:21:19 2023
+# [ok]

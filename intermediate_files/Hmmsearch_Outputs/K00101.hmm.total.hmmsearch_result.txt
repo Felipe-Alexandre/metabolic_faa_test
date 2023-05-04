@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_2517      -          K00101               -           5.8e-152  506.6   0.4  7.2e-152  506.3   0.4   1.0   1   0   0   1   1   1   1 # 2889003 # 2890238 # -1 # ID=1_2517;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.644
+LR130759.1_1611      -          K00101               -           4.7e-104  348.3   0.1  5.5e-104  348.1   0.1   1.0   1   0   0   1   1   0   1 # 1861099 # 1862277 # 1 # ID=1_1611;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.670
+LR130759.1_869       -          K00101               -            1.4e-99  333.6   0.5   2.1e-99  332.9   0.5   1.1   1   0   0   1   1   0   1 # 984815 # 985918 # 1 # ID=1_869;partial=00;start_type=GTG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.648
+LR130759.1_4158      -          K00101               -            5.7e-14   50.6   2.8   8.2e-09   33.6   0.4   2.1   2   0   0   2   2   0   2 # 4822167 # 4823213 # -1 # ID=1_4158;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.655
+OX366373.1_308       -          K00101               -            1.1e-05   23.2   0.6   1.1e-05   23.2   0.6   1.8   3   0   0   3   3   0   1 # 343241 # 344728 # 1 # ID=1_308;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.380
+LR130759.1_2484      -          K00101               -            9.2e-05   20.2   0.3   0.00047   17.8   0.1   1.9   2   0   0   2   2   0   1 # 2852883 # 2854319 # -1 # ID=1_2484;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.671
+LR130759.1_1992      -          K00101               -            0.00024   18.8   0.0   0.00034   18.3   0.0   1.1   1   0   0   1   1   0   1 # 2246302 # 2247771 # 1 # ID=1_1992;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.605
+LR130759.1_988       -          K00101               -            0.00033   18.3   0.3   0.00053   17.7   0.3   1.2   1   0   0   1   1   0   1 # 1088643 # 1090232 # 1 # ID=1_988;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.670
+LR130759.1_2156      -          K00101               -            0.00034   18.3   0.4    0.0005   17.8   0.4   1.1   1   0   0   1   1   0   1 # 2449771 # 2450883 # 1 # ID=1_2156;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.659
+LR130759.1_2549      -          K00101               -            0.00057   17.6   0.2    0.0014   16.2   0.0   1.6   2   0   0   2   2   0   1 # 2916578 # 2917705 # -1 # ID=1_2549;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.644
+LR130759.1_989       -          K00101               -             0.0011   16.6   2.6    0.0019   15.9   2.6   1.3   1   0   0   1   1   0   1 # 1090235 # 1091368 # 1 # ID=1_989;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.668
+LR130759.1_2568      -          K00101               -              0.003   15.2   3.9    0.0042   14.7   3.9   1.2   1   0   0   1   1   0   1 # 2931936 # 2932895 # -1 # ID=1_2568;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.652
+OX366373.1_205       -          K00101               -             0.0035   15.0   0.1    0.0049   14.5   0.1   1.2   1   0   0   1   1   0   1 # 226443 # 227438 # -1 # ID=1_205;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.389
+LR130759.1_598       -          K00101               -             0.0098   13.5   0.3     0.017   12.7   0.3   1.6   1   1   0   1   1   0   1 # 693178 # 693936 # 1 # ID=1_598;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.653
+OX366373.1_283       -          K00101               -               0.01   13.4   0.5     0.015   12.8   0.5   1.2   1   0   0   1   1   0   0 # 322090 # 323040 # -1 # ID=1_283;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.391
+LR130759.1_4366      -          K00101               -              0.039   11.5   2.7     0.048   11.2   2.7   1.2   1   0   0   1   1   0   0 # 5057068 # 5058135 # 1 # ID=1_4366;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.662
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00101.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K00101.hmm.total.hmmsearch_result.txt --domT 459.97 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00101.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:21:10 2023
+# [ok]

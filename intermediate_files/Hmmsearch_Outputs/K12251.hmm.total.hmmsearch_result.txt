@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_678       -          K12251               -            2.9e-42  144.1   0.0   3.8e-42  143.7   0.0   1.0   1   0   0   1   1   0   1 # 775813 # 776724 # -1 # ID=1_678;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.679
+LR130759.1_3303      -          K12251               -            3.7e-19   68.0   0.0   5.9e-19   67.4   0.0   1.2   1   0   0   1   1   0   1 # 3839410 # 3841452 # -1 # ID=1_3303;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.635
+LR130759.1_2989      -          K12251               -            5.4e-11   41.2   0.0   1.6e-10   39.6   0.0   1.7   1   1   0   1   1   0   1 # 3456459 # 3457970 # -1 # ID=1_2989;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.687
+LR130759.1_2780      -          K12251               -              3e-05   22.2   0.0   4.6e-05   21.7   0.0   1.3   1   0   0   1   1   0   1 # 3225822 # 3227897 # -1 # ID=1_2780;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.674
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K12251.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K12251.hmm.total.hmmsearch_result.txt --domT 326.17 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K12251.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:28:31 2023
+# [ok]

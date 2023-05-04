@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1449      -          K02274               -             8e-283  940.0  64.9  9.4e-283  939.8  64.9   1.0   1   0   0   1   1   1   1 # 1646267 # 1648012 # 1 # ID=1_1449;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.620
+OW370493.1_1355      -          K02274               -           2.1e-261  869.1  78.7  2.4e-261  869.0  78.7   1.0   1   0   0   1   1   1   1 # 1205788 # 1207365 # 1 # ID=1_1355;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.367
+OX366373.1_608       -          K02274               -             2e-250  832.8  74.4  2.2e-250  832.6  74.4   1.0   1   0   0   1   1   1   1 # 670353 # 671903 # 1 # ID=1_608;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.379
+OW370493.1_1566      -          K02274               -            5.8e-56  189.0   0.5   6.7e-56  188.8   0.5   1.0   1   0   0   1   1   0   1 # 1414724 # 1415671 # -1 # ID=1_1566;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.340
+OX366373.1_607       -          K02274               -            9.9e-44  148.5   0.6   1.2e-43  148.3   0.6   1.0   1   0   0   1   1   0   1 # 669573 # 670337 # 1 # ID=1_607;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.336
+LR130759.1_2916      -          K02274               -            1.3e-15   55.5   0.0     4e-07   27.4   0.0   2.0   2   0   0   2   2   0   2 # 3372929 # 3374041 # -1 # ID=1_2916;partial=00;start_type=GTG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.598
+OW370493.1_212       -          K02274               -            4.4e-08   30.5   7.2   4.9e-08   30.4   7.2   1.0   1   0   0   1   1   0   1 # 191610 # 192134 # 1 # ID=1_212;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.354
+OX366373.1_596       -          K02274               -            5.5e-08   30.2  30.3   1.2e-07   29.1  30.3   1.6   1   1   0   1   1   0   1 # 655230 # 656225 # -1 # ID=1_596;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.344
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02274.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K02274.hmm.total.hmmsearch_result.txt --domT 781.07 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02274.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:23:03 2023
+# [ok]

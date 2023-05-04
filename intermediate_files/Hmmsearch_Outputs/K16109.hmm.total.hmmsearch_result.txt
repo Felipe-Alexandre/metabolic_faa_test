@@ -1,0 +1,37 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_3104      -          K16109               -                  0 2072.7 304.2  3.4e-131  437.8  54.7   7.5   4   1   3   7   7   7   6 # 3571149 # 3589685 # -1 # ID=1_3104;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.656
+LR130759.1_1058      -          K16109               -                  0 1872.2 279.9  1.7e-131  438.9  55.2   5.3   2   2   2   5   5   5   5 # 1204566 # 1222502 # 1 # ID=1_1058;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.641
+LR130759.1_1054      -          K16109               -                  0 1509.1 220.4    2e-128  428.7  54.8   4.0   1   1   3   4   4   4   4 # 1187652 # 1199894 # 1 # ID=1_1054;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.641
+LR130759.1_3869      -          K16109               -             3e-228  759.2  83.2  2.6e-130  434.9  40.3   2.9   2   1   0   2   2   2   2 # 4498085 # 4505143 # 1 # ID=1_3869;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+LR130759.1_2590      -          K16109               -           1.3e-176  588.3  73.7   4.2e-94  315.1  31.6   3.1   3   0   0   3   3   3   2 # 2957553 # 2965976 # -1 # ID=1_2590;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.619
+LR130759.1_3238      -          K16109               -           3.5e-158  527.2  57.0  3.6e-121  404.7  33.7   3.0   2   1   1   3   3   3   3 # 3753970 # 3758961 # -1 # ID=1_3238;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.642
+LR130759.1_4279      -          K16109               -           2.7e-139  464.7  66.9  9.4e-105  350.3  47.5   2.9   2   1   0   2   2   2   2 # 4949235 # 4953674 # -1 # ID=1_4279;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.653
+LR130759.1_2721      -          K16109               -           6.3e-118  393.9  45.9  1.7e-113  379.3  41.1   2.3   2   0   0   2   2   2   2 # 3148180 # 3155100 # 1 # ID=1_2721;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.612
+LR130759.1_3237      -          K16109               -              1e-83  280.6  49.6   4.5e-82  275.2  37.9   2.1   2   0   0   2   2   2   2 # 3749400 # 3753962 # -1 # ID=1_3237;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.638
+LR130759.1_3236      -          K16109               -            1.4e-72  243.8  35.9   3.5e-72  242.5  25.5   2.1   2   0   0   2   2   2   2 # 3745896 # 3749378 # -1 # ID=1_3236;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.644
+LR130759.1_4642      -          K16109               -            4.9e-57  192.3  20.4   4.9e-57  192.3  20.4   2.8   2   1   0   2   2   2   1 # 5370424 # 5374338 # 1 # ID=1_4642;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.686
+LR130759.1_2112      -          K16109               -            6.6e-28   95.9   2.6   7.2e-28   95.7   2.6   1.0   1   0   0   1   1   1   1 # 2384131 # 2385576 # 1 # ID=1_2112;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.629
+LR130759.1_231       -          K16109               -            3.5e-24   83.5  23.7   4.7e-24   83.1  23.7   1.1   1   0   0   1   1   1   1 # 245355 # 246995 # 1 # ID=1_231;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.667
+LR130759.1_1743      -          K16109               -            6.7e-21   72.7  17.5   3.4e-19   67.0  17.5   2.0   1   1   0   1   1   1   1 # 1996953 # 1998635 # 1 # ID=1_1743;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.655
+LR130759.1_4328      -          K16109               -            1.6e-20   71.4   0.4   8.1e-20   69.1   0.4   2.0   1   1   0   1   1   1   1 # 5019284 # 5020930 # -1 # ID=1_4328;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.611
+LR130759.1_4035      -          K16109               -            7.7e-19   65.9   6.6   8.8e-19   65.7   6.6   1.0   1   0   0   1   1   1   1 # 4697965 # 4699377 # -1 # ID=1_4035;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.627
+LR130759.1_1053      -          K16109               -              4e-18   63.5   2.3   5.1e-18   63.1   2.3   1.0   1   0   0   1   1   1   1 # 1186456 # 1187574 # 1 # ID=1_1053;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.620
+LR130759.1_187       -          K16109               -            5.2e-18   63.1  11.5   2.3e-17   61.0  11.5   1.7   1   1   0   1   1   1   1 # 187623 # 189236 # -1 # ID=1_187;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.613
+LR130759.1_207       -          K16109               -              8e-18   62.5  17.8   1.2e-17   62.0  17.8   1.2   1   0   0   1   1   1   1 # 207551 # 209110 # 1 # ID=1_207;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.650
+LR130759.1_1199      -          K16109               -            2.4e-17   60.9  15.1   3.3e-17   60.5  15.1   1.0   1   0   0   1   1   1   1 # 1391247 # 1392758 # 1 # ID=1_1199;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.636
+LR130759.1_3811      -          K16109               -            5.4e-17   59.8   2.7   8.7e-17   59.1   2.7   1.2   1   0   0   1   1   1   1 # 4439576 # 4441207 # -1 # ID=1_3811;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.638
+LR130759.1_354       -          K16109               -            1.5e-14   51.7   0.0   4.4e-09   33.6   0.5   2.0   2   0   0   2   2   2   2 # 380354 # 381877 # 1 # ID=1_354;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.610
+LR130759.1_3459      -          K16109               -            1.7e-14   51.5  14.5   3.2e-10   37.3   2.2   2.1   2   0   0   2   2   2   2 # 4027040 # 4028515 # 1 # ID=1_3459;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.653
+LR130759.1_1556      -          K16109               -            4.4e-14   50.1  11.9   7.2e-14   49.4  11.9   1.2   1   0   0   1   1   1   1 # 1765918 # 1768047 # 1 # ID=1_1556;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.646
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K16109.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K16109.hmm.total.hmmsearch_result.txt -T 50 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K16109.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:32:00 2023
+# [ok]

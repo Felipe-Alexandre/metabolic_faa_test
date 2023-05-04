@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OW370493.1_30        -          K22075               -            5.6e-10   38.5   0.0   6.2e-10   38.4   0.0   1.1   1   0   0   1   1   0   1 # 28313 # 28696 # -1 # ID=1_30;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.320
+OX366373.1_854       -          K22075               -            9.9e-10   37.7   0.1   1.1e-09   37.5   0.1   1.0   1   0   0   1   1   0   1 # 926664 # 926882 # 1 # ID=1_854;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.356
+OW370493.1_376       -          K22075               -            1.2e-07   30.9   0.0   1.4e-07   30.7   0.0   1.1   1   0   0   1   1   0   1 # 342220 # 342465 # 1 # ID=1_376;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.297
+OX366373.1_692       -          K22075               -            8.7e-06   24.9   0.0   1.3e-05   24.3   0.0   1.3   1   0   0   1   1   0   1 # 754985 # 755269 # -1 # ID=1_692;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.291
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K22075.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K22075.hmm.total.hmmsearch_result.txt --domT 79.20 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K22075.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:37:44 2023
+# [ok]

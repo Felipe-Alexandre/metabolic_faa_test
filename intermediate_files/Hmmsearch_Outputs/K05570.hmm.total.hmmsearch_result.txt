@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_1000      -          K05570               -            7.2e-11   41.4   6.4     8e-11   41.2   6.4   1.0   1   0   0   1   1   0   1 # 1073660 # 1073869 # -1 # ID=1_1000;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.271
+LR130759.1_2865      -          K05570               -             0.0034   16.5   0.0    0.0049   15.9   0.0   1.3   1   0   0   1   1   0   1 # 3316760 # 3317137 # -1 # ID=1_2865;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.624
+LR130759.1_4298      -          K05570               -             0.0083   15.2   0.0     0.011   14.9   0.0   1.2   1   0   0   1   1   0   1 # 4969604 # 4970284 # -1 # ID=1_4298;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.656
+LR130759.1_4411      -          K05570               -              0.013   14.6   0.1     0.023   13.7   0.0   1.5   2   0   0   2   2   0   0 # 5103022 # 5103846 # -1 # ID=1_4411;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+OX366373.1_561       -          K05570               -              0.026   13.6   0.2      0.04   13.0   0.2   1.3   1   0   0   1   1   0   0 # 620837 # 621487 # 1 # ID=1_561;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.366
+LR130759.1_3985      -          K05570               -              0.032   13.3   0.7     0.037   13.1   0.7   1.1   1   0   0   1   1   0   0 # 4642878 # 4643138 # -1 # ID=1_3985;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.602
+LR130759.1_4440      -          K05570               -              0.036   13.1   1.7     0.086   11.9   1.7   1.6   1   0   0   1   1   0   0 # 5131293 # 5132693 # -1 # ID=1_4440;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.706
+LR130759.1_4580      -          K05570               -              0.068   12.3   8.6      0.46    9.5   8.5   2.1   1   1   0   1   1   0   0 # 5272342 # 5273199 # 1 # ID=1_4580;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=3-4bp;gc_cont=0.648
+OW370493.1_1021      -          K05570               -               0.24   10.5   1.6      0.42    9.7   1.6   1.4   1   0   0   1   1   0   0 # 910908 # 911180 # -1 # ID=1_1021;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.304
+LR130759.1_1927      -          K05570               -               0.27   10.3   4.4     0.044   12.9   0.6   1.6   2   0   0   2   2   0   0 # 2172265 # 2172978 # 1 # ID=1_1927;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.668
+LR130759.1_4778      -          K05570               -                1.3    8.1  16.2      0.11   11.6  11.4   1.6   1   1   1   2   2   0   0 # 5523866 # 5524297 # -1 # ID=1_4778;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.602
+OW370493.1_2877      -          K05570               -                3.3    6.8   5.6       4.7    6.3   1.0   2.8   2   1   1   3   3   0   0 # 2609507 # 2610595 # -1 # ID=1_2877;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.274
+LR130759.1_2065      -          K05570               -                8.6    5.4  18.2   8.9e+03   -5.6  18.2   3.2   1   1   0   1   1   0   0 # 2332163 # 2333101 # -1 # ID=1_2065;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.673
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K05570.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K05570.hmm.total.hmmsearch_result.txt --domT 78.63 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K05570.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:24:56 2023
+# [ok]

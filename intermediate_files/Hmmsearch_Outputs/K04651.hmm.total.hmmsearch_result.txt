@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1671      -          K04651               -            1.1e-36  125.2   3.9   1.2e-36  125.1   3.9   1.0   1   0   0   1   1   1   1 # 1921581 # 1921916 # -1 # ID=1_1671;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.649
+LR130759.1_4020      -          K04651               -             0.0038   15.9   0.3    0.0054   15.4   0.3   1.2   1   0   0   1   1   0   1 # 4683448 # 4683864 # -1 # ID=1_4020;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.657
+OX366373.1_632       -          K04651               -             0.0085   14.8   0.5    0.0085   14.8   0.5   1.0   1   0   0   1   1   0   1 # 695782 # 695991 # -1 # ID=1_632;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=3-4bp;gc_cont=0.343
+OW370493.1_2109      -          K04651               -             0.0096   14.6   0.0     0.012   14.2   0.0   1.1   1   0   0   1   1   0   1 # 1906640 # 1907278 # -1 # ID=1_2109;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.310
+LR130759.1_814       -          K04651               -              0.021   13.5   0.7     0.024   13.3   0.7   1.0   1   0   0   1   1   0   0 # 921985 # 922152 # 1 # ID=1_814;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.583
+LR130759.1_3093      -          K04651               -              0.035   12.8   0.1     0.041   12.5   0.1   1.1   1   0   0   1   1   0   0 # 3562133 # 3562318 # 1 # ID=1_3093;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.608
+LR130759.1_1169      -          K04651               -              0.079   11.6   0.1     0.094   11.4   0.1   1.1   1   0   0   1   1   0   0 # 1359863 # 1360108 # 1 # ID=1_1169;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.610
+LR130759.1_1667      -          K04651               -               0.09   11.4   2.1      0.81    8.3   1.6   2.1   2   0   0   2   2   0   0 # 1916517 # 1917473 # -1 # ID=1_1667;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.695
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K04651.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K04651.hmm.total.hmmsearch_result.txt --domT 37.93 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K04651.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:24:39 2023
+# [ok]

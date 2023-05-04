@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1476      -          K00703               -            1.9e-31  108.2   4.5     1e-17   62.8   0.0   2.9   1   1   1   2   2   0   2 # 1673768 # 1675012 # -1 # ID=1_1476;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.644
+LR130759.1_3638      -          K00703               -            6.1e-30  103.2   0.3   1.5e-29  101.9   0.3   1.5   1   1   0   1   1   0   1 # 4241954 # 4243117 # 1 # ID=1_3638;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+LR130759.1_684       -          K00703               -            1.3e-21   75.7   1.1   1.3e-16   59.2   0.0   3.0   2   1   0   2   2   0   2 # 782061 # 783485 # 1 # ID=1_684;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.685
+LR130759.1_2390      -          K00703               -            2.9e-14   51.4   0.3   2.7e-12   44.9   0.1   2.0   1   1   1   2   2   0   2 # 2739746 # 2740897 # -1 # ID=1_2390;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+LR130759.1_2902      -          K00703               -            6.5e-13   46.9   0.0   8.9e-13   46.5   0.0   1.2   1   0   0   1   1   0   1 # 3359047 # 3360189 # -1 # ID=1_2902;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.685
+LR130759.1_2675      -          K00703               -            4.2e-11   41.0   0.0   1.8e-07   29.0   0.0   2.1   2   0   0   2   2   0   2 # 3046228 # 3047487 # -1 # ID=1_2675;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.623
+OW370493.1_1931      -          K00703               -            4.6e-11   40.8   0.0   5.5e-11   40.6   0.0   1.2   1   0   0   1   1   0   1 # 1746245 # 1747414 # 1 # ID=1_1931;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.327
+LR130759.1_1904      -          K00703               -            5.9e-09   33.8   0.2     2e-06   25.5   0.0   2.1   2   0   0   2   2   0   2 # 2146725 # 2147849 # 1 # ID=1_1904;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.659
+OX366373.1_392       -          K00703               -            1.9e-08   32.1   0.0   2.5e-08   31.8   0.0   1.2   1   0   0   1   1   0   1 # 441718 # 444045 # -1 # ID=1_392;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.326
+LR130759.1_374       -          K00703               -            2.2e-07   28.7   0.0   3.3e-07   28.1   0.0   1.2   1   0   0   1   1   0   1 # 400838 # 402001 # 1 # ID=1_374;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.655
+LR130759.1_763       -          K00703               -            5.5e-07   27.3   0.1   9.5e-06   23.2   0.0   2.0   2   0   0   2   2   0   1 # 864753 # 865904 # 1 # ID=1_763;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.690
+LR130759.1_3488      -          K00703               -            9.1e-07   26.6   0.0   6.2e-06   23.9   0.0   1.9   1   1   0   1   1   0   1 # 4059354 # 4061966 # -1 # ID=1_3488;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.642
+LR130759.1_4523      -          K00703               -             0.0094   13.3   0.0      0.01   13.2   0.0   1.1   1   0   0   1   1   0   1 # 5217793 # 5218311 # 1 # ID=1_4523;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.645
+LR130759.1_4566      -          K00703               -               0.11    9.8   0.0      0.16    9.3   0.0   1.1   1   0   0   1   1   0   0 # 5258522 # 5259085 # -1 # ID=1_4566;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+LR130759.1_882       -          K00703               -               0.38    8.0   7.3      0.41    7.9   7.3   1.1   1   0   0   1   1   0   0 # 994734 # 995282 # 1 # ID=1_882;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.683
+OX366373.1_15        -          K00703               -               0.62    7.3   6.1      0.61    7.3   6.1   1.1   1   0   0   1   1   0   0 # 14805 # 15389 # 1 # ID=1_15;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.357
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00703.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K00703.hmm.total.hmmsearch_result.txt --domT 129.03 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00703.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:21:44 2023
+# [ok]

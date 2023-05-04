@@ -1,0 +1,11 @@
+METABOLIC-G.pl v4.0
+Run Start: 2023-04-27 14:21:02
+Run End: 2023-04-27 15:06:12
+Total running time: 00:45:10 (hh:mm:ss)
+Input Reads: N/A
+Input Genome directory (amino acids): /home/pedro/felipe/
+Number of Threads: 20
+Prodigal Method: meta
+KOfam DB: full
+Module Cutoff Value: 0.75
+Output directory: metabolic_faa_test

@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OW370493.1_1247      -          K21464               -             7e-180  598.8   2.3   7.8e-95  317.6   0.8   2.9   2   1   0   2   2   0   2 # 1117518 # 1119887 # -1 # ID=1_1247;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.359
+OW370493.1_2813      -          K21464               -             7e-180  598.8   2.3   7.8e-95  317.6   0.8   2.9   2   1   0   2   2   0   2 # 2554808 # 2557177 # 1 # ID=1_2813;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.358
+LR130759.1_65        -          K21464               -             1e-139  466.0   0.0  1.4e-139  465.5   0.0   1.0   1   0   0   1   1   0   1 # 63787 # 66330 # 1 # ID=1_65;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.658
+LR130759.1_4508      -          K21464               -            4.2e-99  331.8   0.0   2.5e-98  329.2   0.0   1.8   1   1   0   1   1   0   1 # 5204870 # 5207284 # 1 # ID=1_4508;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+LR130759.1_29        -          K21464               -            7.1e-35  119.5   0.4   1.2e-34  118.8   0.4   1.3   1   0   0   1   1   0   1 # 27913 # 29388 # -1 # ID=1_29;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.655
+LR130759.1_2880      -          K21464               -            2.5e-22   78.0   9.8   1.6e-21   75.4   3.2   2.9   2   1   0   2   2   0   2 # 3333563 # 3335656 # -1 # ID=1_2880;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.642
+OX366373.1_264       -          K21464               -            4.2e-14   50.8   0.0   1.9e-13   48.7   0.0   1.8   2   0   0   2   2   0   1 # 295664 # 297220 # 1 # ID=1_264;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.354
+LR130759.1_1639      -          K21464               -            6.2e-13   46.9   0.1   3.1e-12   44.6   0.1   1.8   1   1   0   1   1   0   1 # 1889615 # 1891438 # 1 # ID=1_1639;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.666
+OW370493.1_1738      -          K21464               -            1.2e-11   42.7   0.0   1.5e-10   39.0   0.0   2.1   2   0   0   2   2   0   1 # 1584723 # 1586432 # -1 # ID=1_1738;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.350
+OW370493.1_2757      -          K21464               -            1.7e-11   42.2   0.0   1.6e-09   35.6   0.0   2.5   1   1   0   1   1   0   1 # 2500491 # 2502341 # 1 # ID=1_2757;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.331
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K21464.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K21464.hmm.total.hmmsearch_result.txt --domT 769.33 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K21464.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:37:22 2023
+# [ok]

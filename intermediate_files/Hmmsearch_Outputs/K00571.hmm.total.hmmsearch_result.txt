@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_397       -          K00571               -              4e-39  134.0   0.2   4.4e-39  133.9   0.2   1.1   1   0   0   1   1   0   1 # 451582 # 452805 # 1 # ID=1_397;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.366
+LR130759.1_4171      -          K00571               -            1.4e-33  115.8   0.0   6.4e-18   64.2   0.0   2.0   1   1   1   2   2   0   2 # 4836593 # 4837462 # -1 # ID=1_4171;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.564
+OW370493.1_1852      -          K00571               -            3.4e-05   22.4   1.9     0.006   15.0   0.2   2.1   1   1   1   2   2   0   2 # 1673591 # 1674148 # 1 # ID=1_1852;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.337
+OW370493.1_619       -          K00571               -              4e-05   22.1   0.1   4.5e-05   21.9   0.1   1.2   1   0   0   1   1   0   1 # 548815 # 549684 # -1 # ID=1_619;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.298
+LR130759.1_2017      -          K00571               -            0.00011   20.6   0.0   0.00012   20.5   0.0   1.1   1   0   0   1   1   0   1 # 2274809 # 2275633 # -1 # ID=1_2017;partial=00;start_type=TTG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.662
+OW370493.1_1323      -          K00571               -             0.0003   19.3   0.0   0.00033   19.1   0.0   1.1   1   0   0   1   1   0   1 # 1175403 # 1175906 # 1 # ID=1_1323;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.321
+OW370493.1_1513      -          K00571               -            0.00057   18.3   0.5      0.26    9.5   0.0   2.3   1   1   1   2   2   0   2 # 1370430 # 1372661 # 1 # ID=1_1513;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.310
+OX366373.1_1015      -          K00571               -             0.0038   15.6   0.1    0.0046   15.3   0.1   1.1   1   0   0   1   1   0   1 # 1092140 # 1092784 # -1 # ID=1_1015;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.305
+LR130759.1_2124      -          K00571               -             0.0052   15.2   0.0    0.0069   14.7   0.0   1.3   1   0   0   1   1   0   1 # 2399631 # 2401124 # 1 # ID=1_2124;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.628
+LR130759.1_1542      -          K00571               -             0.0061   14.9   0.1      0.11   10.7   0.0   2.0   1   1   1   2   2   0   1 # 1749536 # 1750057 # 1 # ID=1_1542;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.699
+OX366373.1_242       -          K00571               -              0.007   14.7   1.0      0.62    8.3   0.1   2.1   1   1   1   2   2   0   2 # 275286 # 275834 # 1 # ID=1_242;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.346
+OX366373.1_1120      -          K00571               -             0.0073   14.7   0.1    0.0081   14.5   0.1   1.2   1   0   0   1   1   0   1 # 1193498 # 1194175 # -1 # ID=1_1120;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.302
+OW370493.1_247       -          K00571               -              0.014   13.7   0.0     0.015   13.6   0.0   1.1   1   0   0   1   1   0   0 # 217263 # 218027 # 1 # ID=1_247;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.329
+OW370493.1_991       -          K00571               -              0.015   13.7   0.0     0.016   13.5   0.0   1.2   1   0   0   1   1   0   0 # 884575 # 885267 # 1 # ID=1_991;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.361
+LR130759.1_3515      -          K00571               -              0.037   12.4   0.0       0.5    8.6   0.0   2.0   1   1   1   2   2   0   0 # 4097191 # 4098081 # -1 # ID=1_3515;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+OW370493.1_117       -          K00571               -              0.072   11.4   0.0     0.081   11.2   0.0   1.2   1   0   0   1   1   0   0 # 110110 # 110865 # 1 # ID=1_117;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.320
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00571.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K00571.hmm.total.hmmsearch_result.txt --domT 157.87 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00571.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:21:37 2023
+# [ok]

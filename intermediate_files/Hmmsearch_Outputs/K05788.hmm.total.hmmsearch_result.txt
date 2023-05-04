@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1520      -          K05788               -              6e-27   93.6   5.2   7.3e-27   93.3   5.2   1.1   1   0   0   1   1   0   1 # 1726882 # 1727388 # 1 # ID=1_1520;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.637
+OW370493.1_2252      -          K05788               -            9.1e-26   89.8   0.0   9.8e-26   89.6   0.0   1.0   1   0   0   1   1   0   1 # 2021456 # 2021731 # -1 # ID=1_2252;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.366
+OW370493.1_194       -          K05788               -            1.9e-24   85.5   0.0   2.1e-24   85.3   0.0   1.1   1   0   0   1   1   0   1 # 176556 # 176819 # 1 # ID=1_194;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.322
+OX366373.1_99        -          K05788               -            2.5e-20   72.1   0.6   2.6e-20   72.0   0.6   1.0   1   0   0   1   1   0   1 # 112612 # 112911 # -1 # ID=1_99;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.307
+OX366373.1_1017      -          K05788               -            1.7e-19   69.3   0.3   1.8e-19   69.3   0.3   1.0   1   0   0   1   1   0   1 # 1094560 # 1094838 # 1 # ID=1_1017;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.305
+OX366373.1_226       -          K05788               -              4e-17   61.6   0.2   4.5e-17   61.4   0.2   1.0   1   0   0   1   1   0   1 # 253623 # 253934 # -1 # ID=1_226;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.304
+OW370493.1_1180      -          K05788               -            6.2e-16   57.7   0.1   6.6e-16   57.6   0.1   1.0   1   0   0   1   1   0   1 # 1047434 # 1047805 # 1 # ID=1_1180;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.304
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K05788.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K05788.hmm.total.hmmsearch_result.txt --domT 126.17 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K05788.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:25:03 2023
+# [ok]

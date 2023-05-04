@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OW370493.1_2159      -          K00412               -           1.2e-192  640.2  25.9  1.3e-192  640.1  25.9   1.0   1   0   0   1   1   1   1 # 1940129 # 1941340 # 1 # ID=1_2159;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.360
+OX366373.1_103       -          K00412               -           1.5e-183  610.2  28.7  1.6e-183  610.0  28.7   1.0   1   0   0   1   1   1   1 # 117234 # 118460 # -1 # ID=1_103;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.346
+LR130759.1_2912      -          K00412               -              1e-40  139.0  16.8   1.2e-40  138.7  16.8   1.0   1   0   0   1   1   0   1 # 3368774 # 3370462 # 1 # ID=1_2912;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.632
+OW370493.1_2160      -          K00412               -            0.00091   17.1   0.0   0.00091   17.1   0.0   1.1   1   0   0   1   1   0   1 # 1941337 # 1942110 # 1 # ID=1_2160;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.341
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00412.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K00412.hmm.total.hmmsearch_result.txt --domT 300.27 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00412.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:21:31 2023
+# [ok]

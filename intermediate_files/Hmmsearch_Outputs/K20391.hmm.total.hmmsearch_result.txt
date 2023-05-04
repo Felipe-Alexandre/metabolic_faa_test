@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_382       -          K20391               -            1.2e-15   56.9  11.5   7.5e-10   37.9   3.1   2.3   2   0   0   2   2   0   2 # 429345 # 430262 # 1 # ID=1_382;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.347
+OX366373.1_505       -          K20391               -            6.9e-09   34.7  29.2   1.5e-07   30.3   2.4   5.6   2   1   4   6   6   0   3 # 566902 # 572544 # 1 # ID=1_505;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.325
+OW370493.1_2674      -          K20391               -              2e-07   29.9   0.6   2.1e-07   29.8   0.6   1.1   1   0   0   1   1   0   1 # 2410684 # 2411058 # -1 # ID=1_2674;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.347
+OW370493.1_543       -          K20391               -            7.1e-07   28.1   0.6   8.5e-07   27.8   0.6   1.1   1   0   0   1   1   0   1 # 484075 # 484464 # -1 # ID=1_543;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.297
+OX366373.1_1134      -          K20391               -              3e-06   26.1  17.6     0.004   15.8   4.9   2.3   1   1   1   2   2   0   2 # 1205544 # 1206410 # -1 # ID=1_1134;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.316
+LR130759.1_1255      -          K20391               -            5.9e-05   21.8   0.0   0.00011   20.9   0.0   1.4   2   0   0   2   2   0   1 # 1455340 # 1456785 # -1 # ID=1_1255;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.629
+LR130759.1_1769      -          K20391               -            0.00018   20.2   0.0   0.00019   20.1   0.0   1.1   1   0   0   1   1   0   1 # 2024962 # 2025321 # 1 # ID=1_1769;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.686
+OW370493.1_1519      -          K20391               -            0.00021   20.0   0.0   0.00024   19.8   0.0   1.0   1   0   0   1   1   0   1 # 1376074 # 1376217 # 1 # ID=1_1519;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.312
+OX366373.1_379       -          K20391               -            0.00047   18.8   2.3   0.00047   18.8   2.3   1.8   2   0   0   2   2   0   1 # 426230 # 427129 # 1 # ID=1_379;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.336
+OW370493.1_2840      -          K20391               -             0.0013   17.4   8.0     0.017   13.7   3.7   2.2   1   1   1   2   2   0   2 # 2579785 # 2580426 # -1 # ID=1_2840;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.333
+LR130759.1_672       -          K20391               -             0.0015   17.2   0.0    0.0016   17.1   0.0   1.2   1   0   0   1   1   0   1 # 771851 # 772276 # 1 # ID=1_672;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.596
+LR130759.1_3119      -          K20391               -             0.0042   15.7   0.0      0.61    8.6   0.0   2.3   1   1   0   2   2   0   1 # 3615410 # 3617035 # -1 # ID=1_3119;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+LR130759.1_4769      -          K20391               -              0.078   11.6   0.0     0.085   11.4   0.0   1.2   1   0   0   1   1   0   0 # 5516743 # 5517141 # 1 # ID=1_4769;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.642
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K20391.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K20391.hmm.total.hmmsearch_result.txt --domT 130.67 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K20391.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:36:32 2023
+# [ok]

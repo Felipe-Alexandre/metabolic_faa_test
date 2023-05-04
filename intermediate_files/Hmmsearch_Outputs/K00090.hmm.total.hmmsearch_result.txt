@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1507      -          K00090               -            2.6e-82  275.4   0.3   3.5e-82  275.0   0.3   1.1   1   0   0   1   1   0   1 # 1711643 # 1713229 # 1 # ID=1_1507;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+LR130759.1_4641      -          K00090               -            3.3e-67  225.8   0.0   4.1e-67  225.5   0.0   1.0   1   0   0   1   1   0   1 # 5369282 # 5370346 # -1 # ID=1_4641;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.664
+LR130759.1_432       -          K00090               -            1.9e-61  206.9   0.0   2.9e-61  206.3   0.0   1.2   1   0   0   1   1   0   1 # 469634 # 470596 # -1 # ID=1_432;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+LR130759.1_912       -          K00090               -            2.6e-54  183.4   0.5   4.7e-54  182.6   0.5   1.4   1   1   0   1   1   0   1 # 1017349 # 1018284 # -1 # ID=1_912;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.673
+LR130759.1_1110      -          K00090               -            4.2e-42  143.3   0.0   6.8e-42  142.6   0.0   1.2   1   0   0   1   1   0   1 # 1298324 # 1299304 # 1 # ID=1_1110;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.688
+OW370493.1_407       -          K00090               -            0.00093   17.3   0.0    0.0014   16.7   0.0   1.2   1   0   0   1   1   0   1 # 365869 # 367185 # -1 # ID=1_407;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.301
+LR130759.1_1728      -          K00090               -             0.0019   16.3   0.0    0.0031   15.6   0.0   1.2   1   0   0   1   1   0   1 # 1982087 # 1983202 # -1 # ID=1_1728;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.648
+LR130759.1_3751      -          K00090               -             0.0041   15.2   0.0    0.0054   14.8   0.0   1.2   1   0   0   1   1   0   1 # 4375266 # 4376288 # -1 # ID=1_3751;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.635
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00090.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K00090.hmm.total.hmmsearch_result.txt --domT 432.50 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00090.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:21:10 2023
+# [ok]

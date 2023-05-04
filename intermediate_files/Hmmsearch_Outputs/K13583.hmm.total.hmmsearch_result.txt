@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_3391      -          K13583               -             0.0027   16.7   0.6    0.0041   16.1   0.6   1.5   1   1   0   1   1   0   1 # 3943301 # 3943957 # 1 # ID=1_3391;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.653
+LR130759.1_154       -          K13583               -             0.0047   15.9   0.6    0.0053   15.7   0.6   1.1   1   0   0   1   1   0   1 # 152311 # 152742 # 1 # ID=1_154;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.650
+LR130759.1_2627      -          K13583               -              0.013   14.5   3.4     0.028   13.4   3.4   1.6   1   0   0   1   1   0   0 # 3003356 # 3004552 # -1 # ID=1_2627;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.661
+LR130759.1_1400      -          K13583               -              0.019   13.9   2.9     0.053   12.5   2.9   1.8   1   1   0   1   1   0   0 # 1596984 # 1598573 # 1 # ID=1_1400;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+LR130759.1_1323      -          K13583               -              0.038   12.9   0.1     0.049   12.6   0.1   1.1   1   0   0   1   1   0   0 # 1523148 # 1523804 # 1 # ID=1_1323;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.613
+LR130759.1_3063      -          K13583               -              0.058   12.3   0.1     0.075   12.0   0.1   1.2   1   0   0   1   1   0   0 # 3534025 # 3534675 # -1 # ID=1_3063;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.614
+LR130759.1_1248      -          K13583               -               0.39    9.6   3.1      0.18   10.7   0.3   1.8   2   0   0   2   2   0   0 # 1445206 # 1448103 # -1 # ID=1_1248;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.660
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K13583.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K13583.hmm.total.hmmsearch_result.txt --domT 30.87 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K13583.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:29:28 2023
+# [ok]

@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_1134      -          K07280               -            7.5e-07   27.3   0.1    0.0028   15.5   0.0   2.1   1   1   1   2   2   0   2 # 1205544 # 1206410 # -1 # ID=1_1134;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.316
+LR130759.1_2443      -          K07280               -            0.00033   18.6   0.2     0.013   13.3   0.0   2.1   2   0   0   2   2   0   1 # 2799796 # 2801628 # 1 # ID=1_2443;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=3-4bp;gc_cont=0.627
+LR130759.1_591       -          K07280               -             0.0014   16.5   0.1       0.6    7.9   0.1   2.2   2   0   0   2   2   0   2 # 685771 # 688107 # -1 # ID=1_591;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.649
+OX366373.1_866       -          K07280               -             0.0042   15.0   0.9     0.019   12.9   0.3   2.0   1   1   1   2   2   0   1 # 936755 # 938044 # -1 # ID=1_866;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.322
+OW370493.1_528       -          K07280               -             0.0081   14.0   0.3     0.025   12.4   0.1   1.7   2   1   0   2   2   0   1 # 467368 # 468141 # -1 # ID=1_528;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.339
+LR130759.1_3119      -          K07280               -              0.011   13.6   5.6     0.016   13.1   1.0   2.5   1   1   1   2   2   0   0 # 3615410 # 3617035 # -1 # ID=1_3119;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+LR130759.1_1852      -          K07280               -              0.016   13.1   2.2       6.3    4.5   1.6   2.9   2   1   0   2   2   0   0 # 2102313 # 2103980 # 1 # ID=1_1852;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.660
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K07280.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K07280.hmm.total.hmmsearch_result.txt --domT 49.97 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K07280.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:26:04 2023
+# [ok]

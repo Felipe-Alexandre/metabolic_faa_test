@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_397       -          K07319               -            4.1e-32  110.8   0.1   4.7e-32  110.5   0.1   1.1   1   0   0   1   1   0   1 # 451582 # 452805 # 1 # ID=1_397;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.366
+LR130759.1_4171      -          K07319               -            4.2e-31  107.4   0.0   1.5e-17   62.8   0.0   2.1   1   1   1   2   2   0   2 # 4836593 # 4837462 # -1 # ID=1_4171;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.564
+OW370493.1_1852      -          K07319               -              9e-06   24.0   0.9   0.00068   17.8   0.1   2.1   1   1   1   2   2   0   2 # 1673591 # 1674148 # 1 # ID=1_1852;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.337
+LR130759.1_2017      -          K07319               -            0.00021   19.5   0.0   0.00021   19.5   0.0   1.1   1   0   0   1   1   0   1 # 2274809 # 2275633 # -1 # ID=1_2017;partial=00;start_type=TTG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.662
+LR130759.1_1542      -          K07319               -            0.00067   17.9   0.9     0.032   12.3   0.1   2.0   1   1   1   2   2   0   2 # 1749536 # 1750057 # 1 # ID=1_1542;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.699
+OW370493.1_619       -          K07319               -             0.0029   15.8   0.0     0.003   15.7   0.0   1.1   1   0   0   1   1   0   1 # 548815 # 549684 # -1 # ID=1_619;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.298
+OX366373.1_242       -          K07319               -             0.0032   15.6   0.0      0.39    8.7   0.0   2.1   2   0   0   2   2   0   2 # 275286 # 275834 # 1 # ID=1_242;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.346
+OW370493.1_1323      -          K07319               -               0.03   12.4   0.0      0.36    8.9   0.0   2.0   1   1   0   1   1   0   0 # 1175403 # 1175906 # 1 # ID=1_1323;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.321
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K07319.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K07319.hmm.total.hmmsearch_result.txt --domT 250.90 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K07319.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:26:06 2023
+# [ok]

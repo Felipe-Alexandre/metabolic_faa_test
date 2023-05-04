@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_2764      -          K10117               -              2e-44  151.9   0.0   2.5e-44  151.6   0.0   1.0   1   0   0   1   1   0   1 # 3197570 # 3198889 # -1 # ID=1_2764;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.645
+LR130759.1_3171      -          K10117               -            3.4e-42  144.6   1.3   8.8e-42  143.2   1.3   1.6   1   1   0   1   1   0   1 # 3671805 # 3673166 # 1 # ID=1_3171;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.651
+LR130759.1_1703      -          K10117               -            5.9e-41  140.5   0.0   6.7e-41  140.3   0.0   1.0   1   0   0   1   1   0   1 # 1958140 # 1959453 # 1 # ID=1_1703;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.630
+LR130759.1_3616      -          K10117               -            1.3e-24   86.5   0.0   1.6e-23   82.9   0.0   1.9   1   1   0   1   1   0   1 # 4214299 # 4215705 # -1 # ID=1_3616;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.666
+OX366373.1_159       -          K10117               -            2.2e-17   62.7   3.2   1.6e-11   43.3   0.8   2.0   1   1   1   2   2   0   2 # 176152 # 177168 # -1 # ID=1_159;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.337
+LR130759.1_2498      -          K10117               -            3.1e-12   45.7   1.0     4e-09   35.4   0.1   2.0   2   0   0   2   2   0   2 # 2866049 # 2866792 # 1 # ID=1_2498;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.653
+LR130759.1_3260      -          K10117               -            4.6e-09   35.2   0.1   9.2e-06   24.3   0.0   2.1   2   0   0   2   2   0   2 # 3784350 # 3785405 # -1 # ID=1_3260;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.632
+LR130759.1_3955      -          K10117               -              9e-06   24.4   0.3     9e-06   24.4   0.3   1.8   2   1   1   3   3   0   1 # 4602477 # 4603592 # -1 # ID=1_3955;partial=00;start_type=TTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.614
+LR130759.1_1006      -          K10117               -            0.00049   18.6   0.3   0.00064   18.3   0.3   1.2   1   0   0   1   1   0   1 # 1111043 # 1111765 # -1 # ID=1_1006;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.622
+LR130759.1_3951      -          K10117               -             0.0006   18.4   0.8    0.0011   17.5   0.0   1.8   2   1   0   2   2   0   1 # 4597012 # 4598130 # 1 # ID=1_3951;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.619
+LR130759.1_796       -          K10117               -             0.0052   15.3   0.5    0.0094   14.4   0.5   1.4   1   0   0   1   1   0   1 # 899637 # 900317 # -1 # ID=1_796;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.615
+LR130759.1_3576      -          K10117               -              0.016   13.6   2.6     0.013   14.0   1.5   1.4   1   1   0   1   1   0   0 # 4162556 # 4163299 # 1 # ID=1_3576;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.608
+LR130759.1_2579      -          K10117               -               0.12   10.8   1.7      0.14   10.6   1.7   1.1   1   0   0   1   1   0   0 # 2945592 # 2945987 # 1 # ID=1_2579;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.753
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K10117.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K10117.hmm.total.hmmsearch_result.txt --domT 239.93 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K10117.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:27:29 2023
+# [ok]

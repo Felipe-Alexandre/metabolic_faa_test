@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_2599      -          K12960               -           1.7e-117  392.8  15.9  1.9e-117  392.7  15.9   1.0   1   0   0   1   1   0   1 # 2975371 # 2976741 # 1 # ID=1_2599;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.676
+LR130759.1_758       -          K12960               -            1.8e-27   95.3   7.7   1.2e-13   49.7   0.4   2.8   2   1   0   2   2   0   2 # 859137 # 860741 # 1 # ID=1_758;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.660
+LR130759.1_638       -          K12960               -            4.6e-22   77.5  14.4   1.3e-13   49.6   4.6   2.9   2   1   0   2   2   0   2 # 736543 # 738291 # -1 # ID=1_638;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.677
+LR130759.1_982       -          K12960               -            2.8e-21   74.9  10.8   5.5e-13   47.5   2.2   2.5   2   1   0   2   2   0   2 # 1083128 # 1084798 # 1 # ID=1_982;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.633
+LR130759.1_141       -          K12960               -              1e-17   63.1   5.0   1.5e-10   39.4   0.3   2.1   2   0   0   2   2   0   2 # 139541 # 141301 # -1 # ID=1_141;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.676
+LR130759.1_4097      -          K12960               -              3e-16   58.3  21.3   7.9e-16   56.9  21.3   1.7   1   1   0   1   1   0   1 # 4753236 # 4754456 # 1 # ID=1_4097;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.660
+LR130759.1_2491      -          K12960               -            4.2e-16   57.8  11.3   5.5e-11   40.9  11.3   2.3   1   1   0   1   1   0   1 # 2858817 # 2860538 # 1 # ID=1_2491;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.641
+LR130759.1_804       -          K12960               -            1.3e-15   56.1   8.9   7.9e-15   53.6   8.9   2.2   1   1   0   1   1   0   1 # 907379 # 908638 # -1 # ID=1_804;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.652
+LR130759.1_1999      -          K12960               -            2.3e-15   55.4  19.5   3.1e-15   55.0  19.5   1.2   1   0   0   1   1   0   1 # 2253399 # 2254703 # 1 # ID=1_1999;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.664
+OX366373.1_679       -          K12960               -            4.5e-15   54.4   0.2   5.8e-11   40.8   0.0   2.8   3   1   0   3   3   0   2 # 739190 # 740509 # -1 # ID=1_679;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.388
+LR130759.1_2781      -          K12960               -            2.2e-13   48.8   9.0   5.2e-09   34.4   1.0   2.5   3   0   0   3   3   0   2 # 3227890 # 3229422 # -1 # ID=1_2781;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.695
+LR130759.1_360       -          K12960               -            4.4e-12   44.5   8.9   2.8e-07   28.6   4.0   2.3   2   0   0   2   2   0   2 # 386889 # 388193 # 1 # ID=1_360;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.666
+LR130759.1_1589      -          K12960               -            5.9e-12   44.1  10.0   0.00062   17.6   0.2   3.1   3   0   0   3   3   0   3 # 1840821 # 1841900 # 1 # ID=1_1589;partial=00;start_type=GTG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.671
+LR130759.1_1591      -          K12960               -            6.9e-12   43.9   4.7   5.7e-07   27.6   0.3   2.5   2   1   1   3   3   0   2 # 1843835 # 1845631 # 1 # ID=1_1591;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.648
+LR130759.1_1037      -          K12960               -            1.1e-08   33.3  15.3   4.8e-05   21.3   6.2   2.8   2   1   0   2   2   0   2 # 1160008 # 1161156 # -1 # ID=1_1037;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.696
+LR130759.1_3486      -          K12960               -             0.0041   14.9   0.9    0.0055   14.5   0.9   1.3   1   0   0   1   1   0   1 # 4056011 # 4057312 # 1 # ID=1_3486;partial=00;start_type=TTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.668
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K12960.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K12960.hmm.total.hmmsearch_result.txt --domT 442.63 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K12960.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:29:10 2023
+# [ok]

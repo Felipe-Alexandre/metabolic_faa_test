@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_3303      -          K01916               -            1.2e-26   92.5   0.0   1.6e-26   92.1   0.0   1.1   1   0   0   1   1   0   1 # 3839410 # 3841452 # -1 # ID=1_3303;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.635
+LR130759.1_1000      -          K01916               -            4.9e-14   50.8   0.5   7.6e-09   33.7   0.2   2.1   2   0   0   2   2   0   2 # 1103327 # 1104853 # 1 # ID=1_1000;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.652
+LR130759.1_4515      -          K01916               -            2.7e-11   41.8   0.0   3.2e-11   41.6   0.0   1.1   1   0   0   1   1   0   1 # 5212208 # 5212747 # 1 # ID=1_4515;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.594
+OX366373.1_346       -          K01916               -            1.1e-07   29.9   0.0   4.2e-05   21.4   0.0   2.1   2   0   0   2   2   0   2 # 383583 # 385145 # -1 # ID=1_346;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.360
+OX366373.1_41        -          K01916               -            1.8e-07   29.2   0.0   3.7e-05   21.5   0.0   2.1   2   0   0   2   2   0   2 # 37971 # 39077 # -1 # ID=1_41;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.384
+LR130759.1_1485      -          K01916               -            1.2e-05   23.1   0.1   2.1e-05   22.3   0.1   1.3   1   0   0   1   1   0   1 # 1687210 # 1688304 # 1 # ID=1_1485;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.665
+OW370493.1_341       -          K01916               -              2e-05   22.4   0.0     4e-05   21.4   0.0   1.4   1   0   0   1   1   0   1 # 301184 # 302281 # -1 # ID=1_341;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.363
+LR130759.1_2917      -          K01916               -            0.00074   17.2   0.0     0.001   16.8   0.0   1.1   1   0   0   1   1   0   1 # 3374299 # 3376284 # 1 # ID=1_2917;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.666
+OW370493.1_2057      -          K01916               -             0.0014   16.3   0.0    0.0018   16.0   0.0   1.1   1   0   0   1   1   0   1 # 1856554 # 1857291 # -1 # ID=1_2057;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.341
+LR130759.1_1940      -          K01916               -             0.0083   13.8   0.1     0.014   13.1   0.1   1.3   1   0   0   1   1   0   1 # 2190420 # 2191226 # -1 # ID=1_1940;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.642
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K01916.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K01916.hmm.total.hmmsearch_result.txt --domT 296.27 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K01916.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:22:40 2023
+# [ok]

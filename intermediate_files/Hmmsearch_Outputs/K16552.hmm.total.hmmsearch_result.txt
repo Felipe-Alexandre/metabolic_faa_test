@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OW370493.1_66        -          K16552               -            6.8e-30  103.5   6.5   1.3e-29  102.6   6.5   1.3   1   0   0   1   1   0   1 # 61273 # 62802 # -1 # ID=1_66;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.341
+OX366373.1_606       -          K16552               -            1.1e-28   99.5   4.6   1.5e-28   99.1   4.6   1.1   1   0   0   1   1   0   1 # 667505 # 669016 # 1 # ID=1_606;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.351
+OX366373.1_285       -          K16552               -             0.0017   16.5   1.6    0.0026   15.9   1.6   1.2   1   0   0   1   1   0   1 # 324450 # 325754 # 1 # ID=1_285;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=3-4bp;gc_cont=0.344
+LR130759.1_1292      -          K16552               -             0.0044   15.1   0.1    0.0063   14.6   0.1   1.1   1   0   0   1   1   0   1 # 1493441 # 1494787 # -1 # ID=1_1292;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.638
+LR130759.1_127       -          K16552               -              0.019   13.0   3.6      0.02   13.0   3.6   1.0   1   0   0   1   1   0   0 # 122710 # 122997 # 1 # ID=1_127;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.594
+LR130759.1_2956      -          K16552               -              0.037   12.0  22.2     0.055   11.5  22.2   1.3   1   0   0   1   1   0   0 # 3421618 # 3422355 # -1 # ID=1_2956;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.657
+OW370493.1_1471      -          K16552               -               0.57    8.1  10.4      0.79    7.7  10.4   1.2   1   0   0   1   1   0   0 # 1315161 # 1316606 # -1 # ID=1_1471;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.336
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K16552.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K16552.hmm.total.hmmsearch_result.txt --domT 332.10 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K16552.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:33:33 2023
+# [ok]

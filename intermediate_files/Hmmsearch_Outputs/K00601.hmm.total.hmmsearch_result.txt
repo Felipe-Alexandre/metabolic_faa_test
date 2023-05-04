@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_334       -          K00601               -            4.1e-54  182.8   0.5   4.7e-54  182.6   0.5   1.1   1   0   0   1   1   0   1 # 370523 # 371089 # 1 # ID=1_334;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.367
+LR130759.1_3924      -          K00601               -            3.5e-38  130.4   0.1     4e-38  130.2   0.1   1.0   1   0   0   1   1   0   1 # 4563497 # 4564084 # -1 # ID=1_3924;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.631
+LR130759.1_1546      -          K00601               -            5.2e-24   83.9   0.1   6.1e-24   83.6   0.1   1.1   1   0   0   1   1   0   1 # 1753282 # 1754178 # -1 # ID=1_1546;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.629
+OX366373.1_173       -          K00601               -              1e-14   53.3   0.0   1.4e-14   52.8   0.0   1.2   1   0   0   1   1   0   1 # 190531 # 191415 # 1 # ID=1_173;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.357
+LR130759.1_3239      -          K00601               -            2.8e-13   48.6   0.0   3.7e-13   48.2   0.0   1.2   1   0   0   1   1   0   1 # 3758989 # 3759927 # -1 # ID=1_3239;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.642
+OW370493.1_1557      -          K00601               -            3.9e-08   31.7   0.0   4.9e-08   31.4   0.0   1.1   1   0   0   1   1   0   1 # 1405454 # 1406410 # 1 # ID=1_1557;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.352
+LR130759.1_2020      -          K00601               -             0.0018   16.4   0.0    0.0024   15.9   0.0   1.1   1   0   0   1   1   0   1 # 2277445 # 2278389 # 1 # ID=1_2020;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.674
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00601.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K00601.hmm.total.hmmsearch_result.txt --domT 247.50 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00601.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:21:38 2023
+# [ok]

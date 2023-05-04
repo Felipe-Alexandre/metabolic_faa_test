@@ -1,0 +1,105 @@
+Category	Function	Gene abbreviation	GCA_900292015.1_MB901379_prodigal_out Function presence	GCA_936269705.1_RiOegib_v1.0_prodigal_out Function presence	GCA_947251655.1_ilPheTrem1.Wolbachia_sp_1.1_prodigal_out Function presence
+Thermophilic specific	Thermophilic specific	rgy	Absent	Absent	Absent
+Amino acid utilization	4-aminobutyrate aminotransferase and related aminotransferases	4-aminobutyrate aminotransferase and related aminotransferases	Present	Absent	Absent
+Amino acid utilization	Aminotransferase class I and II	aminotransferase class I and II	Present	Absent	Absent
+Amino acid utilization	Phosphoserine aminotransferase	phosphoserine aminotransferase	Present	Absent	Absent
+Amino acid utilization	Ornithine/acetylornithine aminotransferase	ornithine/acetylornithine aminotransferase	Present	Absent	Present
+Amino acid utilization	Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase	Present	Present	Absent
+Amino acid utilization	Aspartate/tyrosine/aromatic aminotransferase	aspartate/tyrosine/aromatic aminotransferase	Absent	Present	Present
+Amino acid utilization	Histidinol-phosphate/aromatic aminotransferase	histidinol-phosphate/aromatic aminotransferase	Present	Absent	Absent
+Amino acid utilization	Serine-pyruvate aminotransferase/archaeal aspartate aminotransferase	serine-pyruvate aminotransferase/archaeal aspartate aminotransferase	Absent	Absent	Absent
+Ethanol fermentation	Acetate => Acetaldehyde	acetate => acetaldehyde	Present	Absent	Absent
+Ethanol fermentation	Acetaldehyde => Ethanol	acetaldehyde => ethanol	Absent	Absent	Absent
+Fatty acid degradation	acyl-CoA dehydrogenase	acyl-CoA dehydrogenase	Present	Absent	Absent
+Aromatics degradation	Protocatechuate/Catechol degradation	catA	Absent	Absent	Absent
+Aromatics degradation	Phenol => Benzoyl-CoA	ubiX||bsdC	Absent	Present	Present
+Aromatics degradation	Benzoyl-CoA reduction	bcrABCD	Absent	Absent	Absent
+Complex carbon degradation	Cellulose degrading	cellobiosidase	Absent	Absent	Absent
+Complex carbon degradation	Cellulose degrading	cellulase	Absent	Absent	Absent
+Complex carbon degradation	Cellulose degrading	beta-glucosidase	Present	Absent	Absent
+Complex carbon degradation	Hemicullulose debranching	arabinosidase	Absent	Absent	Absent
+Complex carbon degradation	Hemicullulose debranching	beta-glucuronidase	Absent	Absent	Absent
+Complex carbon degradation	Hemicullulose debranching	alpha-L-rhamnosidase	Absent	Absent	Absent
+Complex carbon degradation	Endohemicellulases	mannan endo-1,4-beta-mannosidase	Absent	Absent	Absent
+Complex carbon degradation	Endohemicellulases	alpha-D-xyloside xylohydrolase	Absent	Absent	Absent
+Complex carbon degradation	Other oligosaccharide degrading	beta-xylosidase	Absent	Absent	Absent
+Complex carbon degradation	Other oligosaccharide degrading	beta-mannosidase	Absent	Absent	Absent
+Complex carbon degradation	Other oligosaccharide degrading	beta-galactosidase	Absent	Absent	Absent
+Complex carbon degradation	Amylolytic enzymes	alpha-amylase	Present	Absent	Absent
+Complex carbon degradation	Amylolytic enzymes	glucoamylase	Absent	Absent	Absent
+Complex carbon degradation	Amylolytic enzymes	pullulanase	Absent	Absent	Absent
+Complex carbon degradation	Amylolytic enzymes	isoamylase	Present	Absent	Absent
+Complex carbon degradation	Chitin degrading	chitiniase	Absent	Absent	Absent
+Complex carbon degradation	Chitin degrading	hexosaminidase	Present	Absent	Absent
+Fermentation	Pyruvate oxidation	porA	Absent	Absent	Absent
+Fermentation	Alcohol utilization	adh	Absent	Absent	Absent
+Fermentation	Lactate utilization	ldh	Absent	Absent	Absent
+Fermentation	Acetogenesis	acdA||ack||pta	Present	Absent	Absent
+Fermentation	Acetate to acetyl-CoA	acs	Present	Absent	Absent
+Fermentation	Pyruvate <=> acetyl-CoA + formate 	pflD	Absent	Absent	Absent
+C1 metabolism	Methanol oxidation	mxaF or mdh	Absent	Absent	Absent
+C1 metabolism	Methyl amine -> formaldehyde	mauAB	Absent	Absent	Absent
+C1 metabolism	Formaldehyde oxidation	fdhA||fghA||frmA||mycoS_dep_FDH||fae	Present	Absent	Absent
+C1 metabolism	Formate oxidation	fdoG||fdwB||fdoH||fdhAB	Absent	Absent	Absent
+C1 metabolism	Aerobic CO oxidation	coxS||coxM||coxL	Present	Absent	Absent
+Methane metabolism	Methane oxidation - Partculate methane monooxygenase	pmoABC	Absent	Absent	Absent
+Methane metabolism	Methane oxidation - Soluble methane monoxygenase	mmoBD	Absent	Absent	Absent
+Methane metabolism	Methane production	mcrABC	Absent	Absent	Absent
+Carbon fixation	CBB cycle - Rubisco (Form I)	Form I	Absent	Absent	Absent
+Carbon fixation	CBB cycle - Rubisco (Form II)	Form II	Absent	Absent	Absent
+Carbon fixation	3 Hydroxypropionate cycle	mcr||K14469	Absent	Absent	Absent
+Carbon fixation	3HP/4HB	K14466||K18861	Absent	Absent	Absent
+Carbon fixation	DC/4-HB	K18861||4hbl	Absent	Absent	Absent
+Carbon fixation	Wood Ljungdahl pathway	cdhD||cdhE||cooS	Absent	Absent	Absent
+Carbon fixation	Reverse TCA cycle	aclAB	Absent	Absent	Absent
+Nitrogen cycling	Ammonia oxidation	amoABC	Absent	Absent	Absent
+Nitrogen cycling	N2 fixation	anfDKG||nifDK||vnfDKG||nifH	Absent	Absent	Absent
+Nitrogen cycling	Nitrite oxidation	nxrAB	Absent	Absent	Absent
+Nitrogen cycling	Nitrate reduction	napAB||narGH	Absent	Absent	Absent
+Nitrogen cycling	Nitrite reduction to ammonia	nrfADH||nirBD	Present	Absent	Absent
+Nitrogen cycling	Nitrite reduction	nirKS||octR	Absent	Absent	Absent
+Nitrogen cycling	Nitric oxide reduction	norBC	Absent	Absent	Absent
+Nitrogen cycling	Nitrous oxide reduction	nosDZ	Absent	Absent	Absent
+Nitrogen cycling	Anammox	hzoA||hzsA	Absent	Absent	Absent
+Sulfur cycling	Sulfide oxidation	fccB||sqr	Absent	Absent	Absent
+Sulfur cycling	Sulfite reduction	dsrABD||asrABC	Absent	Absent	Absent
+Sulfur cycling	Sulfur oxidation	sdo||sor	Present	Absent	Absent
+Sulfur cycling	Sulfur reduction	sreABC||sor	Absent	Absent	Absent
+Sulfur cycling	Thiosulfate oxidation	soxBCY	Absent	Absent	Absent
+Sulfur cycling	Sulfate reduction	aprA||sat	Absent	Absent	Absent
+Sulfur cycling	Thiosulfate disproportionation	phsA	Absent	Absent	Absent
+Hydrogenases	FeFe hydrogenase	fefe-group-a13	Absent	Absent	Absent
+Hydrogenases	FeFe hydrogenase	fefe-group-a2	Absent	Absent	Absent
+Hydrogenases	FeFe hydrogenase	fefe-group-a4	Absent	Absent	Absent
+Hydrogenases	FeFe hydrogenase	fefe-group-b	Absent	Absent	Absent
+Hydrogenases	FeFe hydrogenase	fefe-group-c1	Absent	Absent	Absent
+Hydrogenases	FeFe hydrogenase	fefe-group-c2	Absent	Absent	Absent
+Hydrogenases	FeFe hydrogenase	fefe-group-c3	Absent	Absent	Absent
+Hydrogenases	Fe hydrogenase	fe	Absent	Absent	Absent
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-1	Present	Absent	Absent
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-2ade	Absent	Absent	Absent
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-2bc	Absent	Absent	Absent
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-3abd	Present	Absent	Absent
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-3c	Absent	Absent	Absent
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-4a-g	Absent	Absent	Absent
+Hydrogenases	Ni-Fe Hydrogenase	nife-group-4hi	Absent	Absent	Absent
+Oxidative phosphorylation	Complex I (NADH-quinone oxidoreductase)	nuoABC	Present	Present	Present
+Oxidative phosphorylation	Complex I (NAD(P)H-quinone oxidoreductase)	NdhABC	Absent	Absent	Absent
+Oxidative phosphorylation	Complex II (Succinate dehydrogenase/Fumarate reductase)	sdhCD	Present	Present	Present
+Oxidative phosphorylation	Complex III (Cytochrome c reductase)	petAB||fbcH	Absent	Present	Present
+Oxidative phosphorylation	Complex V (ATP synthase: V/A-type H+/Na+-transporting ATPase)	atpAB (V/A-type)	Absent	Absent	Absent
+Oxidative phosphorylation	Complex V (F-type H+-transporting ATPase)	atpAD (F-type)	Present	Present	Present
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome c oxidase, caa3-type	coxAB	Present	Present	Present
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome c oxidase, cbb3-type	ccoNOP	Absent	Absent	Absent
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome (quinone) oxidase, bo type	cyoABCD	Absent	Absent	Absent
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome (quinone) oxidase, bd type	cydAB	Present	Present	Absent
+Oxygen metabolism (Oxidative phosphorylation Complex IV)	Oxygen metabolism - cytochrome (quinone) oxidase, aa3 type, QoxABCD	qoxAB	Absent	Absent	Absent
+Urea utilization	Urease	ureABC	Present	Absent	Absent
+Halogenated compound utilization	Halogenated compounds breakdown	E3.8.1.2||pcpC||cprA||pceA	Absent	Absent	Absent
+Perchlorate reduction	Perchlorate reduction	pcrAB	Absent	Absent	Absent
+Chlorite reduction	Chlorite reduction	cld	Present	Absent	Absent
+As cycling	Arsenite oxidation	arxA||aioA	Absent	Absent	Absent
+As cycling	Arsenate reduction	arrA	Absent	Absent	Absent
+Selenate reduction	Selenate reduction	ygfMK||xdhD	Absent	Absent	Absent
+Nitrile hydration	Nitrile hydratase	nthAB	Absent	Absent	Absent
+Metal reduction	Metal (Iron/Manganese) reduction	Iron reduction series genes	Present	Present	Present

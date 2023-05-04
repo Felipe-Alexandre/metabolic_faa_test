@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_3         -          K11741               -            3.5e-40  137.3  16.5   3.8e-40  137.2  16.5   1.0   1   0   0   1   1   1   1 # 2697 # 3014 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.371
+OW370493.1_1911      -          K11741               -              7e-33  113.4  11.9   7.6e-33  113.3  11.9   1.0   1   0   0   1   1   1   1 # 1722462 # 1722779 # -1 # ID=1_1911;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.321
+LR130759.1_1405      -          K11741               -            1.5e-18   66.6  20.5   1.6e-18   66.5  20.5   1.0   1   0   0   1   1   0   1 # 1602645 # 1602968 # -1 # ID=1_1405;partial=00;start_type=GTG;rbs_motif=AGGAGG;rbs_spacer=3-4bp;gc_cont=0.639
+OW370493.1_63        -          K11741               -            0.00084   18.4   2.6     0.001   18.2   2.6   1.0   1   0   0   1   1   0   1 # 59569 # 59931 # 1 # ID=1_63;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.380
+LR130759.1_2865      -          K11741               -              0.011   14.8   0.0     0.012   14.7   0.0   1.1   1   0   0   1   1   0   0 # 3316760 # 3317137 # -1 # ID=1_2865;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.624
+LR130759.1_4580      -          K11741               -              0.014   14.5   6.2      0.04   13.0   6.2   1.9   1   1   0   1   1   0   0 # 5272342 # 5273199 # 1 # ID=1_4580;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=3-4bp;gc_cont=0.648
+LR130759.1_1125      -          K11741               -              0.022   13.8   0.2     0.024   13.7   0.2   1.1   1   0   0   1   1   0   0 # 1316496 # 1316807 # 1 # ID=1_1125;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.647
+OX366373.1_206       -          K11741               -               0.04   13.0   0.7     0.057   12.5   0.7   1.4   1   0   0   1   1   0   0 # 227444 # 227965 # -1 # ID=1_206;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.326
+OW370493.1_1160      -          K11741               -              0.054   12.5   3.4     0.079   12.0   3.4   1.2   1   0   0   1   1   0   0 # 1030911 # 1031291 # -1 # ID=1_1160;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.370
+LR130759.1_4666      -          K11741               -              0.099   11.7   3.2      0.12   11.5   3.2   1.2   1   0   0   1   1   0   0 # 5390968 # 5391354 # 1 # ID=1_4666;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.636
+OX366373.1_363       -          K11741               -               0.12   11.4   6.1      0.17   10.9   6.1   1.2   1   0   0   1   1   0   0 # 402252 # 402725 # -1 # ID=1_363;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=3-4bp;gc_cont=0.340
+LR130759.1_3088      -          K11741               -               0.31   10.0   4.2      0.32   10.0   4.2   1.1   1   0   0   1   1   0   0 # 3557277 # 3557522 # 1 # ID=1_3088;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.614
+LR130759.1_2141      -          K11741               -               0.42    9.6   3.3      0.57    9.2   3.3   1.2   1   0   0   1   1   0   0 # 2420398 # 2421369 # -1 # ID=1_2141;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.611
+LR130759.1_2547      -          K11741               -                  4    6.4   8.4       4.3    6.3   8.4   1.1   1   0   0   1   1   0   0 # 2915934 # 2916227 # 1 # ID=1_2547;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.646
+LR130759.1_4013      -          K11741               -                5.7    5.9  21.4       7.2    5.6  21.4   1.1   1   0   0   1   1   0   0 # 4675118 # 4675492 # 1 # ID=1_4013;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.608
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K11741.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K11741.hmm.total.hmmsearch_result.txt --domT 106.10 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K11741.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:28:14 2023
+# [ok]

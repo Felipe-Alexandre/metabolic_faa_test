@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_99        -          K04764               -            5.3e-33  113.1   0.7   5.8e-33  113.0   0.7   1.0   1   0   0   1   1   0   1 # 112612 # 112911 # -1 # ID=1_99;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.307
+LR130759.1_1520      -          K04764               -            2.3e-24   85.0   9.0   3.5e-24   84.4   9.0   1.3   1   1   0   1   1   0   1 # 1726882 # 1727388 # 1 # ID=1_1520;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.637
+OW370493.1_2252      -          K04764               -            6.1e-24   83.7   0.0   6.5e-24   83.6   0.0   1.0   1   0   0   1   1   0   1 # 2021456 # 2021731 # -1 # ID=1_2252;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.366
+OW370493.1_1180      -          K04764               -            2.2e-20   72.1   0.1   2.4e-20   72.0   0.1   1.0   1   0   0   1   1   0   1 # 1047434 # 1047805 # 1 # ID=1_1180;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.304
+OX366373.1_226       -          K04764               -              6e-18   64.2   0.2   6.6e-18   64.1   0.2   1.0   1   0   0   1   1   0   1 # 253623 # 253934 # -1 # ID=1_226;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.304
+OW370493.1_194       -          K04764               -            1.9e-11   43.1   0.1   2.2e-11   42.9   0.1   1.1   1   0   0   1   1   0   1 # 176556 # 176819 # 1 # ID=1_194;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.322
+OX366373.1_1017      -          K04764               -            2.9e-09   36.0   0.2   3.2e-09   35.9   0.2   1.1   1   0   0   1   1   0   1 # 1094560 # 1094838 # 1 # ID=1_1017;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.305
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K04764.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K04764.hmm.total.hmmsearch_result.txt --domT 116.90 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K04764.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:24:41 2023
+# [ok]

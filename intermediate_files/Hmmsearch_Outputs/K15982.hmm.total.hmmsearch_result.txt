@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_4342      -          K15982               -           1.2e-167  557.0   2.8  1.3e-167  556.9   2.8   1.0   1   0   0   1   1   1   1 # 5033947 # 5035131 # 1 # ID=1_4342;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.594
+LR130759.1_1735      -          K15982               -             2e-117  391.6   2.9  2.4e-117  391.4   2.9   1.0   1   0   0   1   1   1   1 # 1989021 # 1990046 # 1 # ID=1_1735;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.603
+LR130759.1_3404      -          K15982               -            1.9e-83  279.8   1.1   2.3e-83  279.5   1.1   1.0   1   0   0   1   1   0   1 # 3962706 # 3963881 # -1 # ID=1_3404;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+LR130759.1_3819      -          K15982               -            4.8e-17   61.1   0.2     6e-17   60.8   0.2   1.1   1   0   0   1   1   0   1 # 4450688 # 4451836 # 1 # ID=1_3819;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.657
+LR130759.1_218       -          K15982               -            4.3e-15   54.7   6.7   5.8e-15   54.3   6.7   1.1   1   0   0   1   1   0   1 # 223972 # 225342 # 1 # ID=1_218;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.630
+LR130759.1_1873      -          K15982               -            6.2e-14   50.9   0.5   9.9e-14   50.2   0.5   1.3   1   1   0   1   1   0   1 # 2122842 # 2124179 # -1 # ID=1_1873;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.627
+LR130759.1_160       -          K15982               -            9.8e-14   50.2   0.0   1.3e-13   49.8   0.0   1.1   1   0   0   1   1   0   1 # 157687 # 158937 # 1 # ID=1_160;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.614
+LR130759.1_140       -          K15982               -            1.5e-11   43.0   0.2   1.5e-11   43.0   0.2   1.1   1   0   0   1   1   0   1 # 138924 # 139529 # -1 # ID=1_140;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.619
+LR130759.1_4749      -          K15982               -            5.3e-10   37.9   0.3   8.4e-10   37.3   0.3   1.2   1   0   0   1   1   0   1 # 5498606 # 5500156 # 1 # ID=1_4749;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.609
+LR130759.1_3396      -          K15982               -            8.3e-10   37.3   0.1   1.1e-09   36.9   0.1   1.1   1   0   0   1   1   0   1 # 3956922 # 3957422 # 1 # ID=1_3396;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.645
+LR130759.1_4095      -          K15982               -            3.1e-08   32.1   0.3   4.2e-08   31.7   0.3   1.2   1   0   0   1   1   0   1 # 4751633 # 4752913 # 1 # ID=1_4095;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.592
+LR130759.1_4077      -          K15982               -            1.1e-05   23.7   2.2   3.7e-05   22.0   2.2   1.7   1   1   0   1   1   0   1 # 4736349 # 4736747 # 1 # ID=1_4077;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K15982.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K15982.hmm.total.hmmsearch_result.txt --domT 286.07 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K15982.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:31:37 2023
+# [ok]

@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_857       -          K18145               -            2.8e-21   74.7   0.0   7.7e-20   70.0   0.0   2.0   1   1   0   1   1   0   1 # 928334 # 929368 # -1 # ID=1_857;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.339
+OW370493.1_1928      -          K18145               -            5.4e-18   63.9   2.8   5.8e-17   60.5   2.8   2.1   1   1   0   1   1   0   1 # 1743694 # 1744695 # -1 # ID=1_1928;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.327
+OW370493.1_66        -          K18145               -            1.6e-07   29.4   0.3   9.9e-05   20.2   0.1   2.5   2   1   0   2   2   0   2 # 61273 # 62802 # -1 # ID=1_66;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.341
+OX366373.1_606       -          K18145               -              0.015   13.1   2.2      0.22    9.2   0.0   2.3   2   1   0   2   2   0   0 # 667505 # 669016 # 1 # ID=1_606;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.351
+OX366373.1_221       -          K18145               -              0.077   10.7   0.0      0.17    9.6   0.0   1.5   1   0   0   1   1   0   0 # 247062 # 249032 # -1 # ID=1_221;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.361
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K18145.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K18145.hmm.total.hmmsearch_result.txt --domT 445.20 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K18145.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:34:35 2023
+# [ok]

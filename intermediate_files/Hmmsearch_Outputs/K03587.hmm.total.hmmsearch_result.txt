@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_2880      -          K03587               -           2.3e-201  670.1  11.9  2.6e-201  669.9  11.9   1.0   1   0   0   1   1   1   1 # 3333563 # 3335656 # -1 # ID=1_2880;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.642
+OW370493.1_1738      -          K03587               -           5.4e-157  523.4   0.0  6.8e-157  523.1   0.0   1.0   1   0   0   1   1   1   1 # 1584723 # 1586432 # -1 # ID=1_1738;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.350
+OW370493.1_2757      -          K03587               -           1.8e-104  349.7   0.0  2.6e-104  349.2   0.0   1.1   1   0   0   1   1   0   1 # 2500491 # 2502341 # 1 # ID=1_2757;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.331
+OX366373.1_264       -          K03587               -            6.3e-82  275.2   0.0   1.4e-79  267.4   0.0   2.0   1   1   0   1   1   0   1 # 295664 # 297220 # 1 # ID=1_264;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.354
+LR130759.1_29        -          K03587               -            1.5e-72  244.2   8.5   1.1e-69  234.7   1.9   2.0   2   0   0   2   2   0   2 # 27913 # 29388 # -1 # ID=1_29;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.655
+LR130759.1_1639      -          K03587               -              8e-41  139.3   0.5   1.1e-40  138.8   0.5   1.1   1   0   0   1   1   0   1 # 1889615 # 1891438 # 1 # ID=1_1639;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.666
+OW370493.1_1247      -          K03587               -            1.1e-33  115.7   0.0   4.4e-28   97.1   0.0   3.2   2   1   0   2   2   0   2 # 1117518 # 1119887 # -1 # ID=1_1247;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.359
+OW370493.1_2813      -          K03587               -            1.1e-33  115.7   0.0   4.4e-28   97.1   0.0   3.2   2   1   0   2   2   0   2 # 2554808 # 2557177 # 1 # ID=1_2813;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.358
+LR130759.1_65        -          K03587               -            1.2e-25   89.2   6.4   1.9e-25   88.5   6.4   1.2   1   0   0   1   1   0   1 # 63787 # 66330 # 1 # ID=1_65;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.658
+LR130759.1_4508      -          K03587               -            8.9e-24   82.9   0.4   1.5e-23   82.2   0.4   1.2   1   0   0   1   1   0   1 # 5204870 # 5207284 # 1 # ID=1_4508;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K03587.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K03587.hmm.total.hmmsearch_result.txt --domT 466.33 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K03587.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:24:08 2023
+# [ok]

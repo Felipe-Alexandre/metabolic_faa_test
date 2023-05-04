@@ -1,0 +1,33 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_3258      -          K02063               -            1.6e-45  154.7  30.9   9.1e-31  106.0  20.1   2.0   1   1   1   2   2   0   2 # 3782687 # 3783505 # -1 # ID=1_3258;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.618
+LR130759.1_2499      -          K02063               -            4.2e-40  136.9  36.3   3.4e-23   81.0  12.2   2.0   1   1   1   2   2   0   2 # 2866802 # 2867596 # 1 # ID=1_2499;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.675
+LR130759.1_3259      -          K02063               -            1.7e-39  134.8  18.8     2e-39  134.6  18.8   1.1   1   0   0   1   1   0   1 # 3783502 # 3784353 # -1 # ID=1_3259;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.636
+OX366373.1_119       -          K02063               -            3.1e-38  130.7  21.1   3.8e-38  130.4  21.1   1.0   1   0   0   1   1   0   1 # 134623 # 136221 # -1 # ID=1_119;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.335
+LR130759.1_1701      -          K02063               -            4.1e-24   84.1  15.6   4.4e-24   84.0  15.6   1.0   1   0   0   1   1   0   1 # 1956402 # 1957301 # 1 # ID=1_1701;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.614
+LR130759.1_2763      -          K02063               -              4e-23   80.8  21.3   1.8e-15   55.5   9.3   2.0   1   1   1   2   2   0   2 # 3196644 # 3197573 # -1 # ID=1_2763;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.592
+LR130759.1_3614      -          K02063               -            8.4e-23   79.7  18.4   5.7e-22   77.0  16.3   1.9   1   1   1   2   2   0   2 # 4212532 # 4213371 # -1 # ID=1_3614;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.594
+LR130759.1_3953      -          K02063               -              1e-19   69.5  25.7   1.2e-19   69.3  25.7   1.0   1   0   0   1   1   0   1 # 4600590 # 4601492 # -1 # ID=1_3953;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.623
+LR130759.1_3169      -          K02063               -            3.2e-19   67.9  28.8   4.5e-19   67.4  28.8   1.1   1   0   0   1   1   0   1 # 3670122 # 3670994 # 1 # ID=1_3169;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.631
+LR130759.1_3615      -          K02063               -            6.8e-19   66.8  26.3   8.7e-19   66.5  26.3   1.0   1   0   0   1   1   0   1 # 4213361 # 4214302 # -1 # ID=1_3615;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.644
+OX366373.1_906       -          K02063               -            2.3e-16   58.5  21.1   3.2e-16   58.0  21.1   1.2   1   1   0   1   1   0   1 # 966404 # 967492 # -1 # ID=1_906;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.314
+LR130759.1_4190      -          K02063               -            1.4e-14   52.6  19.9   1.6e-14   52.3  19.9   1.1   1   0   0   1   1   0   1 # 4856710 # 4857633 # -1 # ID=1_4190;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.623
+LR130759.1_4191      -          K02063               -            3.2e-13   48.1  19.5   3.9e-13   47.8  19.5   1.0   1   0   0   1   1   0   1 # 4857630 # 4858622 # -1 # ID=1_4191;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.638
+LR130759.1_2762      -          K02063               -            7.3e-13   46.9  15.1   7.3e-13   46.9  15.1   1.9   1   1   0   1   1   0   1 # 3195815 # 3196657 # -1 # ID=1_2762;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.598
+OX366373.1_1061      -          K02063               -            1.7e-12   45.7   5.1   2.6e-12   45.1   5.1   1.2   1   0   0   1   1   0   1 # 1133497 # 1134750 # 1 # ID=1_1061;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.338
+LR130759.1_3954      -          K02063               -            2.2e-11   42.0  17.8   3.1e-11   41.5  17.8   1.3   1   0   0   1   1   0   1 # 4601489 # 4602463 # -1 # ID=1_3954;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.603
+LR130759.1_1702      -          K02063               -            6.2e-10   37.2  14.8   9.4e-10   36.6  14.8   1.2   1   0   0   1   1   0   1 # 1957298 # 1958134 # 1 # ID=1_1702;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.613
+LR130759.1_3170      -          K02063               -              1e-08   33.3  28.2   1.5e-08   32.6  28.2   1.3   1   0   0   1   1   0   1 # 3670981 # 3671808 # 1 # ID=1_3170;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.630
+LR130759.1_4663      -          K02063               -            6.4e-07   27.3  20.0   8.2e-07   26.9  20.0   1.1   1   0   0   1   1   0   1 # 5388116 # 5388793 # -1 # ID=1_4663;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.652
+OW370493.1_2235      -          K02063               -             0.0037   14.9   2.4    0.0086   13.7   2.2   1.7   1   1   0   1   1   0   1 # 2007261 # 2007920 # -1 # ID=1_2235;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.344
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02063.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K02063.hmm.total.hmmsearch_result.txt --domT 308.83 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K02063.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:22:53 2023
+# [ok]

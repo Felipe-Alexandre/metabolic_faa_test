@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_2113      -          K18545               -            2.5e-23   82.0   6.1   3.9e-23   81.4   6.1   1.4   1   1   0   1   1   0   1 # 2385618 # 2386583 # -1 # ID=1_2113;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+LR130759.1_4493      -          K18545               -            3.4e-16   58.6   7.9   5.6e-16   57.9   7.9   1.3   1   0   0   1   1   0   1 # 5192897 # 5193595 # -1 # ID=1_4493;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.652
+LR130759.1_2459      -          K18545               -            2.4e-12   45.9   7.5   6.3e-12   44.6   7.6   1.6   1   1   0   1   1   0   1 # 2816012 # 2816680 # 1 # ID=1_2459;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.647
+LR130759.1_1473      -          K18545               -              1e-06   27.5   1.8   2.6e-06   26.1   1.8   1.7   1   1   0   1   1   0   1 # 1670660 # 1671370 # 1 # ID=1_1473;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.657
+OW370493.1_1769      -          K18545               -            1.7e-05   23.5   0.1   2.9e-05   22.7   0.1   1.3   1   0   0   1   1   0   1 # 1611078 # 1612640 # -1 # ID=1_1769;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.336
+OX366373.1_1008      -          K18545               -            4.3e-05   22.2   1.0   4.3e-05   22.2   1.0   1.7   2   0   0   2   2   0   1 # 1080185 # 1081648 # 1 # ID=1_1008;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.331
+LR130759.1_236       -          K18545               -            8.7e-05   21.1   8.0   8.7e-05   21.1   8.0   1.8   1   1   1   2   2   0   1 # 250866 # 251939 # 1 # ID=1_236;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.669
+LR130759.1_4496      -          K18545               -              0.035   12.6   0.1     0.071   11.6   0.1   1.5   1   0   0   1   1   0   0 # 5195311 # 5196513 # -1 # ID=1_4496;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.653
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K18545.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K18545.hmm.total.hmmsearch_result.txt --domT 360.40 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K18545.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:34:56 2023
+# [ok]

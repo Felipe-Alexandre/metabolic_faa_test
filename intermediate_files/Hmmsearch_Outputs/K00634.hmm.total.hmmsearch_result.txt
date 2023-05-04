@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_583       -          K00634               -            3.5e-30  104.4   0.4   1.6e-26   92.3   0.4   2.3   1   1   0   1   1   0   1 # 669980 # 672070 # 1 # ID=1_583;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.629
+OW370493.1_442       -          K00634               -            2.8e-15   55.3   1.4   7.2e-08   30.9   0.0   2.2   2   0   0   2   2   0   2 # 399186 # 401456 # 1 # ID=1_442;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.364
+LR130759.1_816       -          K00634               -            0.00083   17.6   0.0   0.00083   17.6   0.0   1.1   1   0   0   1   1   0   1 # 922669 # 923097 # 1 # ID=1_816;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.655
+LR130759.1_245       -          K00634               -              0.027   12.6   0.0     0.027   12.6   0.0   1.1   1   0   0   1   1   0   0 # 260036 # 260491 # 1 # ID=1_245;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.607
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00634.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K00634.hmm.total.hmmsearch_result.txt --domT 265.40 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K00634.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:21:39 2023
+# [ok]

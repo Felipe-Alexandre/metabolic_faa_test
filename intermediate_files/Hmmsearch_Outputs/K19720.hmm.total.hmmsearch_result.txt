@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_1009      -          K19720               -            1.1e-20   72.4 205.1   4.8e-16   57.2 119.3   3.4   3   1   0   3   3   0   3 # 1082001 # 1086686 # 1 # ID=1_1009;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.386
+LR130759.1_174       -          K19720               -            7.4e-06   23.4  65.8   8.5e-06   23.2  65.8   1.1   1   0   0   1   1   0   1 # 171130 # 172818 # 1 # ID=1_174;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.674
+LR130759.1_4573      -          K19720               -              8e-05   20.0  14.6     8e-05   20.0  14.6   1.1   1   0   0   1   1   0   1 # 5264186 # 5264584 # -1 # ID=1_4573;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.684
+LR130759.1_981       -          K19720               -               0.37    7.9  37.4      0.37    7.8  37.4   1.0   1   0   0   1   1   0   0 # 1082442 # 1082876 # -1 # ID=1_981;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.703
+LR130759.1_4166      -          K19720               -               0.79    6.8  40.3       1.1    6.4  40.3   1.1   1   0   0   1   1   0   0 # 4830891 # 4832888 # 1 # ID=1_4166;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.624
+LR130759.1_1673      -          K19720               -               0.93    6.5  12.1       1.1    6.3  12.1   1.0   1   0   0   1   1   0   0 # 1923101 # 1923859 # 1 # ID=1_1673;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.777
+LR130759.1_1932      -          K19720               -                1.1    6.2  48.9       1.6    5.8  48.9   1.1   1   0   0   1   1   0   0 # 2181172 # 2183004 # 1 # ID=1_1932;partial=00;start_type=GTG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.659
+LR130759.1_1811      -          K19720               -                1.5    5.8 106.0         2    5.5 106.0   1.1   1   0   0   1   1   0   0 # 2062948 # 2064909 # -1 # ID=1_1811;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.662
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K19720.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K19720.hmm.total.hmmsearch_result.txt --domT 194.87 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K19720.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:36:24 2023
+# [ok]

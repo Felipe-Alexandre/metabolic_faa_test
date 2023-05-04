@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1035      -          K01867               -           4.1e-141  471.2   0.0  4.9e-141  470.9   0.0   1.0   1   0   0   1   1   1   1 # 1157950 # 1158981 # 1 # ID=1_1035;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.630
+OW370493.1_551       -          K01867               -           4.1e-136  454.7   0.4  4.5e-136  454.6   0.4   1.0   1   0   0   1   1   1   1 # 491198 # 492187 # 1 # ID=1_551;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.347
+OX366373.1_317       -          K01867               -           4.9e-134  447.8   0.1  5.8e-134  447.6   0.1   1.0   1   0   0   1   1   1   1 # 352150 # 353148 # 1 # ID=1_317;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.349
+LR130759.1_1036      -          K01867               -            8.6e-06   24.1   0.0   8.6e-06   24.1   0.0   1.1   1   0   0   1   1   0   1 # 1159061 # 1160011 # 1 # ID=1_1036;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K01867.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K01867.hmm.total.hmmsearch_result.txt --domT 138.23 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K01867.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:22:37 2023
+# [ok]

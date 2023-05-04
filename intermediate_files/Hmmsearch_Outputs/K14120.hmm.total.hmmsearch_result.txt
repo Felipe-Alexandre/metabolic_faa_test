@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OX366373.1_1186      -          K14120               -            8.4e-09   33.7  21.4   1.7e-07   29.4  10.9   1.6   1   1   1   2   2   0   2 # 1253670 # 1254152 # -1 # ID=1_1186;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.398
+OW370493.1_1642      -          K14120               -            1.4e-08   32.9  11.2   4.4e-08   31.3  11.2   1.7   1   1   0   1   1   0   1 # 1494673 # 1495158 # 1 # ID=1_1642;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.344
+LR130759.1_3677      -          K14120               -            4.1e-08   31.4   5.0   4.5e-08   31.3   5.0   1.0   1   0   0   1   1   0   1 # 4285811 # 4286137 # -1 # ID=1_3677;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.612
+LR130759.1_3029      -          K14120               -            4.2e-08   31.4   4.9   4.6e-08   31.3   4.9   1.0   1   0   0   1   1   0   1 # 3501519 # 3501845 # 1 # ID=1_3029;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.606
+OX366373.1_540       -          K14120               -            1.6e-07   29.4   6.5   1.9e-07   29.2   6.5   1.1   1   0   0   1   1   0   1 # 597283 # 597660 # -1 # ID=1_540;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.317
+LR130759.1_1289      -          K14120               -            1.7e-07   29.4   6.4   0.00025   18.9   0.6   2.0   1   1   0   2   2   0   2 # 1489154 # 1489699 # -1 # ID=1_1289;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.625
+OW370493.1_599       -          K14120               -            2.3e-07   29.0   6.1   2.5e-07   28.8   6.1   1.2   1   0   0   1   1   0   1 # 535695 # 536015 # 1 # ID=1_599;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.361
+LR130759.1_1891      -          K14120               -            6.3e-07   27.5   7.4   7.1e-07   27.3   7.4   1.0   1   0   0   1   1   0   1 # 2136963 # 2137352 # 1 # ID=1_1891;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.631
+LR130759.1_2755      -          K14120               -              1e-05   23.5   5.5   1.2e-05   23.3   5.5   1.0   1   0   0   1   1   0   1 # 3189355 # 3189699 # -1 # ID=1_2755;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.580
+LR130759.1_501       -          K14120               -             0.0003   18.7   3.5     0.064   11.0   0.2   2.4   2   0   0   2   2   0   2 # 557455 # 560391 # -1 # ID=1_501;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+LR130759.1_3997      -          K14120               -            0.00046   18.1   4.5   0.00067   17.5   4.5   1.1   1   0   0   1   1   0   1 # 4659570 # 4661258 # -1 # ID=1_3997;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.655
+LR130759.1_3074      -          K14120               -              0.019   12.7   6.9      0.58    7.9   1.9   2.0   2   0   0   2   2   0   0 # 3543884 # 3545026 # -1 # ID=1_3074;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.643
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K14120.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K14120.hmm.total.hmmsearch_result.txt --domT 215.33 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K14120.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:29:51 2023
+# [ok]

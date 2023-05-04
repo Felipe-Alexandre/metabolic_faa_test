@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1773      -          K14596               -            1.1e-41  142.4   3.4   1.7e-41  141.8   3.4   1.2   1   0   0   1   1   0   1 # 2027658 # 2028824 # 1 # ID=1_1773;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.707
+LR130759.1_1548      -          K14596               -            1.7e-37  128.6   1.3   2.2e-37  128.2   1.3   1.0   1   0   0   1   1   0   1 # 1755752 # 1757017 # 1 # ID=1_1548;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.664
+LR130759.1_2163      -          K14596               -            3.6e-36  124.2   0.4   4.1e-36  124.0   0.4   1.0   1   0   0   1   1   0   1 # 2455465 # 2456736 # -1 # ID=1_2163;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.625
+LR130759.1_109       -          K14596               -            2.8e-29  101.4   4.8   1.4e-27   95.8   4.8   2.0   1   1   0   1   1   0   1 # 106914 # 108122 # -1 # ID=1_109;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.663
+OX366373.1_1079      -          K14596               -            4.4e-10   38.1   0.1   1.9e-06   26.0   0.0   2.1   2   0   0   2   2   0   2 # 1151009 # 1152031 # 1 # ID=1_1079;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.346
+OW370493.1_1589      -          K14596               -              1e-09   36.9   0.0   0.00013   20.0   0.0   2.1   2   0   0   2   2   0   2 # 1434963 # 1436039 # 1 # ID=1_1589;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.341
+LR130759.1_2874      -          K14596               -            6.3e-06   24.4  11.8   6.3e-06   24.4  11.8   2.3   1   1   1   2   2   0   1 # 3324896 # 3326095 # -1 # ID=1_2874;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.706
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K14596.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K14596.hmm.total.hmmsearch_result.txt --domT 262.63 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K14596.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:30:04 2023
+# [ok]

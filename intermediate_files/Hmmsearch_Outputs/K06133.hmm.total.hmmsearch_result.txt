@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1715      -          K06133               -            1.1e-10   39.6   0.0   1.2e-10   39.5   0.0   1.0   1   0   0   1   1   0   1 # 1969154 # 1969825 # 1 # ID=1_1715;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+LR130759.1_3393      -          K06133               -            1.8e-09   35.6   0.5   1.2e-05   22.9   0.1   2.0   1   1   1   2   2   0   2 # 3945832 # 3946224 # -1 # ID=1_3393;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+OX366373.1_576       -          K06133               -            1.8e-09   35.6   0.0   1.2e-08   32.9   0.0   1.8   1   1   0   1   1   0   1 # 633010 # 633384 # -1 # ID=1_576;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.333
+OW370493.1_1669      -          K06133               -            5.2e-09   34.1   0.0   5.6e-09   34.0   0.0   1.0   1   0   0   1   1   0   1 # 1523236 # 1523637 # 1 # ID=1_1669;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.321
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K06133.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K06133.hmm.total.hmmsearch_result.txt --domT 61.83 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K06133.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:25:16 2023
+# [ok]

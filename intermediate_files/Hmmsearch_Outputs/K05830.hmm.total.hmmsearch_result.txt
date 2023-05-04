@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_2270      -          K05830               -           8.2e-120  399.1   0.1  1.1e-119  398.7   0.1   1.0   1   0   0   1   1   0   1 # 2593840 # 2595042 # 1 # ID=1_2270;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.653
+OX366373.1_89        -          K05830               -           2.7e-115  384.2   0.0  3.3e-115  383.9   0.0   1.0   1   0   0   1   1   0   1 # 103312 # 104490 # 1 # ID=1_89;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.365
+OX366373.1_57        -          K05830               -           3.2e-106  354.3   0.0  3.8e-106  354.0   0.0   1.0   1   0   0   1   1   0   1 # 60632 # 61801 # 1 # ID=1_57;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.362
+LR130759.1_1101      -          K05830               -           7.4e-106  353.1   0.0  5.1e-104  347.1   0.0   2.0   1   1   0   1   1   0   1 # 1286753 # 1288018 # -1 # ID=1_1101;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.684
+LR130759.1_3174      -          K05830               -           5.5e-100  333.8   0.0  7.2e-100  333.4   0.0   1.0   1   0   0   1   1   0   1 # 3675541 # 3676785 # -1 # ID=1_3174;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.631
+LR130759.1_1930      -          K05830               -              3e-92  308.3   3.6     3e-90  301.7   3.6   2.0   1   1   0   1   1   0   1 # 2179142 # 2180482 # -1 # ID=1_1930;partial=00;start_type=GTG;rbs_motif=AGGAGG;rbs_spacer=3-4bp;gc_cont=0.655
+LR130759.1_3136      -          K05830               -            3.4e-75  252.2   0.0   3.7e-73  245.5   0.0   2.6   1   1   0   1   1   0   1 # 3638818 # 3640173 # 1 # ID=1_3136;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.634
+LR130759.1_2046      -          K05830               -            2.2e-70  236.3   0.0   3.6e-41  140.1   0.1   2.1   2   0   0   2   2   0   2 # 2307157 # 2310096 # -1 # ID=1_2046;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.660
+LR130759.1_2192      -          K05830               -            2.4e-58  196.7   0.0   4.2e-58  195.9   0.0   1.2   1   1   0   1   1   0   1 # 2495457 # 2496782 # 1 # ID=1_2192;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.664
+LR130759.1_1123      -          K05830               -            2.9e-58  196.4   0.0   1.1e-57  194.5   0.0   1.8   1   1   0   1   1   0   1 # 1314557 # 1315900 # 1 # ID=1_1123;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.663
+LR130759.1_729       -          K05830               -              5e-49  166.0   0.2   1.3e-48  164.7   0.2   1.4   1   1   0   1   1   0   1 # 831704 # 833044 # 1 # ID=1_729;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.676
+LR130759.1_2193      -          K05830               -             0.0031   15.3   0.4     0.005   14.6   0.4   1.4   1   1   0   1   1   0   1 # 2496787 # 2497950 # 1 # ID=1_2193;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.698
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K05830.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K05830.hmm.total.hmmsearch_result.txt --domT 509.07 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K05830.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:25:06 2023
+# [ok]

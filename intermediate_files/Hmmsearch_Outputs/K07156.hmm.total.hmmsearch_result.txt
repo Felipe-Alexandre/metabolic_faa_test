@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LR130759.1_1791      -          K07156               -            2.3e-05   23.4   0.0   2.3e-05   23.4   0.0   3.0   3   0   0   3   3   0   1 # 2046714 # 2049131 # 1 # ID=1_1791;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.666
+LR130759.1_3773      -          K07156               -            0.00067   18.6   0.1    0.0012   17.8   0.1   1.4   1   0   0   1   1   0   1 # 4397002 # 4397976 # 1 # ID=1_3773;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.649
+LR130759.1_553       -          K07156               -             0.0012   17.8   3.5    0.0021   17.0   3.4   1.5   1   1   0   1   1   0   1 # 632303 # 633115 # -1 # ID=1_553;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.657
+LR130759.1_21        -          K07156               -             0.0023   16.9   4.0    0.0026   16.7   4.0   1.1   1   0   0   1   1   0   1 # 21167 # 21595 # -1 # ID=1_21;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.706
+LR130759.1_4202      -          K07156               -             0.0028   16.6   9.3    0.0028   16.6   9.3   1.8   2   0   0   2   2   0   1 # 4868436 # 4869962 # 1 # ID=1_4202;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.664
+LR130759.1_4384      -          K07156               -              0.036   12.9   2.8     0.036   12.9   2.8   1.0   1   0   0   1   1   0   0 # 5077534 # 5077785 # 1 # ID=1_4384;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.659
+LR130759.1_3754      -          K07156               -              0.042   12.7   0.9     0.038   12.9   0.9   1.0   1   0   0   1   1   0   0 # 4378646 # 4378855 # -1 # ID=1_3754;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+LR130759.1_544       -          K07156               -                0.1   11.5   5.7     0.047   12.6   1.1   2.0   2   0   0   2   2   0   0 # 621849 # 622487 # 1 # ID=1_544;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.659
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/pedro/felipe/METABOLIC/kofam_database/profiles/K07156.hmm
+# Target file:     /home/pedro/felipe//total.faa
+# Option settings: hmmsearch --tblout metabolic_faa_test/intermediate_files/Hmmsearch_Outputs/K07156.hmm.total.hmmsearch_result.txt --domT 86.23 --cpu 1 /home/pedro/felipe/METABOLIC/kofam_database/profiles/K07156.hmm /home/pedro/felipe//total.faa 
+# Current dir:     /home/pedro/felipe
+# Date:            Thu Apr 27 14:25:58 2023
+# [ok]
